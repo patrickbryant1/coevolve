@@ -1,11 +1,11 @@
 #! /usr/bin/env python3
 # -*- coding: utf-8 -*-
 
-
+from collections import defaultdict
 import argparse
 import sys
 import os
-
+import pdb
 #Arguments for argparse module:
 parser = argparse.ArgumentParser(description = '''Analyze the signal in docked interphases. ''')
 parser.add_argument('--docked_dir', nargs=1, type= str, default=sys.stdin, help = 'Path to directory with docked complexes and their pdb files.')
@@ -43,22 +43,34 @@ def read_pdb(pdbfile):
 	prev_res = -1 #Keep track of potential alternative residues
 	with open(pdbfile, 'r') as file:
 		for line in file:
-			record = parse_atm_record(line)
-			if record['atm_name'] == 'CA':
-				if record['res_no'] == prev_res:
+			try:
+				record = parse_atm_record(line)#Parse line
+			except:
+				print(line)
+				continue
+			if record['atm_name'] == 'CA': #If CA
+				if record['res_no'] == prev_res: #If prev, skip
 					continue
-				else:
+				else: #Save residue otherwise
 					prev_res = record['res_no']
 					sequence += three_to_one[record['res_name']]
-					res_numbers.append(record['res_no']]
+					res_numbers.append(record['res_no'])
 
 
 	return sequence, res_numbers
 
 
-def get_interphase_score():
+def get_interphase_score(docked_dir, signal_dir, outdir):
 	'''Calculate the score in the docked interphase
 	'''
+
+	docked_ids = ['P32914_P27692_2EXU_AA']
+	
+	for di in docked_ids: 
+		seq1, res1 = read_pdb(docked_dir+di+'_u1.pdb')#protein 1
+		int1, int_res1 = read_pdb(docked_dir+di+'_u1_M_i1.pdb') #interphase of protein 1
+		pdb.set_trace()
+
 
 
 #MAIN
@@ -66,3 +78,4 @@ args = parser.parse_args()
 docked_dir = args.docked_dir[0]
 signal_dir = args.signal_dir[0]
 outdir = args.outdir[0]
+get_interphase_score(docked_dir, signal_dir, outdir)
