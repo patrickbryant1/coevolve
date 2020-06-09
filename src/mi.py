@@ -5,6 +5,9 @@ import numpy as np
 import argparse
 import sys
 import os
+from collections import Counter
+import matplotlib.pyplot as plt
+import time
 import pdb
 #Arguments for argparse module:
 parser = argparse.ArgumentParser(description = '''Calculate Mutual Information in MSA. ''')
@@ -34,10 +37,20 @@ def read_a3m(infile):
 def calc_mi(a3m_matrix):
     '''Calculate the MI of a MSA in a3m format
     '''
-    n,m = a3m_matrix.shape #n rows m columns
-    for i in range(n):
-        for j in range(m):
-            
+    n,m = a3m_matrix.shape #n rows(sequences) m columns(amino acids)
+    mi_matrix = np.zeros((m,m))
+    #Time process
+    t1 = time.clock()
+    for i in range(m):#All amino acids
+        for j in range(i,m):#upper triangular columns
+            #MI
+            Sij = MI(a3m_matrix,i,j)
+            mi_matrix[i,j]=Sij
+    t2 = time.clock()
+    print('MI calculation took ', t2-t1, ' s')
+    pdb.set_trace()
+    plt.imshow(mi_matrix)
+
     return None
 
 def MI(sequences,i,j):
@@ -45,8 +58,7 @@ def MI(sequences,i,j):
     Pi = Counter(s[i] for s in sequences)
     Pj = Counter(s[j] for s in sequences)
     Pij = Counter((s[i],s[j]) for s in sequences)
-
-    return sum(Pij[(x,y)]*log(Pij[(x,y)]/(Pi[x]*Pj[y])) for x,y in Pij)
+    return sum(Pij[(x,y)]*np.log(Pij[(x,y)]/(Pi[x]*Pj[y])) for x,y in Pij)
 
 #MAIN
 args = parser.parse_args()
@@ -54,4 +66,5 @@ infile = args.infile[0]
 outfile = args.outfile[0]
 #Read in msa
 a3m_matrix = read_a3m(infile)
+calc_mi(a3m_matrix)
 pdb.set_trace()
