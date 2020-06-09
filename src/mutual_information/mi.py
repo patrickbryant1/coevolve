@@ -142,7 +142,7 @@ name_pair = names[0]+'_'+names[1]
 #Read in msa
 a3m_matrix = read_a3m(infile)
 #Calculate mututal information
-mi_matrix = calc_mi(a3m_matrix, name_pair, outdir)
-#mi_matrix = np.load('O13297_Q01159.npy', allow_pickle=True)
+#mi_matrix = calc_mi(a3m_matrix, name_pair, outdir)
+mi_matrix = np.load(outdir+'O13297_Q01159.npy', allow_pickle=True)
 #Perform APC
 APC(mi_matrix, l1, l2, name_pair, outdir)
