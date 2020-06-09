@@ -36,7 +36,7 @@ def read_a3m(infile):
 
     return np.array(parsed, dtype=np.int8, order='F')
 
-def calc_mi(a3m_matrix, l1, l2, names, outdir):
+def calc_mi(a3m_matrix, name_pair, outdir):
     '''Calculate the MI of a MSA in a3m format
     '''
     n,m = a3m_matrix.shape #n rows(sequences) m columns(amino acids)
@@ -56,11 +56,11 @@ def calc_mi(a3m_matrix, l1, l2, names, outdir):
     t2 = time.clock()
     print('MI calculation took ', t2-t1, ' s')
     #Save matrix
-    np.save(outdir+names+'.npy',mi_matrix)
+    np.save(outdir+name_pair+'.npy',mi_matrix)
     #Plot
-    plot_mi(mi_matrix, outdir+names+'.png')
-    pdb.set_trace()
-    return None
+    plot_mi(mi_matrix, outdir+name_pair+'.png')
+
+    return mi_matrix
 
 def calc_pi(sequences,m):
     '''Calculate the freq of observing aa x in position i for all i.
@@ -79,6 +79,14 @@ def MI(sequences,i,j,ind_freq):
     #log10 or ln?
     return sum(Pij[(x,y)]*np.log(Pij[(x,y)]/(Pi[x]*Pj[y])) for x,y in Pij)
 
+def plot_mi(matrix, outname):
+    '''Visualize matrix'''
+    fig, ax = plt.subplots(figsize=(12,12))
+    plt.imshow(matrix)
+    fig.savefig(outname, format='png', dpi=300)
+    plt.close()
+
+
 def APC(mi_matrix, l1, l2):
     '''
     l1 = length of protein 1
@@ -89,17 +97,14 @@ def APC(mi_matrix, l1, l2):
     by subtracting the “average product” from the originalmeasurement Sij of co-evolutionary signal:
     '''
     corrected_mi = np.zeros(mi_matrix.shape)
-    n,m = mi_matrix.shape
     #Intra protein corrections (aa within the same protein)
     #Protein 1
-    Si = np.sum(mi_matrix[:l1,:l1],axis=0)#sum of signal over
-    Sj = np.sum(mi_matrix[:l1,:l1],axis=1)
-
-def plot_mi(matrix, outname):
-    fig, ax = plt.subplots(figsize=(12,12))
-    plt.imshow(matrix)
-    fig.savefig(outname, format='png', dpi=300)
-    plt.close()
+    for l in [l1,l2]:
+        Si_sum = np.sum(mi_matrix[:l,:l],axis=0)#sum of signal over rows
+        Sj_sum = np.sum(mi_matrix[:l,:l],axis=1)#sum of signal over columns
+        Sij_sum = np.sum(mi_matrix[:l,:l]) #sum over complete area
+        apc = -np.outer(Si_sum,Sj_sum)/Sij_sum
+        corrected_mi[:l,:l] = mi_matrix[:l,:l]-apc[:l,:l]
 
 
 #MAIN
@@ -112,8 +117,12 @@ names = infile.split('/')[-1].split('.')[0].split('_')
 #Get protein lengths
 l1 = seqlens[seqlens['Protein']==names[0]]['Length'].values[0]
 l2 = seqlens[seqlens['Protein']==names[1]]['Length'].values[0]
-
+name_pair = names[0]+'_'+names[1]
 #Read in msa
 a3m_matrix = read_a3m(infile)
-calc_mi(a3m_matrix, l1, l2, names, outdir)
+#Calculate mututal information
+#mi_matrix = calc_mi(a3m_matrix, name_pair, outdir)
+mi_matrix = np.load('O13297_Q01159.npy', allow_pickle=True)
+#Perform APC
+APC(mi_matrix, l1, l2)
 pdb.set_trace()
