@@ -1,3 +1,4 @@
 INFILE=O13297_Q01159_100.a3m
-OUTFILE=O13297_Q01159_100_mi.npy
-./mi.py --infile $INFILE --outfile $OUTFILE
+OUTDIR=./
+SEQLENS=/home/patrick/coevolve/src/seqlen.txt
+./mi.py --infile $INFILE --outdir $OUTDIR --seqlens $SEQLENS
