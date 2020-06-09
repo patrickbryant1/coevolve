@@ -56,9 +56,9 @@ def calc_mi(a3m_matrix, name_pair, outdir):
     t2 = time.clock()
     print('MI calculation took ', t2-t1, ' s')
     #Save matrix
-    np.save(outdir+name_pair+'.npy',mi_matrix)
+    np.save(outdir+name_pair+'_uncorr.npy',mi_matrix)
     #Plot
-    plot_mi(mi_matrix, outdir+name_pair+'.png')
+    plot_mi(mi_matrix, outdir+name_pair+'_uncorr.png')
 
     return mi_matrix
 
@@ -126,7 +126,8 @@ def APC(mi_matrix, l1, l2, name_pair, outdir):
     np.save(outdir+name_pair+'_per_protein_corr.npy',corrected_mi)
     #Plot
     plot_mi(corrected_mi, outdir+name_pair+'_per_protein_corr.png')
-
+    #Get average MI for later, further APC
+    print('Average MI,'+name_pair+','+str(np.average(corrected_mi)))
 
 #MAIN
 args = parser.parse_args()
@@ -142,7 +143,7 @@ name_pair = names[0]+'_'+names[1]
 #Read in msa
 a3m_matrix = read_a3m(infile)
 #Calculate mututal information
-#mi_matrix = calc_mi(a3m_matrix, name_pair, outdir)
-mi_matrix = np.load(outdir+'O13297_Q01159.npy', allow_pickle=True)
+mi_matrix = calc_mi(a3m_matrix, name_pair, outdir)
+#mi_matrix = np.load(outdir+'O13297_Q01159.npy', allow_pickle=True)
 #Perform APC
 APC(mi_matrix, l1, l2, name_pair, outdir)
