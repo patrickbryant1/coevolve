@@ -6,7 +6,6 @@ import argparse
 import sys
 import os
 from collections import Counter
-import matplotlib.pyplot as plt
 import time
 import pandas as pd
 import pdb
@@ -54,11 +53,11 @@ def calc_mi(a3m_matrix, name_pair, outdir):
             mi_matrix[i,j]=Sij#upper triangular assignment
             mi_matrix[j,i]=Sij#lower triangular assignment
     t2 = time.clock()
-    print('MI calculation took ', t2-t1, ' s')
+    #print('MI calculation took ', t2-t1, ' s')
     #Save matrix
-    np.save(outdir+name_pair+'_uncorr.npy',mi_matrix)
+    #np.save(outdir+name_pair+'_uncorr.npy',mi_matrix)
     #Plot
-    plot_mi(mi_matrix, outdir+name_pair+'_uncorr.png')
+    #plot_mi(mi_matrix, outdir+name_pair+'_uncorr.png')
 
     return mi_matrix
 
@@ -110,9 +109,9 @@ def APC(mi_matrix, l1, l2, name_pair, outdir):
     apc = sum_and_correct(matrix_sel)
     corrected_mi[:l1,:l1] = mi_matrix[:l1,:l1]-apc
     #Protein 2
-    matrix_sel = mi_matrix[l2:,l2:]
+    matrix_sel = mi_matrix[l1:,l1:]
     apc = sum_and_correct(matrix_sel)
-    corrected_mi[l2:,l2:] = mi_matrix[l2:,l2:]-apc
+    corrected_mi[l1:,l1:] = mi_matrix[l1:,l1:]-apc
     #Inter protein corrections (aa btw proteins)
     #Lower triangular
     matrix_sel = mi_matrix[l1:,:l1]
@@ -125,7 +124,7 @@ def APC(mi_matrix, l1, l2, name_pair, outdir):
     #Save matrix
     np.save(outdir+name_pair+'_per_protein_corr.npy',corrected_mi)
     #Plot
-    plot_mi(corrected_mi, outdir+name_pair+'_per_protein_corr.png')
+    #plot_mi(corrected_mi, outdir+name_pair+'_per_protein_corr.png')
     #Get average MI for later, further APC
     print('Average MI,'+name_pair+','+str(np.average(corrected_mi)))
 
@@ -140,6 +139,7 @@ names = infile.split('/')[-1].split('.')[0].split('_')
 l1 = seqlens[seqlens['Protein']==names[0]]['Length'].values[0]
 l2 = seqlens[seqlens['Protein']==names[1]]['Length'].values[0]
 name_pair = names[0]+'_'+names[1]
+pdb.set_trace()
 #Read in msa
 a3m_matrix = read_a3m(infile)
 #Calculate mututal information
