@@ -139,7 +139,6 @@ names = infile.split('/')[-1].split('.')[0].split('_')
 l1 = seqlens[seqlens['Protein']==names[0]]['Length'].values[0]
 l2 = seqlens[seqlens['Protein']==names[1]]['Length'].values[0]
 name_pair = names[0]+'_'+names[1]
-pdb.set_trace()
 #Read in msa
 a3m_matrix = read_a3m(infile)
 #Calculate mututal information
