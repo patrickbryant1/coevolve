@@ -11,10 +11,6 @@
 #include <array>
 #include <map>
 
-#include <typeinfo>
-
-#include"cnpy.h"
-
 std::string split(std::string str, const char delim, int pos){
     int count = 0, pointer = 0;
     std::string token, prev;
@@ -53,16 +49,19 @@ double MI(std::vector< std::vector < int > > parsedmsa,
 
     std::array < double, 21 > Pi = msafreqs[i], Pj = msafreqs[j];
 
+	// for each seq in parsed msa, count the co-occurrences of aa 	
+	// in positions i & j, if none of those are gaps	
+
     for (seq=0; seq<parsedmsa.size(); seq++) {
-        //std::cout << seq << "/" << parsedmsa.size() << " " <<  parsedmsa[seq][i] << " ### " << parsedmsa[seq][j] << std::endl;
 	if (parsedmsa[seq][i]!=21 && parsedmsa[seq][j]!=21) {
     	    couple[0]=parsedmsa[seq][i];
 	    couple[1]=parsedmsa[seq][j];
-            //std::cout << couple[0] << couple[1] << std::endl;
 	    jointfreqs[couple] ++;
         }
     }
-    //std::cout << jointfreqs[{8,6}] << std::endl;
+
+	// normalize each count on the total number of aminoacid	
+        // combinations occurrences					
 
 //    for (auto coupleidx=jointfreqs.begin(); coupleidx!=jointfreqs.end(); coupleidx++) {
 //        count += coupleidx->second;
@@ -71,14 +70,16 @@ double MI(std::vector< std::vector < int > > parsedmsa,
 //        jointfreqs[coupleidx->first] = coupleidx->second/count;
 //    }
 
+	// given the joint frequencies of co-occurrence (Pij) and the marginal
+        // frequencies (Pi[x] & Pj[y]) for each pair of residues, calculates the 
+        // mutual information
+
     for (auto coupleidx=jointfreqs.begin(); coupleidx!=jointfreqs.end(); coupleidx++) {
 	Pij = coupleidx->second;
         x = coupleidx->first[0];
 	y = coupleidx->first[1];
         mi += Pij*log(Pij/(Pi[x]*Pj[y]));
-//        std::cout << Pij << " " << Pi[x] << " " << Pj[y] << std::endl;
      }
-//    std::cout << mi << std::endl;   
     return mi;
 }
 
@@ -101,7 +102,6 @@ int main (int argc, char** argv){
     std::ofstream outfile;
     std::vector< std::vector < int > > parsedmsa;
 
-    std::vector< double > mi_line;
     std::vector< std::vector < double > > mi_matrix;
     std::vector< std::array < double, 21 > > msafreqs;
 
@@ -119,8 +119,12 @@ int main (int argc, char** argv){
 
     msafile.open(msapath);
     if(!msafile) throw std::runtime_error("Unable to open msa file!");
+    outfile.open(outpath+"array_cpp.npy");
+    if(!outfile) throw std::runtime_error("Unable to open output file!");
 
-    // Check MSA shape //
+
+	// Check MSA parameters: number of hits (hitcount) and alignment length (minlength)
+
     while (std::getline(msafile, msaline)) {
         if (msaline.at(0) == '>') {
 	    if (minlength == 0 || msalength < minlength) {minlength = msalength;}
@@ -129,19 +133,22 @@ int main (int argc, char** argv){
         else {msalength += msaline.length();}
     }
 
+	// Reset input file read and initialize datastructure 
+
     msafile.clear();
     msafile.seekg(0, std::ios::beg);
     parsedmsa.resize(hitcount, std::vector< int > (minlength, 0) );
     msafreqs.resize(minlength, std::array< double, 21 > {0});
 
-    // MSA parsing, removing lowcase residues and seqs with more than 80% gaps  //
+	// MSA parsing, removing lowcase residues and seqs with more than 90% gaps
+
     j = 0;
     while (std::getline(msafile, msaline)) {
         if (msaline.at(0) != '>') {
             for (i=0; i<msaline.length(); i++) {if (msaline.at(i) == '-') {gapcount ++;}}
             msahit += msaline;
         }
-        if ((msaline.at(0) == '>' || msafile.eof()) && msahit != "") {
+        if (msaline.at(0) == '>' && msahit != "") {
             if (gapcount/minlength < 0.9) {           
                 for (i=0; i<msahit.length(); i++) {
                     if (aamap.find(msahit.at(i)) != aamap.end()) {parsedmsa[j][i] = aamap.at(msahit.at(i));}
@@ -152,6 +159,9 @@ int main (int argc, char** argv){
         }
         std::cout << msaline << std::endl;
     }
+
+	// adds the last MSA hit, which is complete reaching EOF (out of the while loop)
+
     if (gapcount/minlength < 0.9) {
         for (i=0; i<msahit.length(); i++) { 
             if (aamap.find(msahit.at(i)) != aamap.end()) {parsedmsa[j][i] = aamap.at(msahit.at(i));}
@@ -159,21 +169,13 @@ int main (int argc, char** argv){
     }
     j++; parsedmsa.resize(j);
      
+	// Counting of aminoacids occurrence for each position in the MSA
 
-  
-//    std::cout << parsedmsa.size() << " " << j << std::endl;
-//    std::cout << parsedmsa[0].size() << " " << minlength << std::endl;
-//    for (i=0; i<20; i++) {
-//    for (count=20; count<40; count++) { std::cout << parsedmsa[i][count] << " ";}
-//    std::cout << std::endl;
-//    }
-//    std::cout << "#######" << std::endl;
-
-
-    // AA frequency for each position of the MSA //
     for (j=0; j<parsedmsa.size(); j++) {
         for (i=0; i<minlength; i++) {msafreqs[i][parsedmsa[j][i]]++;}
     }
+
+	// Computing frequencies for the obtained counts
 
 //    for (i=0; i<msafreqs.size(); i++) {
 //        count = 0;
@@ -182,21 +184,28 @@ int main (int argc, char** argv){
 //    }
 
 
-    // MI calculation //
-    mi_line.resize(minlength, 0.0);
-    mi_matrix.resize(minlength, mi_line);
+	// MI calculation
+
+    mi_matrix.resize(minlength, std::vector < double > (minlength, 0.0));
 
     for (i=0; i<msalength; i++) {
         for (j=i+1; j<msalength; j++) {
-            mi = MI(parsedmsa, msafreqs, i, j);
+            mi = MI(parsedmsa, msafreqs, i, j); 
             mi_matrix[i][j] = mi;
 	    mi_matrix[j][i] = mi;
+            std::cout<< i << " "<< j << " " << mi << std::endl;
         }
     }
-
+    
     msafile.close();
 
-    cnpy::npy_save("array_cpp.npy", &mi_matrix[0][0], {minlength, minlength}, "w");
+	// MI matrix save 
+ 
+    for (i=0; i<msalength; i++) {
+        for (j=0; j<msalength; j++) { outfile << mi_matrix[i][j] << " ";}
+        outfile << "\n";
+        }
+    outfile.close();
 
     std::cout << "Done!" << std::endl;
 
