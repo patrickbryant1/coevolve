@@ -157,7 +157,7 @@ int main (int argc, char** argv){
             }
             msahit = ""; gapcount = 0;
         }
-        std::cout << msaline << std::endl;
+        //std::cout << msaline << std::endl;
     }
 
 	// adds the last MSA hit, which is complete reaching EOF (out of the while loop)
@@ -193,7 +193,7 @@ int main (int argc, char** argv){
             mi = MI(parsedmsa, msafreqs, i, j);
             mi_matrix[i][j] = mi;
 	    mi_matrix[j][i] = mi;
-            std::cout<< i << " "<< j << " " << mi << std::endl;
+            //std::cout<< i << " "<< j << " " << mi << std::endl;
         }
     }
 

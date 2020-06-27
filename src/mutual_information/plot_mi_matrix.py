@@ -27,6 +27,8 @@ def plot_mi(matrix, outname):
 args = parser.parse_args()
 infile = args.infile[0]
 outname= args.outname[0]
-
-matrix = np.load(infile, allow_pickle=True)
+try:
+    matrix = np.load(infile, allow_pickle=True)
+except:
+    matrix = np.loadtxt(infile)
 plot_mi(matrix, outname)
