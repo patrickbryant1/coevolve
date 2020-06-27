@@ -8,6 +8,7 @@ import os
 from collections import Counter
 import time
 import pandas as pd
+import matplotlib.pyplot as plt
 import pdb
 #Arguments for argparse module:
 parser = argparse.ArgumentParser(description = '''Calculate Mutual Information in MSA. ''')
@@ -53,11 +54,11 @@ def calc_mi(a3m_matrix, name_pair, outdir):
             mi_matrix[i,j]=Sij#upper triangular assignment
             mi_matrix[j,i]=Sij#lower triangular assignment
     t2 = time.clock()
-    #print('MI calculation took ', t2-t1, ' s')
+    print('MI calculation took ', t2-t1, ' s')
     #Save matrix
-    #np.save(outdir+name_pair+'_uncorr.npy',mi_matrix)
+    np.save(outdir+name_pair+'_uncorr.npy',mi_matrix)
     #Plot
-    #plot_mi(mi_matrix, outdir+name_pair+'_uncorr.png')
+    plot_mi(mi_matrix, outdir+name_pair+'_uncorr.png')
 
     return mi_matrix
 
@@ -66,12 +67,13 @@ def calc_pi(sequences,m):
     m = number of amino acids'''
     ind_freq = []
     for i in range(m):
-        ind_freq.append(Counter(s[i] for s in sequences))
+        ind_freq.append(Counter(s[i] for s in sequences if s[i] != 21))
     return ind_freq
 
 def MI(sequences,i,j,ind_freq):
     '''Calculate MI'''
-    sequences = [s for s in sequences if not '-' in [s[i],s[j]]]
+    #Get all sequences for which there is no 21 at position i or j
+    sequences = [s for s in sequences if not 21 in [s[i],s[j]]]
     Pi = ind_freq[i] #The precalculated frequency of all amino acids in position i
     Pj = ind_freq[j] #The precalculated frequency of all amino acids in position j
     Pij = Counter((s[i],s[j]) for s in sequences)
@@ -124,7 +126,7 @@ def APC(mi_matrix, l1, l2, name_pair, outdir):
     #Save matrix
     np.save(outdir+name_pair+'_per_protein_corr.npy',corrected_mi)
     #Plot
-    #plot_mi(corrected_mi, outdir+name_pair+'_per_protein_corr.png')
+    plot_mi(corrected_mi, outdir+name_pair+'_per_protein_corr.png')
     #Get average MI for later, further APC
     print('Average MI,'+name_pair+','+str(np.average(corrected_mi)))
 
@@ -145,4 +147,4 @@ a3m_matrix = read_a3m(infile)
 mi_matrix = calc_mi(a3m_matrix, name_pair, outdir)
 #mi_matrix = np.load(outdir+'O13297_Q01159.npy', allow_pickle=True)
 #Perform APC
-APC(mi_matrix, l1, l2, name_pair, outdir)
+#APC(mi_matrix, l1, l2, name_pair, outdir)
