@@ -85,17 +85,16 @@ double MI(std::vector< std::vector < int > > parsedmsa,
 
 int main (int argc, char** argv){
 
-    if (argc != 4) {
+    if (argc != 3) {
     std::cout << "Mutual information calculations. " << std::endl;
-    std::cout << "3 command line arguments are required (in this order): " << std::endl;
+    std::cout << "2 command line arguments are required (in this order): " << std::endl;
     std::cout << "Path to input MSA file in a3m format" << std::endl;
-    std::cout << "Path to file with sequence lenghts for APC" << std::endl;
     std::cout << "Path to save output" << std::endl;
     return 0;
     }
 
     std::string msapath = argv[1], outpath = argv[2];
-
+    //
     double mi;
     unsigned int i = 0, j = 0, minlength = 0, msalength = 0, gapcount = 0, hitcount = 0, count = 0;
     std::string msaline, apcline, msahit = "", residue, name, id1, id2;
