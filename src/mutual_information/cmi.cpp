@@ -157,7 +157,7 @@ int main (int argc, char** argv){
             }
             msahit = ""; gapcount = 0;
         }
-        std::cout << msaline << std::endl;
+        //std::cout << msaline << std::endl;
     }
 
 	// adds the last MSA hit, which is complete reaching EOF (out of the while loop)
