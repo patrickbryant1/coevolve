@@ -194,7 +194,7 @@ int main (int argc, char** argv){
             mi_matrix[i][j] = mi;
 	    mi_matrix[j][i] = mi;
             //std::cout<< i << " "<< j << " " << mi << std::endl;
-            if (std::abs(mi)>maxmi) {maxmi = std::abs(mi);}
+            if (mi>maxmi) {maxmi = mi;}
         }
     }
     
