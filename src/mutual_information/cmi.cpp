@@ -85,7 +85,7 @@ double MI(std::vector< std::vector < int > > parsedmsa,
 
 int main (int argc, char** argv){
 
-    if (argc != 4) {
+    if (argc != 3) {
     std::cout << "2 command line arguments required (in this order): " << std::endl;
     std::cout << "	path of input MSA file in a3m format;" << std::endl;
     std::cout << "      path to save output" << std::endl;
