@@ -86,9 +86,8 @@ double MI(std::vector< std::vector < int > > parsedmsa,
 int main (int argc, char** argv){
 
     if (argc != 4) {
-    std::cout << "3 command line arguments required (in this order): " << std::endl;
+    std::cout << "2 command line arguments required (in this order): " << std::endl;
     std::cout << "	path of input MSA file in a3m format;" << std::endl;
-    std::cout << "      path of file with sequence lenghts for APC" << std::endl;
     std::cout << "      path to save output" << std::endl;
     return 0;
     }
@@ -119,7 +118,7 @@ int main (int argc, char** argv){
 
     msafile.open(msapath);
     if(!msafile) throw std::runtime_error("Unable to open msa file!");
-    outfile.open(outpath+"array_cpp.npy");
+    outfile.open(outpath+name+".txt");
     if(!outfile) throw std::runtime_error("Unable to open output file!");
 
 
