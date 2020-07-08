@@ -1,5 +1,5 @@
 #include <unordered_map>
-#include <stdexcept>
+#include <stdexcept> 
 #include <iostream>
 #include <fstream>
 #include <sstream>
@@ -27,7 +27,7 @@ std::string split(std::string str, const char delim, int pos){
 
     if (pos >= 0){
 	if (pos >= count) throw std::runtime_error("Out of splitting range!");
-        token=splitted[pos];
+        token=splitted[pos]; 
     }
     else {
 	if (pos < -count) throw std::runtime_error("Out of splitting range!");
@@ -49,8 +49,8 @@ double MI(std::vector< std::vector < int > > parsedmsa,
 
     std::array < double, 21 > Pi = msafreqs[i], Pj = msafreqs[j];
 
-	// for each seq in parsed msa, count the co-occurrences of aa
-	// in positions i & j, if none of those are gaps
+	// for each seq in parsed msa, count the co-occurrences of aa 	
+	// in positions i & j, if none of those are gaps	
 
     for (seq=0; seq<parsedmsa.size(); seq++) {
 	if (parsedmsa[seq][i]!=21 && parsedmsa[seq][j]!=21) {
@@ -60,8 +60,8 @@ double MI(std::vector< std::vector < int > > parsedmsa,
         }
     }
 
-	// normalize each count on the total number of aminoacid
-        // combinations occurrences
+	// normalize each count on the total number of aminoacid	
+        // combinations occurrences					
 
 //    for (auto coupleidx=jointfreqs.begin(); coupleidx!=jointfreqs.end(); coupleidx++) {
 //        count += coupleidx->second;
@@ -71,7 +71,7 @@ double MI(std::vector< std::vector < int > > parsedmsa,
 //    }
 
 	// given the joint frequencies of co-occurrence (Pij) and the marginal
-        // frequencies (Pi[x] & Pj[y]) for each pair of residues, calculates the
+        // frequencies (Pi[x] & Pj[y]) for each pair of residues, calculates the 
         // mutual information
 
     for (auto coupleidx=jointfreqs.begin(); coupleidx!=jointfreqs.end(); coupleidx++) {
@@ -86,16 +86,15 @@ double MI(std::vector< std::vector < int > > parsedmsa,
 int main (int argc, char** argv){
 
     if (argc != 3) {
-    std::cout << "Mutual information calculations. " << std::endl;
-    std::cout << "2 command line arguments are required (in this order): " << std::endl;
-    std::cout << "Path to input MSA file in a3m format" << std::endl;
-    std::cout << "Path to save output" << std::endl;
+    std::cout << "2 command line arguments required (in this order): " << std::endl;
+    std::cout << "	path of input MSA file in a3m format;" << std::endl;
+    std::cout << "      path to save output" << std::endl;
     return 0;
     }
 
     std::string msapath = argv[1], outpath = argv[2];
-    //
-    double mi;
+
+    double mi, maxmi;
     unsigned int i = 0, j = 0, minlength = 0, msalength = 0, gapcount = 0, hitcount = 0, count = 0;
     std::string msaline, apcline, msahit = "", residue, name, id1, id2;
     std::ifstream msafile;
@@ -111,7 +110,7 @@ int main (int argc, char** argv){
     aamap['G'] = 6, aamap['H'] = 7, aamap['I'] = 8, aamap['K'] = 9, aamap['L'] = 10;
     aamap['M'] = 11, aamap['N'] = 12, aamap['P'] = 13, aamap['Q'] = 14, aamap['R'] = 15;
     aamap['S'] = 16, aamap['T'] = 17, aamap['V'] = 18, aamap['W'] = 19, aamap['Y'] = 20;
-    aamap['U'] = 21, aamap['Z'] = 21, aamap['X'] = 21, aamap['J'] = 21, aamap['B'] = 21;
+    aamap['U'] = 21, aamap['Z'] = 21, aamap['X'] = 21, aamap['J'] = 21, aamap['B'] = 21; 
     aamap['O'] = 21, aamap['-'] = 21;
 
     name = split(msapath, '/', -1);
@@ -119,7 +118,7 @@ int main (int argc, char** argv){
 
     msafile.open(msapath);
     if(!msafile) throw std::runtime_error("Unable to open msa file!");
-    outfile.open(outpath+"array_cpp.npy");
+    outfile.open(outpath+name+".txt");
     if(!outfile) throw std::runtime_error("Unable to open output file!");
 
 
@@ -133,7 +132,7 @@ int main (int argc, char** argv){
         else {msalength += msaline.length();}
     }
 
-	// Reset input file read and initialize datastructure
+	// Reset input file read and initialize datastructure 
 
     msafile.clear();
     msafile.seekg(0, std::ios::beg);
@@ -149,7 +148,7 @@ int main (int argc, char** argv){
             msahit += msaline;
         }
         if (msaline.at(0) == '>' && msahit != "") {
-            if (gapcount/minlength < 0.9) {
+            if (gapcount/minlength < 0.9) {           
                 for (i=0; i<msahit.length(); i++) {
                     if (aamap.find(msahit.at(i)) != aamap.end()) {parsedmsa[j][i] = aamap.at(msahit.at(i));}
                 }
@@ -163,12 +162,12 @@ int main (int argc, char** argv){
 	// adds the last MSA hit, which is complete reaching EOF (out of the while loop)
 
     if (gapcount/minlength < 0.9) {
-        for (i=0; i<msahit.length(); i++) {
+        for (i=0; i<msahit.length(); i++) { 
             if (aamap.find(msahit.at(i)) != aamap.end()) {parsedmsa[j][i] = aamap.at(msahit.at(i));}
         }
     }
     j++; parsedmsa.resize(j);
-
+     
 	// Counting of aminoacids occurrence for each position in the MSA
 
     for (j=0; j<parsedmsa.size(); j++) {
@@ -188,25 +187,28 @@ int main (int argc, char** argv){
 
     mi_matrix.resize(minlength, std::vector < double > (minlength, 0.0));
 
+    maxmi = 0;
     for (i=0; i<msalength; i++) {
         for (j=i+1; j<msalength; j++) {
-            mi = MI(parsedmsa, msafreqs, i, j);
+            mi = MI(parsedmsa, msafreqs, i, j); 
             mi_matrix[i][j] = mi;
 	    mi_matrix[j][i] = mi;
             //std::cout<< i << " "<< j << " " << mi << std::endl;
+            if (mi>maxmi || maxmi==0) {maxmi = mi;}
         }
     }
-
+    
     msafile.close();
 
-	// MI matrix save
-
+	// MI matrix save 
+ 
     for (i=0; i<msalength; i++) {
         for (j=0; j<msalength; j++) { outfile << mi_matrix[i][j] << " ";}
         outfile << "\n";
         }
     outfile.close();
 
+    std::cout << name << " " << maxmi << std::endl;
     std::cout << "Done!" << std::endl;
 
     return 0;
