@@ -1,0 +1,1076 @@
+GenomeID	Entry	Entry name	Status	Protein names	Gene names	Length	Proteomes
+Q0085	P00854	ATP6_YEAST	reviewed	ATP synthase subunit a (F-ATPase protein 6)	ATP6 OLI2 OLI4 PHO1 Q0085	259	UP000002311: Mitochondrion
+Q0105	P00163	CYB_YEAST	reviewed	Cytochrome b (EC 7.1.1.8) (Complex III subunit 3) (Complex III subunit CYTB) (Complex III subunit III) (Cytochrome b-c1 complex subunit 3) (Cytochrome b-c1 complex subunit CYTB) (Ubiquinol-cytochrome c oxidoreductase complex cytochrome b subunit)	COB CYTB Q0105	385	UP000002311: Mitochondrion
+Q0250	P00410	COX2_YEAST	reviewed	Cytochrome c oxidase subunit 2 (EC 7.1.1.9) (Cytochrome c oxidase polypeptide II)	COX2 OXI1 Q0250	251	UP000002311: Mitochondrion
+YAL003W	P32471	EF1B_YEAST	reviewed	Elongation factor 1-beta (EF-1-beta) (Eukaryotic elongation factor 1Balpha) (eEF1Balpha) (Translation elongation factor 1B alpha)	EFB1 TEF5 YAL003W	206	UP000002311: Chromosome I
+YAL005C	P10591	HSP71_YEAST	reviewed	Heat shock protein SSA1 (Heat shock protein YG100)	SSA1 YAL005C	642	UP000002311: Chromosome I
+YAL009W	P18410	SPO7_YEAST	reviewed	Sporulation-specific protein SPO7	SPO7 YAL009W	259	UP000002311: Chromosome I
+YAL030W	P31109	SNC1_YEAST	reviewed	Synaptobrevin homolog 1	SNC1 YAL030W	117	UP000002311: Chromosome I
+YAL038W	P00549	KPYK1_YEAST	reviewed	Pyruvate kinase 1 (PK 1) (EC 2.7.1.40) (cell division cycle protein 19)	CDC19 PYK1 YAL038W	500	UP000002311: Chromosome I
+YAL040C	P13365	CG13_YEAST	reviewed	G1/S-specific cyclin CLN3	CLN3 DAF1 WHI1 YAL040C FUN10	580	UP000002311: Chromosome I
+YAL041W	P11433	CDC24_YEAST	reviewed	Cell division control protein 24 (Calcium regulatory protein)	CDC24 CLS4 YAL041W	854	UP000002311: Chromosome I
+YAL042W	P39727	ERV46_YEAST	reviewed	ER-derived vesicles protein ERV46	ERV46 YAL042W FUN9	415	UP000002311: Chromosome I
+YAL043C	Q01329	PTA1_YEAST	reviewed	Pre-tRNA-processing protein PTA1	PTA1 YAL043C FUN39	785	UP000002311: Chromosome I
+YAL044C	P39726	GCSH_YEAST	reviewed	Glycine cleavage system H protein, mitochondrial (Glycine decarboxylase complex subunit H)	GCV3 YAL044C FUN40	170	UP000002311: Chromosome I
+YAL047C	P39723	SPC72_YEAST	reviewed	Spindle pole component SPC72	SPC72 LDB4 SPI6 YAL047C FUN42	622	UP000002311: Chromosome I
+YAL051W	P39720	OAF1_YEAST	reviewed	Oleate-activated transcription factor 1	OAF1 YAF1 YAL051W FUN43	1047	UP000002311: Chromosome I
+YAL056W	P39717	GPB2_YEAST	reviewed	Guanine nucleotide-binding protein subunit beta 2 (Gbeta mimic kelch protein 2)	GPB2 KRH1 YAL056W	880	UP000002311: Chromosome I
+YAR007C	P22336	RFA1_YEAST	reviewed	Replication factor A protein 1 (RF-A protein 1) (DNA-binding protein BUF2) (Replication protein A 69 kDa DNA-binding subunit) (Single-stranded DNA-binding protein)	RFA1 BUF2 RPA1 YAR007C FUN3	621	UP000002311: Chromosome I
+YAR019C	P27636	CDC15_YEAST	reviewed	Cell division control protein 15 (EC 2.7.11.1)	CDC15 LYT1 YAR019C	974	UP000002311: Chromosome I
+YBL007C	P32790	SLA1_YEAST	reviewed	Actin cytoskeleton-regulatory complex protein SLA1	SLA1 YBL007C YBL0321	1244	UP000002311: Chromosome II
+YBL008W	P32479	HIR1_YEAST	reviewed	Protein HIR1 (Histone transcription regulator 1)	HIR1 YBL008W YBL0318	840	UP000002311: Chromosome II
+YBL014C	P32786	RRN6_YEAST	reviewed	RNA polymerase I-specific transcription initiation factor RRN6	RRN6 YBL014C YBL0311 YBL0312	894	UP000002311: Chromosome II
+YBL016W	P16892	FUS3_YEAST	reviewed	Mitogen-activated protein kinase FUS3 (MAP kinase FUS3) (EC 2.7.11.24)	FUS3 DAC2 YBL016W YBL03.21 YBL0303	353	UP000002311: Chromosome II
+YBL021C	P13434	HAP3_YEAST	reviewed	Transcriptional activator HAP3 (UAS2 regulatory protein A)	HAP3 YBL021C YBL0441	144	UP000002311: Chromosome II
+YBL023C	P29469	MCM2_YEAST	reviewed	DNA replication licensing factor MCM2 (EC 3.6.4.12) (Minichromosome maintenance protein 2)	MCM2 YBL023C YBL0438	868	UP000002311: Chromosome II
+YBL025W	P38204	RRN10_YEAST	reviewed	RNA polymerase I-specific transcription initiation factor RRN10	RRN10 YBL025W YBL0426	145	UP000002311: Chromosome II
+YBL026W	P38203	LSM2_YEAST	reviewed	U6 snRNA-associated Sm-like protein LSm2 (Small nuclear ribonucleoprotein D homolog SNP3)	LSM2 SMX5 SNP3 YBL026W YBL0425	95	UP000002311: Chromosome II
+YBL035C	P38121	DPOA2_YEAST	reviewed	DNA polymerase alpha subunit B (DNA polymerase I subunit B) (DNA polymerase alpha:primase complex p86 subunit) (Pol alpha-primase complex p86 subunit) (DNA polymerase-primase complex p74 subunit)	POL12 YBL035C YBL0414	705	UP000002311: Chromosome II
+YBL037W	P38065	AP2A_YEAST	reviewed	AP-2 complex subunit alpha (Alpha-adaptin) (Clathrin assembly protein complex 2 alpha large chain) (Clathrin assembly protein large alpha chain)	APL3 YBL037W YBL0412	1025	UP000002311: Chromosome II
+YBL041W	P23724	PSB6_YEAST	reviewed	Proteasome subunit beta type-6 (EC 3.4.25.1) (Multicatalytic endopeptidase complex subunit C5) (Proteasome component C5)	PRE7 PRS3 PTS1 YBL041W YBL0407	241	UP000002311: Chromosome II
+YBL045C	P07256	QCR1_YEAST	reviewed	Cytochrome b-c1 complex subunit 1, mitochondrial (Complex III subunit 1) (Core protein I) (Ubiquinol-cytochrome c oxidoreductase core protein 1) (Ubiquinol-cytochrome c reductase 44 kDa protein)	COR1 QCR1 YBL045C YBL0403	457	UP000002311: Chromosome II
+YBL050W	P32602	SEC17_YEAST	reviewed	Alpha-soluble NSF attachment protein (SNAP-alpha) (N-ethylmaleimide-sensitive factor attachment protein alpha) (Vesicular-fusion protein SEC17) (alpha-SNAP chaperone)	SEC17 YBL050W YBL0505 YBL0517	292	UP000002311: Chromosome II
+YBL078C	P38182	ATG8_YEAST	reviewed	Autophagy-related protein 8 (Autophagy-related ubiquitin-like modifier ATG8) (Cytoplasm to vacuole targeting protein 5)	ATG8 APG8 AUT7 CVT5 YBL078C YBL0732	117	UP000002311: Chromosome II
+YBL085W	P38041	BOB1_YEAST	reviewed	Protein BOB1 (BEM1-binding protein) (Growth inhibitory protein 7)	BOI1 BOB1 GIN7 YBL085W YBL0717	980	UP000002311: Chromosome II
+YBL087C	P0CX41	RL23A_YEAST	reviewed	60S ribosomal protein L23-A (L17a) (Large ribosomal subunit protein uL14-A) (YL32)	RPL23A RPL17A RPL17AA YBL087C YBL0713	137	UP000002311: Chromosome II
+YBL099W	P07251	ATPA_YEAST	reviewed	ATP synthase subunit alpha, mitochondrial	ATP1 YBL099W YBL0827	545	UP000002311: Chromosome II
+YBL103C	P38165	RTG3_YEAST	reviewed	Retrograde regulation protein 3	RTG3 YBL103C YBL0810	486	UP000002311: Chromosome II
+YBL105C	P24583	KPC1_YEAST	reviewed	Protein kinase C-like 1 (PKC 1) (EC 2.7.11.13)	PKC1 HPO2 STT1 YBL105C YBL0807	1151	UP000002311: Chromosome II
+YBR003W	P18900	COQ1_YEAST	reviewed	Hexaprenyl pyrophosphate synthase, mitochondrial (HPS) (EC 2.5.1.-)	COQ1 YBR003W YBR0109	473	UP000002311: Chromosome II
+YBR009C	P02309	H4_YEAST	reviewed	Histone H4	HHF1 YBR009C YBR0122; HHF2 YNL030W N2752	103	UP000002311: Chromosome II, UP000002311: Chromosome XIV
+YBR010W	P61830	H3_YEAST	reviewed	Histone H3	HHT1 YBR010W YBR0201; HHT2 SIN2 YNL031C N2749	136	UP000002311: Chromosome II, UP000002311: Chromosome XIV
+YBR017C	P38217	IMB2_YEAST	reviewed	Importin subunit beta-2 (Importin-104) (Karyopherin subunit beta-2) (Karyopherin-104) (Transportin) (TRN)	KAP104 YBR017C YBR0224	918	UP000002311: Chromosome II
+YBR037C	P23833	SCO1_YEAST	reviewed	Protein SCO1, mitochondrial	SCO1 YBR037C YBR0406	295	UP000002311: Chromosome II
+YBR045C	P38229	GIP1_YEAST	reviewed	GLC7-interacting protein 1	GIP1 YBR045C YBR0420	639	UP000002311: Chromosome II
+YBR050C	P38232	REG2_YEAST	reviewed	Protein REG2	REG2 YBR050C YBR0504	338	UP000002311: Chromosome II
+YBR060C	P32833	ORC2_YEAST	reviewed	Origin recognition complex subunit 2 (Origin recognition complex 71 kDa subunit)	ORC2 RRR1 SIR5 YBR060C YBR0523	620	UP000002311: Chromosome II
+YBR077C	P38247	SLM4_YEAST	reviewed	Protein SLM4 (EGO complex subunit 3) (GSE complex subunit 1)	SLM4 EGO3 GSE1 YBR077C YBR0723	162	UP000002311: Chromosome II
+YBR080C	P18759	SEC18_YEAST	reviewed	Vesicular-fusion protein SEC18	SEC18 YBR080C YBR0736	758	UP000002311: Chromosome II
+YBR087W	P38251	RFC5_YEAST	reviewed	Replication factor C subunit 5 (Replication factor C5) (Activator 1 40 kDa subunit)	RFC5 YBR087W YBR0810	354	UP000002311: Chromosome II
+YBR088C	P15873	PCNA_YEAST	reviewed	Proliferating cell nuclear antigen (PCNA)	POL30 YBR088C YBR0811	258	UP000002311: Chromosome II
+YBR091C	P32830	TIM12_YEAST	reviewed	Mitochondrial import inner membrane translocase subunit TIM12 (Mitochondrial regulator of splicing 5)	TIM12 MRS5 YBR091C YBR0812	109	UP000002311: Chromosome II
+YBR097W	P22219	VPS15_YEAST	reviewed	Serine/threonine-protein kinase VPS15 (EC 2.7.11.1) (Golgi-retention defective mutant protein 8) (Vacuolar protein sorting-associated protein 15)	VPS15 GRD8 VAC4 VPL19 YBR097W YBR0825	1454	UP000002311: Chromosome II
+YBR102C	P38261	EXO84_YEAST	reviewed	Exocyst complex component EXO84 (Exocyst complex protein of 84 kDa) (U1 SNP1-associating protein 3)	EXO84 USA3 YBR102C YBR0831	753	UP000002311: Chromosome II
+YBR107C	P38265	CENPL_YEAST	reviewed	Inner kinetochore subunit IML3 (CENP-L homolog) (Constitutive centromere-associated network protein IML3) (Increased minichromosome loss protein 3) (Minichromosome maintenance protein 19)	IML3 MCM19 YBR107C YBR0836	245	UP000002311: Chromosome II
+YBR108W	P38266	AIM3_YEAST	reviewed	Altered inheritance of mitochondria protein 3	AIM3 YBR108W YBR0901	947	UP000002311: Chromosome II
+YBR109C	P06787	CALM_YEAST	reviewed	Calmodulin (CaM)	CMD1 YBR109C YBR0904	147	UP000002311: Chromosome II
+YBR112C	P14922	CYC8_YEAST	reviewed	General transcriptional corepressor CYC8 (Glucose repression mediator protein CYC8)	CYC8 CRT8 SSN6 YBR112C YBR0908	966	UP000002311: Chromosome II
+YBR114W	P31244	RAD16_YEAST	reviewed	DNA repair protein RAD16 (EC 3.6.4.-) (ATP-dependent helicase RAD16)	RAD16 YBR114W YBR0909	790	UP000002311: Chromosome II
+YBR115C	P07702	LYS2_YEAST	reviewed	L-2-aminoadipate reductase (EC 1.2.1.31) (EC 1.2.1.95) (Alpha-aminoadipate reductase) (Alpha-AR) (L-aminoadipate-semialdehyde dehydrogenase)	LYS2 YBR115C YBR0910	1392	UP000002311: Chromosome II
+YBR126C	Q00764	TPS1_YEAST	reviewed	Alpha,alpha-trehalose-phosphate synthase [UDP-forming] 56 kDa subunit (EC 2.4.1.15) (General glucose sensor subunit 1) (Glycogen metabolism control protein GLC6) (Trehalose synthase complex catalytic subunit TPS1) (Trehalose-6-phosphate synthase) (UDP-glucose-glucosephosphate glucosyltransferase)	TPS1 BYP1 CIF1 FDP1 GGS1 GLC6 TSS1 YBR126C YBR0922	495	UP000002311: Chromosome II
+YBR127C	P16140	VATB_YEAST	reviewed	V-type proton ATPase subunit B (V-ATPase subunit B) (V-ATPase 57 kDa subunit) (Vacuolar proton pump subunit B)	VMA2 VAT2 YBR127C YBR1002	517	UP000002311: Chromosome II
+YBR128C	P38270	ATG14_YEAST	reviewed	Autophagy-related protein 14 (Cytoplasm to vacuole targeting protein 12)	ATG14 APG14 CVT12 YBR128C YBR1003	344	UP000002311: Chromosome II
+YBR130C	P38272	SHE3_YEAST	reviewed	SWI5-dependent HO expression protein 3	SHE3 YBR130C YBR1005	425	UP000002311: Chromosome II
+YBR133C	P38274	HSL7_YEAST	reviewed	Protein arginine N-methyltransferase HSL7 (EC 2.1.1.320) (Histone synthetic lethal protein 7) (Type II protein arginine N-methyltransferase) (Type II PRMT)	HSL7 YBR133C YBR1008	827	UP000002311: Chromosome II
+YBR135W	P20486	CKS1_YEAST	reviewed	Cyclin-dependent kinases regulatory subunit (Cell division control protein CKS1)	CKS1 YBR135W YBR1011	150	UP000002311: Chromosome II
+YBR136W	P38111	ATR_YEAST	reviewed	Serine/threonine-protein kinase MEC1 (EC 2.7.11.1) (ATR homolog) (DNA-damage checkpoint kinase MEC1) (Mitosis entry checkpoint protein 1)	MEC1 ESR1 SAD3 YBR136W YBR1012	2368	UP000002311: Chromosome II
+YBR143C	P12385	ERF1_YEAST	reviewed	Eukaryotic peptide chain release factor subunit 1 (Eukaryotic release factor 1) (eRF1) (Omnipotent suppressor protein 1)	SUP45 SAL4 SUP1 YBR143C YBR1120	437	UP000002311: Chromosome II
+YBR152W	P38282	SP381_YEAST	reviewed	Pre-mRNA-splicing factor SPP381 (Suppressor of PRP38-1 mutation)	SPP381 YBR152W YBR1202	291	UP000002311: Chromosome II
+YBR154C	P20434	RPAB1_YEAST	reviewed	DNA-directed RNA polymerases I, II, and III subunit RPABC1 (RNA polymerases I, II, and III subunit ABC1) (ABC27) (DNA-directed RNA polymerases I, II, and III 27 kDa polypeptide)	RPB5 RPA7 RPC9 YBR154C YBR1204	215	UP000002311: Chromosome II
+YBR155W	P33313	CNS1_YEAST	reviewed	Hsp70/Hsp90 co-chaperone CNS1 (Cyclophilin seven suppressor 1) (STI1 stress-inducible protein homolog)	CNS1 YBR155W YBR1205	385	UP000002311: Chromosome II
+YBR156C	P38283	SLI15_YEAST	reviewed	Inner centromere protein-related protein SLI15 (INCENP-related protein SLI15)	SLI15 YBR156C YBR1206	698	UP000002311: Chromosome II
+YBR160W	P00546	CDK1_YEAST	reviewed	Cyclin-dependent kinase 1 (CDK1) (EC 2.7.11.22) (Cell division control protein 28) (Cell division protein kinase 1)	CDC28 CDK1 HSL5 SRM5 YBR160W YBR1211	298	UP000002311: Chromosome II
+YBR167C	P38291	POP7_YEAST	reviewed	Ribonucleases P/MRP protein subunit POP7 (EC 3.1.26.5) (RNA-processing protein POP7) (RNases P/MRP 15.8 kDa subunit)	POP7 RPP2 YBR167C YBR1219	140	UP000002311: Chromosome II
+YBR170C	P33755	NPL4_YEAST	reviewed	Nuclear protein localization protein 4 (HMG-CoA reductase degradation protein 4)	NPL4 HRD4 YBR170C YBR1231	580	UP000002311: Chromosome II
+YBR171W	P33754	SEC66_YEAST	reviewed	Translocation protein SEC66 (Protein HSS1) (Sec62/63 complex 31.5 kDa subunit)	SEC66 HSS1 SEC71 YBR171W YBR1232	206	UP000002311: Chromosome II
+YBR172C	P32909	SMY2_YEAST	reviewed	Protein SMY2 (Suppressor of MYO2-66 protein)	SMY2 YBR172C YBR1233	740	UP000002311: Chromosome II
+YBR188C	P38302	NTC20_YEAST	reviewed	Pre-mRNA-splicing factor NTC20 (PRP19-associated complex protein 20) (Synergistic to PRP19 mutation protein 384)	NTC20 SNT384 YBR188C YBR1316	140	UP000002311: Chromosome II
+YBR191W	Q02753	RL21A_YEAST	reviewed	60S ribosomal protein L21-A (Large ribosomal subunit protein eL21-A)	RPL21A URP1 YBR191W YBR1401	160	UP000002311: Chromosome II
+YBR193C	P38304	MED8_YEAST	reviewed	Mediator of RNA polymerase II transcription subunit 8 (Mediator complex subunit 8)	MED8 YBR193C YBR1403	223	UP000002311: Chromosome II
+YBR195C	P13712	MSI1_YEAST	reviewed	Chromatin assembly factor 1 subunit p50 (CAF-1 p50 subunit) (IRA1 multicopy suppressor) (Protein MSI1)	MSI1 CAC3 YBR195C YBR1405	422	UP000002311: Chromosome II
+YBR200W	P29366	BEM1_YEAST	reviewed	Bud emergence protein 1 (Suppressor of RHO3 protein 1)	BEM1 SRO1 YBR200W YBR1412	551	UP000002311: Chromosome II
+YBR202W	P38132	MCM7_YEAST	reviewed	DNA replication licensing factor MCM7 (EC 3.6.4.12) (Cell division control protein 47) (Minichromosome maintenance protein 7)	MCM7 CDC47 YBR202W YBR1441	845	UP000002311: Chromosome II
+YBR207W	P38310	FTH1_YEAST	reviewed	Iron transporter FTH1	FTH1 YBR207W YBR1446	465	UP000002311: Chromosome II
+YBR217W	P38316	ATG12_YEAST	reviewed	Ubiquitin-like protein ATG12 (Autophagy-related protein 12)	ATG12 APG12 YBR217W YBR1506	186	UP000002311: Chromosome II
+YBR239C	P38140	ERT1_YEAST	reviewed	Transcription activator of gluconeogenesis ERT1 (Ethanol regulator of translation 1)	ERT1 YBR239C YBR1622	529	UP000002311: Chromosome II
+YBR253W	P32570	MED22_YEAST	reviewed	Mediator of RNA polymerase II transcription subunit 22 (Mediator complex subunit 22) (Suppressor of RNA polymerase B 6)	SRB6 MED22 YBR253W YBR1721	121	UP000002311: Chromosome II
+YBR254C	P38334	TRS20_YEAST	reviewed	Trafficking protein particle complex subunit 20 (TRAPP subunit 20) (Transport protein particle 20 kDa subunit)	TRS20 YBR254C YBR1722	175	UP000002311: Chromosome II
+YBR274W	P38147	CHK1_YEAST	reviewed	Serine/threonine-protein kinase CHK1 (EC 2.7.11.1) (Checkpoint kinase 1)	CHK1 YBR274W YBR1742	527	UP000002311: Chromosome II
+YBR278W	P27344	DPB3_YEAST	reviewed	DNA polymerase epsilon subunit C (DNA polymerase II subunit C)	DPB3 YBR278W YBR2015	201	UP000002311: Chromosome II
+YBR279W	P38351	PAF1_YEAST	reviewed	RNA polymerase II-associated protein 1 (Protein PAF1)	PAF1 YBR279W YBR2016	445	UP000002311: Chromosome II
+YBR288C	P38153	AP3M_YEAST	reviewed	AP-3 complex subunit mu (AP-3 adaptor complex mu3A subunit) (Adaptor-related protein complex 3 subunit mu) (Mu-adaptin 3A) (Mu3-adaptin)	APM3 YKS6 YBR288C YBR2035	483	UP000002311: Chromosome II
+YBR289W	P18480	SNF5_YEAST	reviewed	SWI/SNF chromatin-remodeling complex subunit SNF5 (SWI/SNF complex subunit SNF5) (Transcription factor TYE4) (Transcription regulatory protein SNF5)	SNF5 SWI10 TYE4 YBR289W YBR2036	905	UP000002311: Chromosome II
+YBR290W	P38356	BSD2_YEAST	reviewed	Metal homeostatis protein BSD2 (Bypass SOD defects protein 2)	BSD2 YBR290W YBR2037	321	UP000002311: Chromosome II
+YCL008C	P25604	STP22_YEAST	reviewed	Suppressor protein STP22 of temperature-sensitive alpha-factor receptor and arginine permease (ESCRT-I complex subunit VPS23) (Vacuolar protein sorting-associated protein 23)	STP22 VPS23 YCL008C YCL8C	385	UP000002311: Chromosome III
+YCL009C	P25605	ILV6_YEAST	reviewed	Acetolactate synthase small subunit, mitochondrial (Acetohydroxy-acid synthase small subunit) (AHAS) (ALS)	ILV6 YCL009C YCL9C	309	UP000002311: Chromosome III
+YCL027W	P11710	FUS1_YEAST	reviewed	Nuclear fusion protein FUS1	FUS1 YCL027W YCL27W	512	UP000002311: Chromosome III
+YCL032W	P25344	STE50_YEAST	reviewed	Protein STE50	STE50 YCL032W YCL32W	346	UP000002311: Chromosome III
+YCL034W	P25369	LSB5_YEAST	reviewed	LAS seventeen-binding protein 5 (LAS17-binding protein 5)	LSB5 YCL034W YCL186 YCL34W	354	UP000002311: Chromosome III
+YCL067C	P0CY09	HMAL2_YEAST	reviewed	Silenced mating-type protein ALPHA2 (MATalpha2 protein) (Alpha-2 repressor)	HMLALPHA2 YCL067C YCL67C	210	UP000002311: Chromosome III
+YCR002C	P25342	CDC10_YEAST	reviewed	Cell division control protein 10	CDC10 YCR002C YCR022 YCR2C	322	UP000002311: Chromosome III
+YCR009C	P25343	RV161_YEAST	reviewed	Reduced viability upon starvation protein 161	RVS161 END6 SPE161 YCR009C YCR9C	265	UP000002311: Chromosome III
+YCR034W	P25358	ELO2_YEAST	reviewed	Elongation of fatty acids protein 2 (EC 2.3.1.199) (3-keto acyl-CoA synthase ELO2) (Fenpropimorph resistance protein 1) (Glucan synthesis protein 1) (Very-long-chain 3-oxoacyl-CoA synthase 2) (v-SNARE bypass mutant gene 2 protein)	ELO2 FEN1 GNS1 VBM2 YCR034W YCR34W YCR521	347	UP000002311: Chromosome III
+YCR039C	P0CY08	MTAL2_YEAST	reviewed	Mating-type protein ALPHA2 (MATalpha2 protein) (Alpha-2 repressor)	MATALPHA2 ALPHA-2 MAT2A MATAL2 YCR039C YCR39C	210	UP000002311: Chromosome III
+YCR042C	P23255	TAF2_YEAST	reviewed	Transcription initiation factor TFIID subunit 2 (TAFII-150) (TBP-associated factor 150 kDa) (TBP-associated factor 2) (TSM-1)	TAF2 TAF150 TSM1 YCR042C YCR42C YCR724	1407	UP000002311: Chromosome III
+YCR052W	P25632	RSC6_YEAST	reviewed	Chromatin structure-remodeling complex protein RSC6 (Remodel the structure of chromatin complex subunit 6)	RSC6 YCR052W YCR52W	483	UP000002311: Chromosome III
+YCR060W	P25638	TAH1_YEAST	reviewed	TPR repeat-containing protein associated with Hsp90	TAH1 YCR060W YCR60W	111	UP000002311: Chromosome III
+YCR066W	P10862	RAD18_YEAST	reviewed	Postreplication repair E3 ubiquitin-protein ligase RAD18 (EC 2.3.2.27) (RING-type E3 ubiquitin transferase RAD18) (Radiation sensitivity protein 18)	RAD18 YCR066W YCR66W	487	UP000002311: Chromosome III
+YCR077C	P25644	PAT1_YEAST	reviewed	DNA topoisomerase 2-associated protein PAT1 (Decapping activator and translational repressor PAT1) (Topoisomerase II-associated protein PAT1) (mRNA turnover protein 1)	PAT1 MRT1 YCR077C YCR77C	796	UP000002311: Chromosome III
+YCR081W	P25648	SRB8_YEAST	reviewed	Mediator of RNA polymerase II transcription subunit 12 (Mediator complex subunit 12) (Suppressor of RNA polymerase B 8)	SRB8 GIG1 MED12 NUT6 SSN5 YCR081W YCR81W/YCR80W	1427	UP000002311: Chromosome III
+YCR084C	P16649	TUP1_YEAST	reviewed	General transcriptional corepressor TUP1 (Flocculation suppressor protein) (Glucose repression regulatory protein TUP1) (Repressor AER2)	TUP1 AAR1 AER2 AMM1 CYC9 FLK1 SFL2 UMR7 YCR084C YCR84C	713	UP000002311: Chromosome III
+YCR086W	P25651	CSM1_YEAST	reviewed	Monopolin complex subunit CSM1 (Chromosome segregation in meiosis protein 1)	CSM1 SPO86 YCR086W YCR86W	190	UP000002311: Chromosome III
+YCR088W	P15891	ABP1_YEAST	reviewed	Actin-binding protein	ABP1 YCR088W YCR88W	592	UP000002311: Chromosome III
+YCR092C	P25336	MSH3_YEAST	reviewed	DNA mismatch repair protein MSH3 (Mismatch-binding protein) (MBP) (MutS protein homolog 3)	MSH3 YCR092C YCR1152 YCR92C	1018	UP000002311: Chromosome III
+YCR096C	P0CY13	HMRA2_YEAST	reviewed	Silenced mating-type protein A2 (MATa2 protein)	HMRA2 YCR096C YCR96C	119	UP000002311: Chromosome III
+YCR097W	P0CY11	HMRA1_YEAST	reviewed	Silenced mating-type protein A1 (MATa1 protein)	HMRA1 YCR097W YCR97W	126	UP000002311: Chromosome III
+YDL003W	Q12158	SCC1_YEAST	reviewed	Sister chromatid cohesion protein 1	MCD1 PDS3 RHC21 SCC1 YDL003W YD8119.04	566	UP000002311: Chromosome IV
+YDL014W	P15646	FBRL_YEAST	reviewed	rRNA 2'-O-methyltransferase fibrillarin (EC 2.1.1.-) (Histone-glutamine methyltransferase) (U3 small nucleolar RNA-associated protein NOP1) (Nucleolar protein 1) (U3 snoRNA-associated protein NOP1)	NOP1 LOT3 YDL014W D2870	327	UP000002311: Chromosome IV
+YDL017W	P06243	CDC7_YEAST	reviewed	Cell division control protein 7 (EC 2.7.11.1)	CDC7 OAF2 YDL017W D2855	507	UP000002311: Chromosome IV
+YDL029W	P32381	ARP2_YEAST	reviewed	Actin-related protein 2 (Actin-like protein ARP2) (Actin-like protein 2)	ARP2 ACT2 YDL029W D2778	391	UP000002311: Chromosome IV
+YDL030W	P19736	PRP9_YEAST	reviewed	Pre-mRNA-splicing factor PRP9	PRP9 YDL030W D2773	530	UP000002311: Chromosome IV
+YDL035C	Q12361	GPR1_YEAST	reviewed	G protein-coupled receptor GPR1	GPR1 YDL035C	961	UP000002311: Chromosome IV
+YDL040C	P12945	NAT1_YEAST	reviewed	N-terminal acetyltransferase A complex subunit NAT1 (NatA complex subunit NAT1) (Amino-terminal, alpha-amino, acetyltransferase 1)	NAT1 AAA1 YDL040C D2720	854	UP000002311: Chromosome IV
+YDL042C	P06700	SIR2_YEAST	reviewed	NAD-dependent histone deacetylase SIR2 (EC 2.3.1.286) (Regulatory protein SIR2) (Silent information regulator 2)	SIR2 MAR1 YDL042C D2714	562	UP000002311: Chromosome IV
+YDL043C	Q07350	PRP11_YEAST	reviewed	Pre-mRNA-splicing factor PRP11	PRP11 PRP10 RNA11 YDL043C D2711	266	UP000002311: Chromosome IV
+YDL047W	P20604	PP11_YEAST	reviewed	Serine/threonine-protein phosphatase PP1-1 (EC 3.1.3.16)	SIT4 PPH1 YDL047W D2693	311	UP000002311: Chromosome IV
+YDL056W	P39678	MBP1_YEAST	reviewed	Transcription factor MBP1 (MBF subunit p120)	MBP1 YDL056W	833	UP000002311: Chromosome IV
+YDL061C	P41058	RS29B_YEAST	reviewed	40S ribosomal protein S29-B (S36) (Small ribosomal subunit protein uS14-B) (YS29)	RPS29B RPS36B YS29B YDL061C	56	UP000002311: Chromosome IV
+YDL064W	P50623	UBC9_YEAST	reviewed	SUMO-conjugating enzyme UBC9 (EC 2.3.2.-) (RING-type E3 SUMO transferase UBC9) (Ubiquitin carrier protein 9) (Ubiquitin-conjugating enzyme E2-18 kDa) (Ubiquitin-protein ligase)	UBC9 YDL064W	157	UP000002311: Chromosome IV
+YDL077C	Q07468	VAM6_YEAST	reviewed	Vacuolar morphogenesis protein 6 (Vacuolar protein sorting-associated protein 39)	VAM6 CVT4 VPL18 VPL22 VPS39 YDL077C	1049	UP000002311: Chromosome IV
+YDL083C	P0CX52	RS16B_YEAST	reviewed	40S ribosomal protein S16-B (RP61R) (Small ribosomal subunit protein uS9-B)	RPS16B YDL083C	143	UP000002311: Chromosome IV
+YDL090C	P22007	FNTB_YEAST	reviewed	Protein farnesyltransferase subunit beta (FTase-beta) (EC 2.5.1.58) (CAAX farnesyltransferase subunit beta) (Ras proteins prenyltransferase subunit beta)	RAM1 DPR1 SCG2 STE16 YDL090C D2412	431	UP000002311: Chromosome IV
+YDL101C	P39009	DUN1_YEAST	reviewed	DNA damage response protein kinase DUN1 (EC 2.7.11.1)	DUN1 YDL101C D2370	513	UP000002311: Chromosome IV
+YDL102W	P15436	DPOD_YEAST	reviewed	DNA polymerase delta catalytic subunit (EC 2.7.7.7) (3'-5' exodeoxyribonuclease) (EC 3.1.11.-) (DNA polymerase III)	POL3 CDC2 TEX1 YDL102W D2366	1097	UP000002311: Chromosome IV
+YDL106C	P07269	PHO2_YEAST	reviewed	Regulatory protein PHO2 (General regulatory factor 10)	PHO2 BAS2 GRF10 YDL106C D2350	559	UP000002311: Chromosome IV
+YDL108W	P06242	KIN28_YEAST	reviewed	Serine/threonine-protein kinase KIN28 (EC 2.7.11.23)	KIN28 YDL108W D2330	306	UP000002311: Chromosome IV
+YDL111C	Q12277	RRP42_YEAST	reviewed	Exosome complex component RRP42 (Ribosomal RNA-processing protein 42)	RRP42 YDL111C	265	UP000002311: Chromosome IV
+YDL113C	Q07528	ATG20_YEAST	reviewed	Autophagy-related protein 20 (Cytoplasm to vacuole targeting protein 20) (Sorting nexin-42)	ATG20 CVT20 SNX42 YDL113C	640	UP000002311: Chromosome IV
+YDL126C	P25694	CDC48_YEAST	reviewed	Cell division control protein 48 (EC 3.6.4.6) (Cell division cycle protein 48) (Transitional endoplasmic reticulum ATPase homolog)	CDC48 YDL126C	835	UP000002311: Chromosome IV
+YDL127W	P25693	PCL2_YEAST	reviewed	PHO85 cyclin-2 (Cyclin HCS26 homolog) (G1/S-specific cyclin PCL2)	PCL2 CLN4 YDL127W D2223	308	UP000002311: Chromosome IV
+YDL132W	Q12018	CDC53_YEAST	reviewed	Cell division control protein 53 (Cullin-A) (E3 ubiquitin ligase complex SCF subunit CDC53)	CDC53 YDL132W D2190	815	UP000002311: Chromosome IV
+YDL134C	P23594	PP2A1_YEAST	reviewed	Serine/threonine-protein phosphatase PP2A-1 catalytic subunit (EC 3.1.3.16)	PPH21 YDL134C D2180	369	UP000002311: Chromosome IV
+YDL140C	P04050	RPB1_YEAST	reviewed	DNA-directed RNA polymerase II subunit RPB1 (RNA polymerase II subunit 1) (RNA polymerase II subunit B1) (EC 2.7.7.6) (DNA-directed RNA polymerase III largest subunit) (RNA polymerase II subunit B220)	RPO21 RPB1 RPB220 SUA8 YDL140C D2150	1733	UP000002311: Chromosome IV
+YDL147W	Q12250	RPN5_YEAST	reviewed	26S proteasome regulatory subunit RPN5 (Proteasome non-ATPase subunit 5)	RPN5 NAS5 YDL147W D1572	445	UP000002311: Chromosome IV
+YDL150W	P25441	RPC4_YEAST	reviewed	DNA-directed RNA polymerase III subunit RPC4 (RNA polymerase III subunit C4) (C53) (DNA-directed RNA polymerase III 47 kDa polypeptide)	RPC53 RPC4 YDL150W D1557	422	UP000002311: Chromosome IV
+YDL155W	P24870	CG23_YEAST	reviewed	G2/mitotic-specific cyclin-3	CLB3 YDL155W D1539	427	UP000002311: Chromosome IV
+YDL156W	Q12510	CMR1_YEAST	reviewed	DNA damage-binding protein CMR1 (Changed mutation rate protein 1)	CMR1 YDL156W D1536	522	UP000002311: Chromosome IV
+YDL161W	Q12518	ENT1_YEAST	reviewed	Epsin-1	ENT1 YDL161W	454	UP000002311: Chromosome IV
+YDL179W	Q12477	PCL9_YEAST	reviewed	PHO85 cyclin-9	PCL9 YDL179W D1408	304	UP000002311: Chromosome IV
+YDL185W	P17255	VATA_YEAST	reviewed	V-type proton ATPase catalytic subunit A (V-ATPase subunit A) (EC 7.1.2.2) (Vacuolar proton pump subunit A) [Cleaved into: Endonuclease PI-SceI (EC 3.1.-.-) (Sce VMA intein) (VMA1-derived endonuclease) (VDE)]	VMA1 CLS8 TFP1 YDL185W D1286	1071	UP000002311: Chromosome IV
+YDL188C	P23595	PP2A2_YEAST	reviewed	Serine/threonine-protein phosphatase PP2A-2 catalytic subunit (EC 3.1.3.16)	PPH22 SIS4 YDL188C D1271	377	UP000002311: Chromosome IV
+YDL190C	P54860	UFD2_YEAST	reviewed	E4 ubiquitin-protein ligase UFD2 (EC 2.3.2.27) (RING-type E3 ubiquitin transferase UFD2) (Ubiquitin conjugation factor E4) (Ubiquitin fusion degradation protein 2) (UB fusion protein 2)	UFD2 YDL190C D1255	961	UP000002311: Chromosome IV
+YDL192W	P11076	ARF1_YEAST	reviewed	ADP-ribosylation factor 1	ARF1 YDL192W D1244	181	UP000002311: Chromosome IV
+YDL199C	Q12407	YD199_YEAST	reviewed	Putative metabolite transport protein YDL199C	YDL199C D1209	687	UP000002311: Chromosome IV
+YDL207W	Q12315	GLE1_YEAST	reviewed	Nucleoporin GLE1 (Nuclear pore protein GLE1) (RNA export factor GLE1)	GLE1 BRR3 RSS1 YDL207W D1049	538	UP000002311: Chromosome IV
+YDL208W	P32495	NHP2_YEAST	reviewed	H/ACA ribonucleoprotein complex subunit NHP2 (H/ACA snoRNP protein NHP2) (High mobility group-like nuclear protein 2)	NHP2 YDL208W D1045	156	UP000002311: Chromosome IV
+YDL209C	Q12046	CWC2_YEAST	reviewed	Pre-mRNA-splicing factor CWC2 (Complexed with CEF1 protein 2) (PRP19-associated complex protein 40) (Synthetic lethal with CLF1 protein 3)	CWC2 NTC40 SLC3 YDL209C D1041	339	UP000002311: Chromosome IV
+YDL217C	Q12328	TIM22_YEAST	reviewed	Mitochondrial import inner membrane translocase subunit TIM22	TIM22 YDL217C D0884	207	UP000002311: Chromosome IV
+YDL220C	P32797	CDC13_YEAST	reviewed	Cell division control protein 13	CDC13 YDL220C	924	UP000002311: Chromosome IV
+YDL225W	Q07657	SHS1_YEAST	reviewed	Seventh homolog of septin 1 (Septation protein 7)	SHS1 SEP7 YDL225W	551	UP000002311: Chromosome IV
+YDL226C	P35197	GCS1_YEAST	reviewed	ADP-ribosylation factor GTPase-activating protein GCS1 (ARF GAP GCS1)	GCS1 YDL226C	352	UP000002311: Chromosome IV
+YDL235C	Q07688	YPD1_YEAST	reviewed	Phosphorelay intermediate protein YPD1 (Histidine-containing phosphotransfer protein YPD1) (Tyrosine phosphatase-dependent protein 1)	YPD1 YDL235C D0790	167	UP000002311: Chromosome IV
+YDL240W	P35688	LRG1_YEAST	reviewed	Rho-GTPase-activating protein LRG1 (LIM-RhoGAP protein 1)	LRG1 YDL240W	1017	UP000002311: Chromosome IV
+YDL246C	Q07786	DHSO2_YEAST	reviewed	Sorbitol dehydrogenase 2 (SDH 2) (EC 1.1.1.-) (Polyol dehydrogenase) (Xylitol dehydrogenase) (EC 1.1.1.9)	SOR2 YDL246C	357	UP000002311: Chromosome IV
+YDR009W	P13045	GAL3_YEAST	reviewed	Protein GAL3	GAL3 YDR009W YD8119.14	520	UP000002311: Chromosome IV
+YDR016C	Q12248	DAD1_YEAST	reviewed	DASH complex subunit DAD1 (DUO1 and DAM1-interacting protein 1) (Outer kinetochore protein DAD1)	DAD1 YDR016C	94	UP000002311: Chromosome IV
+YDR019C	P48015	GCST_YEAST	reviewed	Aminomethyltransferase, mitochondrial (EC 2.1.2.10) (Glycine cleavage system T protein) (GCVT) (Glycine decarboxylase complex subunit T)	GCV1 YDR019C YD9335.05C	400	UP000002311: Chromosome IV
+YDR027C	Q12071	VPS54_YEAST	reviewed	Vacuolar protein sorting-associated protein 54 (CPF1 genetically-interacting protein 1) (Temperature-sensitive clathrin synthetic mutation protein 3)	VPS54 CGP1 LUV1 RKI1 TCS3 YDR027C PZF889 YD9813.05C	889	UP000002311: Chromosome IV
+YDR052C	P32325	DBF4_YEAST	reviewed	DDK kinase regulatory subunit DBF4 (Dumbbell forming protein 4)	DBF4 DNA52 YDR052C D4205 YD9609.07C	704	UP000002311: Chromosome IV
+YDR054C	P14682	UBC3_YEAST	reviewed	Ubiquitin-conjugating enzyme E2-34 kDa (EC 2.3.2.23) (Cell division control protein 34) (E2 ubiquitin-conjugating enzyme 3) (E3 ubiquitin ligase complex SCF subunit CDC34) (Ubiquitin carrier protein) (Ubiquitin-protein ligase)	CDC34 DNA6 UBC3 YDR054C D4211 YD9609.08C	295	UP000002311: Chromosome IV
+YDR074W	P31688	TPS2_YEAST	reviewed	Trehalose-phosphatase (EC 3.1.3.12) (Trehalose synthase complex catalytic subunit TPS2) (Trehalose-6-phosphate phosphatase) (TPP)	TPS2 PFK3 YDR074W YD8554.07	896	UP000002311: Chromosome IV
+YDR076W	P38953	RAD55_YEAST	reviewed	DNA repair protein RAD55	RAD55 YDR076W D4426	406	UP000002311: Chromosome IV
+YDR078C	P38957	SHU2_YEAST	reviewed	Suppressor of hydroxyurea sensitivity protein 2	SHU2 YDR078C D4436	223	UP000002311: Chromosome IV
+YDR080W	P38959	VPS41_YEAST	reviewed	Vacuolar protein sorting-associated protein 41 (Vacuolar morphogenesis protein 2)	VPS41 FET2 VAM2 YDR080W D446 YD8554.13	992	UP000002311: Chromosome IV
+YDR082W	P38960	STN1_YEAST	reviewed	Protein STN1	STN1 YDR082W D4456 YD8554.15	494	UP000002311: Chromosome IV
+YDR085C	P33304	AFR1_YEAST	reviewed	Protein AFR1	AFR1 YDR085C D4471	620	UP000002311: Chromosome IV
+YDR086C	P35179	SC61G_YEAST	reviewed	Protein transport protein SSS1 (Sec61 complex subunit SSS1) (Sec61 complex subunit gamma) (Ssh1 complex subunit SSS1) (Ssh1 complex subunit gamma)	SSS1 YDR086C D4475	80	UP000002311: Chromosome IV
+YDR088C	Q02775	SLU7_YEAST	reviewed	Pre-mRNA-splicing factor SLU7 (Synthetic lethal with U2 snRNA protein 17) (Synthetic lethal with U5 snRNA protein 7)	SLU7 SLT17 YDR088C D4483	382	UP000002311: Chromosome IV
+YDR092W	P52490	UBC13_YEAST	reviewed	Ubiquitin-conjugating enzyme E2 13 (EC 2.3.2.23) (E2 ubiquitin-conjugating enzyme 13) (Ubiquitin carrier protein 13) (Ubiquitin-protein ligase 13)	UBC13 YDR092W YD6652.04	153	UP000002311: Chromosome IV
+YDR097C	Q03834	MSH6_YEAST	reviewed	DNA mismatch repair protein MSH6 (MutS protein homolog 6) (Postmeiotic segregation protein 3)	MSH6 PMS3 YDR097C YD8557.04C	1242	UP000002311: Chromosome IV
+YDR099W	P34730	BMH2_YEAST	reviewed	Protein BMH2	BMH2 YDR099W YD8557.08	273	UP000002311: Chromosome IV
+YDR103W	P32917	STE5_YEAST	reviewed	Protein STE5	STE5 NUL3 YDR103W YD8557.12	917	UP000002311: Chromosome IV
+YDR113C	P40316	SECU_YEAST	reviewed	Securin	PDS1 YDR113C YD9727.08C	373	UP000002311: Chromosome IV
+YDR121W	Q04603	DPB4_YEAST	reviewed	DNA polymerase epsilon subunit D (DNA polymerase II subunit D)	DPB4 YDR121W	196	UP000002311: Chromosome IV
+YDR123C	P26798	INO2_YEAST	reviewed	Protein INO2	INO2 DIE1 SCS1 YDR123C YD9727.18C	304	UP000002311: Chromosome IV
+YDR129C	P32599	FIMB_YEAST	reviewed	Fimbrin (ABP67)	SAC6 YDR129C YD9302.04C	642	UP000002311: Chromosome IV
+YDR130C	Q03898	FIN1_YEAST	reviewed	Filament protein FIN1 (Filaments in between nuclei protein 1)	FIN1 YDR130C YD9302.05C	291	UP000002311: Chromosome IV
+YDR142C	P39108	PEX7_YEAST	reviewed	Peroxisomal targeting signal 2 receptor (PTS2 receptor) (Peroxin-7) (Peroxisome import protein PAS7)	PEX7 PAS7 PEB1 YDR142C YD2943.01C YD9302.18C	375	UP000002311: Chromosome IV
+YDR145W	Q03761	TAF12_YEAST	reviewed	Transcription initiation factor TFIID subunit 12 (TAFII-61) (TAFII61) (TAFII-68) (TAFII68) (TBP-associated factor 12) (TBP-associated factor 61 kDa)	TAF12 TAF61 TAF68 YDR145W YD8358.02	539	UP000002311: Chromosome IV
+YDR162C	Q12163	NBP2_YEAST	reviewed	NAP1-binding protein 2	NBP2 YDR162C	236	UP000002311: Chromosome IV
+YDR166C	P89102	SEC5_YEAST	reviewed	Exocyst complex component SEC5	SEC5 YDR166C YD8358.20C YD9489.01C	971	UP000002311: Chromosome IV
+YDR167W	Q12030	TAF10_YEAST	reviewed	Transcription initiation factor TFIID subunit 10 (TAFII-23) (TAFII23) (TAFII-25) (TAFII25) (TBP-associated factor 10) (TBP-associated factor 25 kDa) (p25)	TAF10 TAF23 TAF25 YDR167W YD9489.02	206	UP000002311: Chromosome IV
+YDR168W	P06101	CDC37_YEAST	reviewed	Hsp90 co-chaperone Cdc37 (Cell division control protein 37) (Hsp90 chaperone protein kinase-targeting subunit)	CDC37 SMO1 YDR168W YD9489.03	506	UP000002311: Chromosome IV
+YDR171W	Q12329	HSP42_YEAST	reviewed	Heat shock protein 42 (42 kDa heat shock protein)	HSP42 YDR171W YD9395.04	375	UP000002311: Chromosome IV
+YDR172W	P05453	ERF3_YEAST	reviewed	Eukaryotic peptide chain release factor GTP-binding subunit (ERF-3) (ERF3) (ERF2) (G1 to S phase transition protein 1) (Omnipotent suppressor protein 2) (PSI no more protein 2) (Polypeptide release factor 3) (Translation release factor 3)	SUP35 GST1 PNM2 SAL3 SUF12 SUP2 YDR172W YD9395.05	685	UP000002311: Chromosome IV
+YDR173C	P07250	IPMK_YEAST	reviewed	Inositol polyphosphate multikinase (IPMK) (EC 2.7.1.151) (Arginine metabolism regulation protein III)	ARG82 ARGR3 IPK2 YDR173C YD9395.06C	355	UP000002311: Chromosome IV
+YDR178W	P37298	DHSD_YEAST	reviewed	Succinate dehydrogenase [ubiquinone] cytochrome b small subunit, mitochondrial (CybS) (Succinate-ubiquinone reductase membrane anchor subunit)	SDH4 ACN18 YDR178W YD9395.11	181	UP000002311: Chromosome IV
+YDR179C	Q03981	CSN9_YEAST	reviewed	COP9 signalosome complex subunit 9	CSN9 YDR179C	162	UP000002311: Chromosome IV
+YDR181C	Q04003	SAS4_YEAST	reviewed	Something about silencing protein 4	SAS4 YDR181C YD9395.15C	481	UP000002311: Chromosome IV
+YDR189W	P22213	SLY1_YEAST	reviewed	Protein SLY1 (Suppressor of loss of YPT1 protein 1)	SLY1 YDR189W YD9346.01 YD9395.22	666	UP000002311: Chromosome IV
+YDR190C	Q03940	RUVB1_YEAST	reviewed	RuvB-like protein 1 (RUVBL1) (EC 3.6.4.12) (TIP49-homology protein 1) (TIP49a homolog)	RVB1 TIH1 TIP49A YDR190C	463	UP000002311: Chromosome IV
+YDR192C	P49686	NUP42_YEAST	reviewed	Nucleoporin NUP42 (Nuclear pore protein NUP42)	NUP42 RIP1 UIP1 YDR192C YD9346.04C	430	UP000002311: Chromosome IV
+YDR195W	P42073	REF2_YEAST	reviewed	RNA end formation protein 2	REF2 YDR195W YD9346.06	533	UP000002311: Chromosome IV
+YDR201W	Q03954	SPC19_YEAST	reviewed	DASH complex subunit SPC19 (19 kDa spindle pole component protein) (Outer kinetochore protein SPC19)	SPC19 YDR201W	165	UP000002311: Chromosome IV
+YDR202C	Q03956	RAV2_YEAST	reviewed	Regulator of V-ATPase in vacuolar membrane protein 2	RAV2 YDR202C YD9346.12C	351	UP000002311: Chromosome IV
+YDR207C	P39001	UME6_YEAST	reviewed	Transcriptional regulatory protein UME6 (Negative transcriptional regulator of IME2) (Regulator of inducer of meiosis protein 16) (Unscheduled meiotic gene expression protein 6)	UME6 CAR80 CARGR1 NIM2 RIM16 YDR207C YD8142.04C	836	UP000002311: Chromosome IV
+YDR213W	Q12151	UPC2_YEAST	reviewed	Sterol uptake control protein 2 (Mannoprotein regulation by oxygen protein 4)	UPC2 MOX4 YDR213W YD8142.14 YD8142B.05	913	UP000002311: Chromosome IV
+YDR214W	Q12449	AHA1_YEAST	reviewed	Hsp90 co-chaperone AHA1 (Activator of Hsp90 ATPase protein 1)	AHA1 YDR214W YD8142.16 YD8142B.06	350	UP000002311: Chromosome IV
+YDR216W	P07248	ADR1_YEAST	reviewed	Regulatory protein ADR1	ADR1 YDR216W YD8142.16 YD8142B.08	1323	UP000002311: Chromosome IV
+YDR217C	P14737	RAD9_YEAST	reviewed	DNA repair protein RAD9	RAD9 YDR217C YD9934.02C	1309	UP000002311: Chromosome IV
+YDR225W	P04911	H2A1_YEAST	reviewed	Histone H2A.1	HTA1 H2A1 SPT11 YDR225W YD9934.10	132	UP000002311: Chromosome IV
+YDR227W	P11978	SIR4_YEAST	reviewed	Regulatory protein SIR4 (Silent information regulator 4)	SIR4 ASD1 STE9 UTH2 YDR227W YD9934.12	1358	UP000002311: Chromosome IV
+YDR228C	P39081	PCF11_YEAST	reviewed	Protein PCF11 (protein 1 of CF I)	PCF11 YDR228C YD9934.13C	626	UP000002311: Chromosome IV
+YDR239C	Q03780	YD239_YEAST	reviewed	Uncharacterized protein YDR239C	YDR239C	787	UP000002311: Chromosome IV
+YDR244W	P35056	PEX5_YEAST	reviewed	Peroxisomal targeting signal receptor (PTS1 receptor) (PTS1R) (Peroxin-5) (Peroxisomal protein PAS10)	PEX5 PAS10 YDR244W YD8419.11	612	UP000002311: Chromosome IV
+YDR246W	Q03784	TRS23_YEAST	reviewed	Trafficking protein particle complex subunit 23 (TRAPP subunit 23) (Transport protein particle 23 kDa subunit)	TRS23 YDR246W YD8419.13	219	UP000002311: Chromosome IV
+YDR253C	Q12041	MET32_YEAST	reviewed	Transcriptional regulator MET32 (Methionine-requiring protein 32)	MET32 YDR253C YD9320A.03C	191	UP000002311: Chromosome IV
+YDR254W	P38907	CENPN_YEAST	reviewed	Inner kinetochore subunit CHL4 (CENP-N homolog) (Chromosome loss protein 4) (Chromosome transmission fidelity protein 17) (Constitutive centromere-associated network protein CHL4) (Minichromosome maintenance protein 17)	CHL4 CTF17 MCM17 YDR254W YD9320A.04	458	UP000002311: Chromosome IV
+YDR264C	P39010	AKR1_YEAST	reviewed	Palmitoyltransferase AKR1 (EC 2.3.1.225) (Ankyrin repeat-containing protein AKR1)	AKR1 YDR264C D9954.9 YD9230B.03C	764	UP000002311: Chromosome IV
+YDR267C	Q05583	CIAO1_YEAST	reviewed	Cytosolic iron-sulfur protein assembly protein 1	CIA1 YDR267C	330	UP000002311: Chromosome IV
+YDR270W	P38995	ATU2_YEAST	reviewed	Copper-transporting ATPase (EC 7.2.2.8) (Cu(2+)-ATPase)	CCC2 YDR270W D9954.6	1004	UP000002311: Chromosome IV
+YDR277C	P35198	MTH1_YEAST	reviewed	Protein MTH1	MTH1 YDR277C D9954.12	433	UP000002311: Chromosome IV
+YDR283C	P15442	GCN2_YEAST	reviewed	eIF-2-alpha kinase GCN2 (EC 2.7.11.1) (General control non-derepressible protein 2) (Serine/threonine-protein kinase GCN2)	GCN2 AAS1 YDR283C	1659	UP000002311: Chromosome IV
+YDR285W	P31111	ZIP1_YEAST	reviewed	Synaptonemal complex protein ZIP1	ZIP1 YDR285W D9819.9	875	UP000002311: Chromosome IV
+YDR292C	P32916	SRPR_YEAST	reviewed	Signal recognition particle receptor subunit alpha homolog (SR-alpha) (Docking protein alpha) (DP-alpha)	SRP101 YDR292C D9819.3	621	UP000002311: Chromosome IV
+YDR301W	Q06632	CFT1_YEAST	reviewed	Protein CFT1 (Cleavage factor two protein 1)	CFT1 YHH1 YDR301W	1357	UP000002311: Chromosome IV
+YDR309C	Q06648	GIC2_YEAST	reviewed	GTPase-interacting component 2	GIC2 YDR309C D9740.18	383	UP000002311: Chromosome IV
+YDR310C	P46676	SUM1_YEAST	reviewed	Suppressor of mar1-1 protein (SUM1-1 protein)	SUM1 YDR310C D9740.19	1062	UP000002311: Chromosome IV
+YDR320C	Q06677	SWA2_YEAST	reviewed	Auxilin-like clathrin uncoating factor SWA2 (Bud site selection protein 24) (DnaJ-related protein SWA2) (J protein SWA2) (Synthetic lethal with ARF1 protein 2)	SWA2 AUX1 BUD24 YDR320C D9798.10	668	UP000002311: Chromosome IV
+YDR328C	P52286	SKP1_YEAST	reviewed	Suppressor of kinetochore protein 1 (Centromere DNA-binding protein complex CBF3 subunit D) (E3 ubiquitin ligase complex SCF subunit SKP1)	SKP1 CBF3D YDR328C D9798.14	194	UP000002311: Chromosome IV
+YDR356W	P32380	SP110_YEAST	reviewed	Spindle pole body component 110 (Extragenic suppressor of CMD1-1 mutant protein 1) (Nuclear filament-related protein 1) (Spindle pole body spacer protein SPC110)	SPC110 NUF1 XCM1 YDR356W D9476.3	944	UP000002311: Chromosome IV
+YDR359C	Q06337	EAF1_YEAST	reviewed	Chromatin modification-related protein EAF1 (ESA1-associated factor 1) (Vacuolar import and degradation protein 21)	EAF1 VID21 YDR359C	982	UP000002311: Chromosome IV
+YDR369C	P33301	XRS2_YEAST	reviewed	DNA repair protein XRS2	XRS2 YDR369C D9481.13	854	UP000002311: Chromosome IV
+YDR377W	Q06405	ATPK_YEAST	reviewed	ATP synthase subunit f, mitochondrial	ATP17 YDR377W D9481.21	101	UP000002311: Chromosome IV
+YDR378C	Q06406	LSM6_YEAST	reviewed	U6 snRNA-associated Sm-like protein LSm6	LSM6 YDR378C D9481.18	86	UP000002311: Chromosome IV
+YDR381W	Q12159	YRA1_YEAST	reviewed	RNA annealing protein YRA1	YRA1 YDR381W D9481.2 D9509.1	226	UP000002311: Chromosome IV
+YDR388W	P39743	RV167_YEAST	reviewed	Reduced viability upon starvation protein 167	RVS167 YDR388W D9509.8	482	UP000002311: Chromosome IV
+YDR390C	P52488	UBA2_YEAST	reviewed	Ubiquitin-activating enzyme E1-like (Polymerase-interacting protein 2) (SMT3-activating enzyme subunit 2)	UBA2 PIP2 UAL1 YDR390C D9509.10	636	UP000002311: Chromosome IV
+YDR392W	P06844	SPT3_YEAST	reviewed	Protein SPT3 (Positive regulator of Ty transcription)	SPT3 YDR392W D9509.12	337	UP000002311: Chromosome IV
+YDR394W	P33298	PRS6B_YEAST	reviewed	26S proteasome regulatory subunit 6B homolog (Protein YNT1) (Tat-binding homolog 2)	RPT3 YNT1 YTA2 YDR394W D9509.14	428	UP000002311: Chromosome IV
+YDR397C	Q92317	NCB2_YEAST	reviewed	Negative cofactor 2 complex subunit beta (NC2 complex subunit beta) (Transcriptional repressor YDR1)	NCB2 YDR1 YDR397C	146	UP000002311: Chromosome IV
+YDR404C	P34087	RPB7_YEAST	reviewed	DNA-directed RNA polymerase II subunit RPB7 (RNA polymerase II subunit B7) (B16)	RPB7 YDR404C D9509.22	171	UP000002311: Chromosome IV
+YDR416W	Q04048	SYF1_YEAST	reviewed	Pre-mRNA-splicing factor SYF1 (PRP19-associated complex protein 90) (Synthetic lethal with CDC40 protein 1)	SYF1 NTC90 YDR416W	859	UP000002311: Chromosome IV
+YDR443C	P38931	SSN2_YEAST	reviewed	Mediator of RNA polymerase II transcription subunit 13 (Mediator complex subunit 13) (Protein SCA1) (Suppressor of RNA polymerase B SSN2)	SSN2 MED13 NUT8 RYE3 SCA1 SRB9 UME2 YDR443C	1420	UP000002311: Chromosome IV
+YDR448W	Q02336	ADA2_YEAST	reviewed	Transcriptional adapter 2	ADA2 YDR448W D9461.33	434	UP000002311: Chromosome IV
+YDR450W	P0CX55	RS18A_YEAST	reviewed	40S ribosomal protein S18-A (Small ribosomal subunit protein uS13-A)	RPS18A YDR450W D9461.35	146	UP000002311: Chromosome IV
+YDR468C	Q03322	TLG1_YEAST	reviewed	t-SNARE affecting a late Golgi compartment protein 1 (Syntaxin TLG1)	TLG1 YDR468C D8035.11	224	UP000002311: Chromosome IV
+YDR472W	Q03337	TRS31_YEAST	reviewed	Trafficking protein particle complex subunit 31 (TRAPP subunit 31) (Transport protein particle 31 kDa subunit)	TRS31 YDR472W	283	UP000002311: Chromosome IV
+YDR473C	Q03338	PRP3_YEAST	reviewed	U4/U6 small nuclear ribonucleoprotein PRP3 (Pre-mRNA-splicing factor 3)	PRP3 RNA3 YDR473C D8035.16	469	UP000002311: Chromosome IV
+YDR477W	P06782	SNF1_YEAST	reviewed	Carbon catabolite-derepressing protein kinase (EC 2.7.11.1) (Sucrose nonfermentating protein 1)	SNF1 CAT1 CCR1 GLC2 PAS14 YDR477W D8035.20	633	UP000002311: Chromosome IV
+YDR480W	Q03373	DIG2_YEAST	reviewed	Down-regulator of invasive growth 2 (Regulator of STE12 protein 2) (Regulator of sterile twelve 2)	DIG2 RST2 YDR480W D8035.23	323	UP000002311: Chromosome IV
+YDR484W	P39904	VPS52_YEAST	reviewed	Vacuolar protein sorting-associated protein 52 (Suppressor of actin mutation protein 2)	VPS52 SAC2 YDR484W D8035.27	641	UP000002311: Chromosome IV
+YDR499W	Q04377	LCD1_YEAST	reviewed	DNA damage checkpoint protein LCD1 (DNA damage checkpoint protein 2) (Lethal, checkpoint-defective, DNA damage-sensitive protein 1)	LCD1 DDC2 PIE1 YDR499W	747	UP000002311: Chromosome IV
+YDR500C	P51402	RL37B_YEAST	reviewed	60S ribosomal protein L37-B (L43) (Large ribosomal subunit protein eL37-B) (YL35) (YP55)	RPL37B RPL35B YDR500C D9719.6	88	UP000002311: Chromosome IV
+YDR507C	Q12263	GIN4_YEAST	reviewed	Serine/threonine-protein kinase GIN4 (EC 2.7.11.1) (Growth inhibitory protein 4)	GIN4 YDR507C D9719.13	1142	UP000002311: Chromosome IV
+YDR510W	Q12306	SMT3_YEAST	reviewed	Ubiquitin-like protein SMT3	SMT3 YDR510W D9719.15	101	UP000002311: Chromosome IV
+YEL005C	P40003	VAB2_YEAST	reviewed	Biogenesis of lysosome-related organelles complex 1 subunit VAB2 (BLOC-1 subunit VAB2) (VAC8-binding protein 2)	VAB2 VAB31 YEL005C	282	UP000002311: Chromosome V
+YEL009C	P03069	GCN4_YEAST	reviewed	General control protein GCN4 (Amino acid biosynthesis regulatory protein)	GCN4 AAS3 ARG9 YEL009C	281	UP000002311: Chromosome V
+YEL013W	P39968	VAC8_YEAST	reviewed	Vacuolar protein 8	VAC8 YEB3 YEL013W	578	UP000002311: Chromosome V
+YEL015W	P39998	EDC3_YEAST	reviewed	Enhancer of mRNA-decapping protein 3	EDC3 LSM16 YEL015W	551	UP000002311: Chromosome V
+YEL023C	P39992	YEC3_YEAST	reviewed	Uncharacterized protein YEL023C	YEL023C	682	UP000002311: Chromosome V
+YEL024W	P08067	UCRI_YEAST	reviewed	Cytochrome b-c1 complex subunit Rieske, mitochondrial (EC 7.1.1.8) (Complex III subunit 5) (Rieske iron-sulfur protein) (RISP) (Ubiquinol-cytochrome c oxidoreductase iron-sulfur subunit)	RIP1 YEL024W	215	UP000002311: Chromosome V
+YEL032W	P24279	MCM3_YEAST	reviewed	DNA replication licensing factor MCM3 (EC 3.6.4.12) (Minichromosome maintenance protein 3)	MCM3 YEL032W SYGP-ORF23	971	UP000002311: Chromosome V
+YEL034W	P23301	IF5A1_YEAST	reviewed	Eukaryotic translation initiation factor 5A-1 (eIF-5A-1) (Hypusine-containing protein HP2) (eIF-4D)	HYP2 TIF51A YEL034W SYGP-ORF21	157	UP000002311: Chromosome V
+YEL036C	P32629	ANP1_YEAST	reviewed	Mannan polymerase II complex ANP1 subunit (M-Pol II subunit ANP1) (Aminonitrophenyl propanediol resistance protein)	ANP1 GEM3 YEL036C SYGP-ORF28	500	UP000002311: Chromosome V
+YEL037C	P32628	RAD23_YEAST	reviewed	UV excision repair protein RAD23	RAD23 YEL037C SYGP-ORF29	398	UP000002311: Chromosome V
+YEL056W	P39984	HAT2_YEAST	reviewed	Histone acetyltransferase type B subunit 2	HAT2 YEL056W	401	UP000002311: Chromosome V
+YER001W	P39106	MNN1_YEAST	reviewed	Alpha-1,3-mannosyltransferase MNN1 (EC 2.4.1.-)	MNN1 YER001W	762	UP000002311: Chromosome V
+YER008C	P33332	SEC3_YEAST	reviewed	Exocyst complex component SEC3 (Protein PSL1)	SEC3 PSL1 YER008C	1336	UP000002311: Chromosome V
+YER012W	P22141	PSB4_YEAST	reviewed	Proteasome subunit beta type-4 (EC 3.4.25.1) (Macropain subunit C11) (Multicatalytic endopeptidase complex subunit C11) (Proteasome component C11) (Proteinase YSCE subunit 11)	PRE1 YER012W	198	UP000002311: Chromosome V
+YER017C	P39925	AFG3_YEAST	reviewed	Mitochondrial respiratory chain complexes assembly protein AFG3 (EC 3.4.24.-) (ATPase family gene 3 protein) (Tat-binding homolog 10)	AFG3 YTA10 YER017C	761	UP000002311: Chromosome V
+YER018C	P40014	SPC25_YEAST	reviewed	Kinetochore protein SPC25	SPC25 YER018C	221	UP000002311: Chromosome V
+YER020W	P10823	GPA2_YEAST	reviewed	Guanine nucleotide-binding protein alpha-2 subunit (GP2-alpha)	GPA2 SSP101 YER020W	449	UP000002311: Chromosome V
+YER022W	P32569	MED17_YEAST	reviewed	Mediator of RNA polymerase II transcription subunit 17 (Mediator complex subunit 17) (Suppressor of RNA polymerase B 4)	SRB4 MED17 YER022W	687	UP000002311: Chromosome V
+YER025W	P32481	IF2G_YEAST	reviewed	Eukaryotic translation initiation factor 2 subunit gamma (eIF-2-gamma) (EC 3.6.5.3)	GCD11 SUI4 TIF213 YER025W	527	UP000002311: Chromosome V
+YER029C	P40018	RSMB_YEAST	reviewed	Small nuclear ribonucleoprotein-associated protein B (snRNP-B) (Sm protein B) (Sm-B) (SmB)	SMB1 YER029C	196	UP000002311: Chromosome V
+YER031C	P38555	YPT31_YEAST	reviewed	GTP-binding protein YPT31/YPT8 (Rab GTPase YPT31)	YPT31 YPT8 YER031C	223	UP000002311: Chromosome V
+YER032W	P40020	FIR1_YEAST	reviewed	Factor interacting with REF2 (PAP1-interacting protein) (Polymerase-interacting protein 1)	FIR1 PIP1 YER032W	876	UP000002311: Chromosome V
+YER033C	P40021	ZRG8_YEAST	reviewed	Zinc-regulated protein 8	ZRG8 YER033C	1076	UP000002311: Chromosome V
+YER059W	P40038	PCL6_YEAST	reviewed	PHO85 cyclin-6	PCL6 YER059W	420	UP000002311: Chromosome V
+YER070W	P21524	RIR1_YEAST	reviewed	Ribonucleoside-diphosphate reductase large chain 1 (EC 1.17.4.1) (Ribonucleotide reductase R1 subunit 1) (Ribonucleotide reductase large subunit 1)	RNR1 CRT7 RIR1 SDS12 YER070W	888	UP000002311: Chromosome V
+YER090W	P00899	TRPE_YEAST	reviewed	Anthranilate synthase component 1 (EC 4.1.3.27) (Anthranilate synthase component I)	TRP2 YER090W	507	UP000002311: Chromosome V
+YER094C	P25451	PSB3_YEAST	reviewed	Proteasome subunit beta type-3 (EC 3.4.25.1) (Macropain subunit PUP3) (Multicatalytic endopeptidase complex subunit PUP3) (Proteasome component PUP3)	PUP3 YER094C	205	UP000002311: Chromosome V
+YER095W	P25454	RAD51_YEAST	reviewed	DNA repair protein RAD51	RAD51 YER095W	400	UP000002311: Chromosome V
+YER107C	P40066	GLE2_YEAST	reviewed	Nucleoporin GLE2 (Nuclear pore protein GLE2) (poly(A) RNA export protein RAE1)	GLE2 RAE1 YER107C	365	UP000002311: Chromosome V
+YER110C	P40069	IMB4_YEAST	reviewed	Importin subunit beta-4 (Importin-123) (Karyopherin subunit beta-4) (Karyopherin-123) (Ran-binding protein YRB4)	KAP123 YRB4 YER110C	1113	UP000002311: Chromosome V
+YER111C	P25302	SWI4_YEAST	reviewed	Regulatory protein SWI4 (Cell-cycle box factor subunit SWI4) (Protein ART1)	SWI4 ART1 YER111C	1093	UP000002311: Chromosome V
+YER112W	P40070	LSM4_YEAST	reviewed	U6 snRNA-associated Sm-like protein LSm4	LSM4 SDB23 USS1 YER112W	187	UP000002311: Chromosome V
+YER114C	P39969	BOI2_YEAST	reviewed	Protein BOI2 (Protein BEB1)	BOI2 BEB1 YER114C	1040	UP000002311: Chromosome V
+YER115C	Q01684	SPR6_YEAST	reviewed	Sporulation-specific protein (SPR6)	SPR6 YER115C	191	UP000002311: Chromosome V
+YER117W	P0CX42	RL23B_YEAST	reviewed	60S ribosomal protein L23-B (L17a) (Large ribosomal subunit protein uL14-B) (YL32)	RPL23B RPL17AB RPL17B YER117W	137	UP000002311: Chromosome V
+YER118C	P40073	SHO1_YEAST	reviewed	High osmolarity signaling protein SHO1 (Osmosensor SHO1) (Suppressor of SUA8-1 mutation) (Synthetic high osmolarity-sensitive protein 1)	SHO1 SSU81 YER118C	367	UP000002311: Chromosome V
+YER122C	P38682	GLO3_YEAST	reviewed	ADP-ribosylation factor GTPase-activating protein GLO3 (ARF GAP GLO3)	GLO3 YER122C	493	UP000002311: Chromosome V
+YER123W	P39962	KC13_YEAST	reviewed	Casein kinase I homolog 3 (EC 2.7.11.1)	YCK3 CKI3 YER123W	524	UP000002311: Chromosome V
+YER124C	P40077	DSE1_YEAST	reviewed	Protein DSE1 (Daughter-specific expression protein 1)	DSE1 YER124C SYGP-ORF48	573	UP000002311: Chromosome V
+YER125W	P39940	RSP5_YEAST	reviewed	E3 ubiquitin-protein ligase RSP5 (EC 2.3.2.26) (HECT-type E3 ubiquitin transferase RSP5) (Reverses SPT-phenotype protein 5)	RSP5 MDP1 NPI1 YER125W SYGP-ORF41	809	UP000002311: Chromosome V
+YER133W	P32598	PP12_YEAST	reviewed	Serine/threonine-protein phosphatase PP1-2 (EC 3.1.3.16)	GLC7 CID1 DIS2 YER133W	312	UP000002311: Chromosome V
+YER136W	P39958	GDI1_YEAST	reviewed	Rab GDP-dissociation inhibitor (Rab GDI) (Secretory pathway GDP dissociation inhibitor)	GDI1 SEC19 YER136W	451	UP000002311: Chromosome V
+YER146W	P40089	LSM5_YEAST	reviewed	U6 snRNA-associated Sm-like protein LSm5	LSM5 YER146W	93	UP000002311: Chromosome V
+YER148W	P13393	TBP_YEAST	reviewed	TATA-box-binding protein (TATA sequence-binding protein) (TBP) (TATA-binding factor) (TATA-box factor) (Transcription factor D) (Transcription initiation factor TFIID TBP subunit)	SPT15 BTF1 TBP1 YER148W	240	UP000002311: Chromosome V
+YER157W	P40094	COG3_YEAST	reviewed	Conserved oligomeric Golgi complex subunit 3 (COG complex subunit 3) (Component of oligomeric Golgi complex 3) (Protein SEC34)	COG3 GRD20 SEC34 YER157W	801	UP000002311: Chromosome V
+YER158C	P40095	YEY8_YEAST	reviewed	Uncharacterized protein YER158C	YER158C	573	UP000002311: Chromosome V
+YER159C	P40096	NCB1_YEAST	reviewed	Negative cofactor 2 complex subunit alpha (NC2 complex subunit alpha) (Transcription repressor BUR6)	BUR6 NCB1 YER159C	142	UP000002311: Chromosome V
+YER161C	P06843	SPT2_YEAST	reviewed	Protein SPT2 (Negative regulator of Ty transcription)	SPT2 SIN1 SPM2 YER161C	333	UP000002311: Chromosome V
+YER162C	P14736	RAD4_YEAST	reviewed	DNA repair protein RAD4	RAD4 YER162C	754	UP000002311: Chromosome V
+YER165W	P04147	PABP_YEAST	reviewed	Polyadenylate-binding protein, cytoplasmic and nuclear (PABP) (Poly(A)-binding protein) (ARS consensus-binding protein ACBP-67) (Polyadenylate tail-binding protein)	PAB1 YER165W	577	UP000002311: Chromosome V
+YER167W	P33306	BCK2_YEAST	reviewed	Protein BCK2 (Bypass of kinase C protein)	BCK2 CTR7 YER167W	851	UP000002311: Chromosome V
+YER172C	P32639	BRR2_YEAST	reviewed	Pre-mRNA-splicing helicase BRR2 (EC 3.6.4.13) (Protein Snu246)	BRR2 RSS1 SNU246 YER172C SYGP-ORF66	2163	UP000002311: Chromosome V
+YER176W	P32644	ECM32_YEAST	reviewed	Putative ATP-dependent RNA helicase ECM32 (EC 3.6.4.13) (DNA helicase B) (Hcs B) (DNA helicase III) (Extracellular mutant protein 32) (Helicase 1) (scHelI) (Modulator of translation termination protein 1)	ECM32 HEL1 MTT1 YER176W SYGP-ORF61	1121	UP000002311: Chromosome V
+YER179W	P25453	DMC1_YEAST	reviewed	Meiotic recombination protein DMC1	DMC1 ISC2 YER179W	334	UP000002311: Chromosome V
+YFL005W	P07560	SEC4_YEAST	reviewed	Ras-related protein SEC4 (Suppressor of RHO3 protein 6)	SEC4 SRO6 YFL005W	215	UP000002311: Chromosome VI
+YFL008W	P32908	SMC1_YEAST	reviewed	Structural maintenance of chromosomes protein 1 (DA-box protein SMC1)	SMC1 CHL10 YFL008W	1225	UP000002311: Chromosome VI
+YFL009W	P07834	CDC4_YEAST	reviewed	Cell division control protein 4 (E3 ubiquitin ligase complex SCF subunit CDC4) (F-box protein CDC4)	CDC4 YFL009W	779	UP000002311: Chromosome VI
+YFL011W	P43581	HXT10_YEAST	reviewed	Hexose transporter HXT10	HXT10 YFL011W	546	UP000002311: Chromosome VI
+YFL016C	P35191	MDJ1_YEAST	reviewed	DnaJ homolog 1, mitochondrial	MDJ1 YFL016C	511	UP000002311: Chromosome VI
+YFL018C	P09624	DLDH_YEAST	reviewed	Dihydrolipoyl dehydrogenase, mitochondrial (EC 1.8.1.4) (Dihydrolipoamide dehydrogenase) (Glycine decarboxylase complex subunit L) (Lipoamide dehydrogenase component of pyruvate dehydrogenase complex) (Pyruvate dehydrogenase complex E3 component)	LPD1 DHLP1 YFL018C	499	UP000002311: Chromosome VI
+YFL022C	P15625	SYFA_YEAST	reviewed	Phenylalanine--tRNA ligase alpha subunit (EC 6.1.1.20) (Phenylalanyl-tRNA synthetase alpha subunit) (PheRS)	FRS2 YFL022C	503	UP000002311: Chromosome VI
+YFL024C	P43572	EPL1_YEAST	reviewed	Enhancer of polycomb-like protein 1	EPL1 YFL024C	832	UP000002311: Chromosome VI
+YFL029C	P43568	CAK1_YEAST	reviewed	Serine/threonine-protein kinase CAK1 (EC 2.7.11.22) (CDK-activating kinase)	CAK1 CIV1 YFL029C	368	UP000002311: Chromosome VI
+YFL037W	P02557	TBB_YEAST	reviewed	Tubulin beta chain (Beta-tubulin)	TUB2 YFL037W	457	UP000002311: Chromosome VI
+YFL038C	P01123	YPT1_YEAST	reviewed	GTP-binding protein YPT1 (Protein YP2) (Rab GTPase YPT1) (Transport GTPase YPT1)	YPT1 YP2 YFL038C	206	UP000002311: Chromosome VI
+YFL039C	P60010	ACT_YEAST	reviewed	Actin	ACT1 ABY1 END7 YFL039C	375	UP000002311: Chromosome VI
+YFL041W	P43561	FET5_YEAST	reviewed	Iron transport multicopper oxidase FET5 (EC 1.-.-.-)	FET5 YFL041W	622	UP000002311: Chromosome VI
+YFL059W	P43545	SNZ3_YEAST	reviewed	Probable pyridoxal 5'-phosphate synthase subunit SNZ3 (PLP synthase subunit SNZ3) (EC 4.3.3.6) (PDX1 homolog 3) (Pdx1.3)	SNZ3 YFL059W	298	UP000002311: Chromosome VI
+YFR002W	P34077	NIC96_YEAST	reviewed	Nucleoporin NIC96 (96 kDa nucleoporin-interacting component) (Nuclear pore protein NIC96)	NIC96 YFR002W	839	UP000002311: Chromosome VI
+YFR003C	P43587	YPI1_YEAST	reviewed	Type 1 phosphatases regulator YPI1	YPI1 YFR003C	155	UP000002311: Chromosome VI
+YFR009W	P43535	GCN20_YEAST	reviewed	Protein GCN20 (General control non-derepressible protein 20)	GCN20 YFR009W	752	UP000002311: Chromosome VI
+YFR014C	P27466	KCC1_YEAST	reviewed	Calcium/calmodulin-dependent protein kinase I (EC 2.7.11.17)	CMK1 YFR014C	446	UP000002311: Chromosome VI
+YFR028C	Q00684	CDC14_YEAST	reviewed	Tyrosine-protein phosphatase CDC14 (EC 3.1.3.48)	CDC14 OAF3 YFR028C	551	UP000002311: Chromosome VI
+YFR031C	P38989	SMC2_YEAST	reviewed	Structural maintenance of chromosomes protein 2 (DA-box protein SMC2)	SMC2 YFR031C	1170	UP000002311: Chromosome VI
+YFR033C	P00127	QCR6_YEAST	reviewed	Cytochrome b-c1 complex subunit 6, mitochondrial (Complex III subunit 6) (Complex III subunit VI) (Cytochrome c1 non-heme 17 kDa protein) (Mitochondrial hinge protein) (Ubiquinol-cytochrome c oxidoreductase subunit 6) (Ubiquinol-cytochrome c reductase 17 kDa protein)	QCR6 UCR6 YFR033C	147	UP000002311: Chromosome VI
+YFR034C	P07270	PHO4_YEAST	reviewed	Phosphate system positive regulatory protein PHO4	PHO4 YFR034C	312	UP000002311: Chromosome VI
+YFR037C	P43609	RSC8_YEAST	reviewed	Chromatin structure-remodeling complex protein RSC8 (Remodel the structure of chromatin complex subunit 8) (SWI3 homolog)	RSC8 SWH3 YFR037C	557	UP000002311: Chromosome VI
+YFR050C	P30657	PSB7_YEAST	reviewed	Proteasome subunit beta type-7 (EC 3.4.25.1) (Macropain subunit PRE4) (Multicatalytic endopeptidase complex subunit PRE4) (Proteasome component PRE4) (Proteinase YSCE subunit PRE4)	PRE4 YFR050C	266	UP000002311: Chromosome VI
+YFR051C	P43621	COPD_YEAST	reviewed	Coatomer subunit delta (Delta-coat protein) (Delta-COP)	RET2 YFR051C	546	UP000002311: Chromosome VI
+YGL003C	P53197	CDH1_YEAST	reviewed	APC/C activator protein CDH1 (CDC20 homolog 1) (Homolog of CDC twenty 1)	CDH1 HCT1 YGL003C	566	UP000002311: Chromosome VII
+YGL008C	P05030	PMA1_YEAST	reviewed	Plasma membrane ATPase 1 (EC 7.1.2.1) (Proton pump 1)	PMA1 YGL008C	918	UP000002311: Chromosome VII
+YGL011C	P21243	PSA1_YEAST	reviewed	Proteasome subunit alpha type-1 (EC 3.4.25.1) (Macropain subunit C7-alpha) (Multicatalytic endopeptidase complex C7) (Proteasome component C7-alpha) (Proteasome component Y8) (Proteinase YSCE subunit 7) (SCL1 suppressor protein)	SCL1 PRC2 PRS2 YGL011C	252	UP000002311: Chromosome VII
+YGL016W	P32767	KA122_YEAST	reviewed	Importin beta-like protein KAP122 (Karyopherin-122) (Pleiotropic drug resistance regulatory protein 6)	KAP122 PDR6 YGL016W	1081	UP000002311: Chromosome VII
+YGL019W	P43639	CSK2B_YEAST	reviewed	Casein kinase II subunit beta (CK II beta)	CKB1 YGL019W	278	UP000002311: Chromosome VII
+YGL023C	P53191	PIB2_YEAST	reviewed	Phosphatidylinositol 3-phosphate-binding protein 2	PIB2 YGL023C	635	UP000002311: Chromosome VII
+YGL031C	P04449	RL24A_YEAST	reviewed	60S ribosomal protein L24-A (L30) (Large ribosomal subunit protein eL24-A) (RP29) (YL21)	RPL24A RP29 RPL30A YGL031C	155	UP000002311: Chromosome VII
+YGL032C	P32781	AGA2_YEAST	reviewed	A-agglutinin-binding subunit	AGA2 YGL032C	87	UP000002311: Chromosome VII
+YGL043W	P07273	TFS2_YEAST	reviewed	Transcription elongation factor S-II (DNA strand transfer protein alpha) (STP-alpha) (DNA strand transferase 1) (Pyrimidine pathway regulatory protein 2)	DST1 PPR2 YGL043W	309	UP000002311: Chromosome VII
+YGL048C	Q01939	PRS8_YEAST	reviewed	26S proteasome regulatory subunit 8 homolog (Protein CIM3) (Protein SUG1) (Tat-binding protein TBY1)	RPT6 CIM3 CRL3 SUG1 TBPY TBY1 YGL048C	405	UP000002311: Chromosome VII
+YGL049C	P39936	IF4F2_YEAST	reviewed	Eukaryotic initiation factor 4F subunit p130 (eIF-4F p130) (eIF4F p130) (eIF4G2) (mRNA cap-binding protein complex subunit p130)	TIF4632 YGL049C	914	UP000002311: Chromosome VII
+YGL058W	P06104	UBC2_YEAST	reviewed	Ubiquitin-conjugating enzyme E2 2 (EC 2.3.2.23) (E2 ubiquitin-conjugating enzyme 2) (Radiation sensitivity protein 6) (Ubiquitin carrier protein UBC2) (Ubiquitin-protein ligase UBC2)	RAD6 UBC2 YGL058W	172	UP000002311: Chromosome VII
+YGL060W	P53169	YBP2_YEAST	reviewed	YAP1-binding protein 2 (YBP1 homolog protein 1)	YBP2 YBH1 YGL060W	641	UP000002311: Chromosome VII
+YGL061C	P53168	DUO1_YEAST	reviewed	DASH complex subunit DUO1 (Death upon overproduction protein 1) (Outer kinetochore protein DUO1)	DUO1 YGL061C	247	UP000002311: Chromosome VII
+YGL070C	P27999	RPB9_YEAST	reviewed	DNA-directed RNA polymerase II subunit RPB9 (RNA polymerase II subunit B9) (B12.6) (DNA-directed RNA polymerase II 14.2 kDa polypeptide) (DNA-directed RNA polymerase II subunit 9)	RPB9 YGL070C	122	UP000002311: Chromosome VII
+YGL075C	P53159	MPS2_YEAST	reviewed	Monopolar spindle protein 2	MPS2 MMC1 YGL075C	387	UP000002311: Chromosome VII
+YGL087C	P53152	MMS2_YEAST	reviewed	Ubiquitin-conjugating enzyme variant MMS2 (UEV MMS2)	MMS2 YGL087C	137	UP000002311: Chromosome VII
+YGL090W	P53150	LIF1_YEAST	reviewed	Ligase-interacting factor 1	LIF1 YGL090W	421	UP000002311: Chromosome VII
+YGL092W	P49687	NU145_YEAST	reviewed	Nucleoporin NUP145 (EC 3.4.21.-) (Nuclear pore protein NUP145) [Cleaved into: Nucleoporin NUP145N (N-NUP145); Nucleoporin NUP145C (C-NUP145)]	NUP145 RAT10 YGL092W	1317	UP000002311: Chromosome VII
+YGL094C	P53010	PAN2_YEAST	reviewed	PAN2-PAN3 deadenylation complex catalytic subunit PAN2 (EC 3.1.13.4) (PAB1P-dependent poly(A)-specific ribonuclease) (Poly(A)-nuclease deadenylation complex subunit 2) (PAN deadenylation complex subunit 2)	PAN2 YGL094C	1115	UP000002311: Chromosome VII
+YGL096W	P53147	TOS8_YEAST	reviewed	Homeobox protein TOS8 (Target of SBF 8)	TOS8 YGL096W	276	UP000002311: Chromosome VII
+YGL103W	P02406	RL28_YEAST	reviewed	60S ribosomal protein L28 (L27a) (L29) (Large ribosomal subunit protein uL15) (RP44) (RP62) (YL24)	RPL28 CYH2 YGL103W	149	UP000002311: Chromosome VII
+YGL106W	P53141	MLC1_YEAST	reviewed	Myosin light chain 1 (Calmodulin-like myosin light chain MLC1) (Myosin-2 light chain)	MLC1 YGL106W G3080	149	UP000002311: Chromosome VII
+YGL116W	P26309	CDC20_YEAST	reviewed	APC/C activator protein CDC20 (Cell division control protein 20)	CDC20 YGL116W	610	UP000002311: Chromosome VII
+YGL122C	P32505	NAB2_YEAST	reviewed	Nuclear polyadenylated RNA-binding protein NAB2	NAB2 YGL122C	525	UP000002311: Chromosome VII
+YGL123W	P25443	RS2_YEAST	reviewed	40S ribosomal protein S2 (Omnipotent suppressor protein SUP44) (RP12) (S4) (Small ribosomal subunit protein uS5) (YS5)	RPS2 RPS4 SUP38 SUP44 YGL123W G2893	254	UP000002311: Chromosome VII
+YGL130W	Q01159	MCE1_YEAST	reviewed	mRNA-capping enzyme subunit alpha (GTP--RNA guanylyltransferase) (GTase) (mRNA guanylyltransferase) (EC 2.7.7.50)	CEG1 YGL130W G2853	459	UP000002311: Chromosome VII
+YGL133W	P53125	ITC1_YEAST	reviewed	Imitation switch two complex protein 1	ITC1 YGL133W G2842	1264	UP000002311: Chromosome VII
+YGL135W	P0CX44	RL1B_YEAST	reviewed	60S ribosomal protein L1-B (L10a) (Large ribosomal subunit protein uL1-B)	RPL1B SSM1B SSM2 YGL135W G2834	217	UP000002311: Chromosome VII
+YGL144C	P53118	ROG1_YEAST	reviewed	Putative lipase ROG1 (EC 3.1.-.-) (Revertant of glycogen synthase kinase mutation protein 1)	ROG1 YGL144C	685	UP000002311: Chromosome VII
+YGL145W	P33891	TIP20_YEAST	reviewed	Protein transport protein TIP20	TIP20 TIP1 YGL145W	701	UP000002311: Chromosome VII
+YGL147C	P05738	RL9A_YEAST	reviewed	60S ribosomal protein L9-A (L8) (Large ribosomal subunit protein uL6-A) (RP24) (YL11)	RPL9A RPL8A RPL9 YGL147C	191	UP000002311: Chromosome VII
+YGL153W	P53112	PEX14_YEAST	reviewed	Peroxisomal membrane protein PEX14 (Peroxin-14)	PEX14 YGL153W G1870	341	UP000002311: Chromosome VII
+YGL154C	P50113	LYS5_YEAST	reviewed	L-aminoadipate-semialdehyde dehydrogenase-phosphopantetheinyl transferase (AASD-PPT) (EC 2.7.8.7)	LYS5 YGL154C G1867	272	UP000002311: Chromosome VII
+YGL155W	P18898	PGTB1_YEAST	reviewed	Geranylgeranyl transferase type-1 subunit beta (EC 2.5.1.59) (Cell division cycle protein 43) (Geranylgeranyl transferase type I subunit beta) (GGTase-I-beta) (RAS proteins geranylgeranyltransferase subunit beta) (Type I protein geranyl-geranyltransferase subunit beta) (PGGT)	CDC43 CAL1 YGL155W G1864	376	UP000002311: Chromosome VII
+YGL161C	P53108	YIP5_YEAST	reviewed	Protein YIP5 (YPT-interacting protein 5)	YIP5 YGL161C G1832	310	UP000002311: Chromosome VII
+YGL172W	Q02199	NUP49_YEAST	reviewed	Nucleoporin NUP49/NSP49 (Nuclear pore protein NUP49/NSP49)	NUP49 NSP49 YGL172W G1648	472	UP000002311: Chromosome VII
+YGL173C	P22147	XRN1_YEAST	reviewed	5'-3' exoribonuclease 1 (EC 3.1.13.-) (DNA strand transfer protein beta) (STP-beta) (KAR(-)-enhancing mutation protein) (Strand exchange protein 1) (p175)	XRN1 DST2 KEM1 RAR5 SEP1 SKI1 YGL173C G1645	1528	UP000002311: Chromosome VII
+YGL174W	P46947	CWC26_YEAST	reviewed	Pre-mRNA-splicing factor CWC26 (Bud site selection protein 13) (Complexed with CEF1 protein 26) (Synthetic lethal with CLF1 protein 7)	BUD13 CWC26 SLC7 YGL174W G1642	266	UP000002311: Chromosome VII
+YGL178W	P39016	MPT5_YEAST	reviewed	Suppressor protein MPT5 (Protein HTR1) (Pumilio homology domain family member 5)	MPT5 HTR1 PUF5 YGL178W BIC834	859	UP000002311: Chromosome VII
+YGL180W	P53104	ATG1_YEAST	reviewed	Serine/threonine-protein kinase ATG1 (EC 2.7.11.1) (Autophagy protein 3) (Autophagy-related protein 1) (Cytoplasm to vacuole targeting protein 10)	ATG1 APG1 AUT3 CVT10 YGL180W G1615	897	UP000002311: Chromosome VII
+YGL181W	P40956	GTS1_YEAST	reviewed	Protein GTS1 (Protein LSR1)	GTS1 LSR1 YGL181W	396	UP000002311: Chromosome VII
+YGL195W	P33892	GCN1_YEAST	reviewed	eIF-2-alpha kinase activator GCN1 (General control non-derepressible protein 1) (Translational activator GCN1)	GCN1 YGL195W G1318	2672	UP000002311: Chromosome VII
+YGL206C	P22137	CLH_YEAST	reviewed	Clathrin heavy chain	CHC1 YGL206C	1653	UP000002311: Chromosome VII
+YGL207W	P32558	SPT16_YEAST	reviewed	FACT complex subunit SPT16 (Cell division control protein 68) (Facilitates chromatin transcription complex subunit SPT16) (Suppressor of Ty protein 16)	SPT16 CDC68 SSF1 YGL207W	1035	UP000002311: Chromosome VII
+YGL212W	P32912	VAM7_YEAST	reviewed	Vacuolar morphogenesis protein 7	VAM7 YGL212W	316	UP000002311: Chromosome VII
+YGL215W	P35190	CLG1_YEAST	reviewed	PHO85 cyclin CLG1 (Cyclin-like G1 protein 1)	CLG1 YGL215W G1105	452	UP000002311: Chromosome VII
+YGL223C	P53079	COG1_YEAST	reviewed	Conserved oligomeric Golgi complex subunit 1 (COG complex subunit 1) (Complexed with DOR1 protein 3) (Component of oligomeric Golgi complex 1) (Protein SEC36)	COG1 COD3 SEC36 TFI1 YGL223C	417	UP000002311: Chromosome VII
+YGL233W	P22224	SEC15_YEAST	reviewed	Exocyst complex component SEC15	SEC15 YGL233W	910	UP000002311: Chromosome VII
+YGL237C	P06774	HAP2_YEAST	reviewed	Transcriptional activator HAP2	HAP2 YGL237C	265	UP000002311: Chromosome VII
+YGL238W	P33307	CSE1_YEAST	reviewed	Importin alpha re-exporter (Chromosome segregation protein CSE1)	CSE1 YGL238W HRC135	960	UP000002311: Chromosome VII
+YGL241W	P53067	IMB5_YEAST	reviewed	Importin subunit beta-5 (114 kDa karyopherin) (Karyopherin subunit beta-5) (Karyopherin-114)	KAP114 YGL241W HRC1004	1004	UP000002311: Chromosome VII
+YGL254W	P32805	FZF1_YEAST	reviewed	Zinc finger protein FZF1 (Sulfite resistance protein 1)	FZF1 SUL1 YGL254W NCR299	299	UP000002311: Chromosome VII
+YGR002C	P53201	SWC4_YEAST	reviewed	SWR1-complex protein 4 (ESA1-associated factor 2)	SWC4 EAF2 GOD1 YGR002C	476	UP000002311: Chromosome VII
+YGR005C	P41896	T2FB_YEAST	reviewed	Transcription initiation factor IIF subunit beta (TFIIF medium subunit) (TFIIF-beta) (Transcription factor G 54 kDa subunit)	TFG2 YGR005C	400	UP000002311: Chromosome VII
+YGR006W	P33411	PRP18_YEAST	reviewed	Pre-mRNA-splicing factor 18	PRP18 YGR006W	251	UP000002311: Chromosome VII
+YGR009C	P40357	SEC9_YEAST	reviewed	Protein transport protein SEC9	SEC9 HSS7 YGR009C	651	UP000002311: Chromosome VII
+YGR032W	P40989	FKS2_YEAST	reviewed	1,3-beta-glucan synthase component GSC2 (EC 2.4.1.34) (1,3-beta-D-glucan-UDP glucosyltransferase) (FK506 sensitivity protein 2) (Glucan synthase of cerevisiae protein 2)	GSC2 FKS2 GLS2 YGR032W	1895	UP000002311: Chromosome VII
+YGR040W	P14681	KSS1_YEAST	reviewed	Mitogen-activated protein kinase KSS1 (MAP kinase KSS1) (EC 2.7.11.24) (Kinase suppressor of SST2)	KSS1 YGR040W	368	UP000002311: Chromosome VII
+YGR047C	P33339	TFC4_YEAST	reviewed	Transcription factor tau 131 kDa subunit (TFIIIC 131 kDa subunit) (Transcription factor C subunit 4)	TFC4 PCF1 YGR047C	1025	UP000002311: Chromosome VII
+YGR048W	P53044	UFD1_YEAST	reviewed	Ubiquitin fusion degradation protein 1 (UB fusion protein 1) (Polymerase-interacting protein 3)	UFD1 PIP3 YGR048W	361	UP000002311: Chromosome VII
+YGR060W	P53045	MSMO_YEAST	reviewed	Methylsterol monooxygenase (EC 1.14.18.9) (C-4 methylsterol oxidase)	ERG25 FET6 YGR060W	309	UP000002311: Chromosome VII
+YGR072W	P48412	UPF3_YEAST	reviewed	Nonsense-mediated mRNA decay protein 3 (Up-frameshift suppressor 3)	UPF3 SUA6 YGR072W	387	UP000002311: Chromosome VII
+YGR075C	Q00723	PRP38_YEAST	reviewed	Pre-mRNA-splicing factor 38 (Pre-mRNA-processing factor 38)	PRP38 YGR075C	242	UP000002311: Chromosome VII
+YGR077C	P53248	PEX8_YEAST	reviewed	Peroxisomal biogenesis factor 8 (Peroxin-8) (Peroxisomal protein PAS6)	PEX8 PAS6 YGR077C	589	UP000002311: Chromosome VII
+YGR082W	P35180	TOM20_YEAST	reviewed	Mitochondrial import receptor subunit TOM20 (Mitochondrial 20 kDa outer membrane protein) (Protein MAS20) (Translocase of outer membrane 20 kDa subunit)	TOM20 MAS20 MOM19 YGR082W	183	UP000002311: Chromosome VII
+YGR098C	Q03018	ESP1_YEAST	reviewed	Separin (EC 3.4.22.49) (Separase)	ESP1 YGR098C	1630	UP000002311: Chromosome VII
+YGR104C	P32585	MED18_YEAST	reviewed	Mediator of RNA polymerase II transcription subunit 18 (Mediator complex subunit 18) (Suppressor of RNA polymerase B 5)	SRB5 MED18 YGR104C	307	UP000002311: Chromosome VII
+YGR108W	P24868	CG21_YEAST	reviewed	G2/mitotic-specific cyclin-1	CLB1 SCB1 YGR108W G5967	471	UP000002311: Chromosome VII
+YGR109C	P32943	CGS6_YEAST	reviewed	S-phase entry cyclin-6	CLB6 YGR109C G5970	380	UP000002311: Chromosome VII
+YGR113W	P53267	DAM1_YEAST	reviewed	DASH complex subunit DAM1 (DUO1 and MPS1-interacting protein 1) (Kinetochore assembly protein DAM1) (Outer kinetochore protein DAM1)	DAM1 YGR113W G6153	343	UP000002311: Chromosome VII
+YGR118W	P0CX29	RS23A_YEAST	reviewed	40S ribosomal protein S23-A (RP37) (S28) (Small ribosomal subunit protein uS12-A) (YS14)	RPS23A RPS28A YGR118W G6178	145	UP000002311: Chromosome VII
+YGR119C	P48837	NUP57_YEAST	reviewed	Nucleoporin NUP57 (Nuclear pore protein NUP57)	NUP57 YGR119C G6320	541	UP000002311: Chromosome VII
+YGR120C	P53271	COG2_YEAST	reviewed	Conserved oligomeric Golgi complex subunit 2 (COG complex subunit 2) (Component of oligomeric Golgi complex 2) (Protein SEC35)	COG2 SEC35 YGR120C G6324	262	UP000002311: Chromosome VII
+YGR129W	P53277	SYF2_YEAST	reviewed	Pre-mRNA-splicing factor SYF2 (PRP19 complex protein 31) (Synthetic lethal with CDC40 protein 2)	SYF2 NTC31 YGR129W	215	UP000002311: Chromosome VII
+YGR135W	P23638	PSA3_YEAST	reviewed	Proteasome subunit alpha type-3 (EC 3.4.25.1) (Macropain subunit Y13) (Multicatalytic endopeptidase complex subunit Y13) (Proteasome component Y13) (Proteinase YSCE subunit 13)	PRE9 PRS5 YGR135W	258	UP000002311: Chromosome VII
+YGR136W	P53281	LSB1_YEAST	reviewed	LAS seventeen-binding protein 1 (LAS17-binding protein 1)	LSB1 YGR136W	241	UP000002311: Chromosome VII
+YGR140W	P32504	CBF3A_YEAST	reviewed	Centromere DNA-binding protein complex CBF3 subunit A (Centromere-binding factor 2) (Chromosome transmission fidelity protein 14) (Kinetochore protein CTF14)	CBF2 CBF3A CEP2 CTF14 NDC10 YGR140W	956	UP000002311: Chromosome VII
+YGR143W	P33336	SKN1_YEAST	reviewed	Beta-glucan synthesis-associated protein SKN1	SKN1 YGR143W	771	UP000002311: Chromosome VII
+YGR148C	P24000	RL24B_YEAST	reviewed	60S ribosomal protein L24-B (L30) (Large ribosomal subunit protein eL24-B) (RP29) (YL21)	RPL24B RPL30B YGR148C G6635	155	UP000002311: Chromosome VII
+YGR152C	P13856	RSR1_YEAST	reviewed	Ras-related protein RSR1	RSR1 BUD1 YGR152C G6658	272	UP000002311: Chromosome VII
+YGR158C	P48240	MTR3_YEAST	reviewed	Exosome complex component MTR3 (mRNA transport regulator 3)	MTR3 YGR158C G6676	250	UP000002311: Chromosome VII
+YGR162W	P39935	IF4F1_YEAST	reviewed	Eukaryotic initiation factor 4F subunit p150 (eIF-4F p150) (eIF4F p150) (eIF4G1) (mRNA cap-binding protein complex subunit p150)	TIF4631 YGR162W	952	UP000002311: Chromosome VII
+YGR167W	P17891	CLC1_YEAST	reviewed	Clathrin light chain (CLC)	CLC1 YGR167W	233	UP000002311: Chromosome VII
+YGR172C	P53039	YIP1_YEAST	reviewed	Protein transport protein YIP1 (YPT-interacting protein 1)	YIP1 YGR172C	248	UP000002311: Chromosome VII
+YGR180C	P49723	RIR4_YEAST	reviewed	Ribonucleoside-diphosphate reductase small chain 2 (EC 1.17.4.1) (Ribonucleotide reductase R2 subunit 2) (Ribonucleotide reductase small subunit 2)	RNR4 CRT3 YGR180C	345	UP000002311: Chromosome VII
+YGR183C	P22289	QCR9_YEAST	reviewed	Cytochrome b-c1 complex subunit 9, mitochondrial (Complex III subunit 9) (Complex III subunit X) (Cytochrome c1 non-heme 7.3 kDa protein) (Ubiquinol-cytochrome c oxidoreductase subunit 9) (Ubiquinol-cytochrome c reductase 7.3 kDa protein)	QCR9 UCR9 YGR183C	66	UP000002311: Chromosome VII
+YGR184C	P19812	UBR1_YEAST	reviewed	E3 ubiquitin-protein ligase UBR1 (EC 2.3.2.27) (N-end-recognizing protein) (N-recognin-1) (RING-type E3 ubiquitin transferase UBR1)	UBR1 PTR1 YGR184C G7168	1950	UP000002311: Chromosome VII
+YGR185C	P36421	SYYC_YEAST	reviewed	Tyrosine--tRNA ligase, cytoplasmic (EC 6.1.1.1) (Tyrosyl-tRNA synthetase) (TyrRS)	TYS1 MGM104 YGR185C G7522	394	UP000002311: Chromosome VII
+YGR186W	P41895	T2FA_YEAST	reviewed	Transcription initiation factor IIF subunit alpha (TFIIF-alpha) (TFIIF large subunit) (Transcription factor G 105 kDa subunit) (P105)	TFG1 SSU71 YGR186W G7526	735	UP000002311: Chromosome VII
+YGR188C	P41695	BUB1_YEAST	reviewed	Checkpoint serine/threonine-protein kinase BUB1 (EC 2.7.11.1)	BUB1 YGR188C G7542	1021	UP000002311: Chromosome VII
+YGR214W	P32905	RSSA1_YEAST	reviewed	40S ribosomal protein S0-A (Nucleic acid-binding protein NAB1A) (Small ribosomal subunit protein uS2-A)	RPS0A NAB1 NAB1A YST1 YGR214W	252	UP000002311: Chromosome VII
+YGR218W	P30822	XPO1_YEAST	reviewed	Exportin-1 (Chromosome region maintenance protein 1) (Karyopherin-124)	CRM1 KAP124 XPO1 YGR218W G8514	1084	UP000002311: Chromosome VII
+YGR229C	P32566	SMI1_YEAST	reviewed	Cell wall assembly regulator SMI1 (Killer toxin-resistance protein 4)	SMI1 KNR4 KTR4 YGR229C G8553	505	UP000002311: Chromosome VII
+YGR233C	P17442	PHO81_YEAST	reviewed	Phosphate system positive regulatory protein PHO81 (CDK inhibitor PHO81)	PHO81 YGR233C G8567	1178	UP000002311: Chromosome VII
+YGR238C	P50090	KEL2_YEAST	reviewed	Kelch repeat-containing protein 2	KEL2 YGR238C G8585	882	UP000002311: Chromosome VII
+YGR239C	P50091	PEX21_YEAST	reviewed	Peroxisomal membrane protein PEX21 (Peroxin-21)	PEX21 YGR239C G8593	288	UP000002311: Chromosome VII
+YGR240C	P16861	PFKA1_YEAST	reviewed	ATP-dependent 6-phosphofructokinase subunit alpha (EC 2.7.1.11) (ATP-dependent 6-phosphofructokinase) (ATP-PFK) (Phosphofructokinase 1) (Phosphohexokinase)	PFK1 YGR240C G8599	987	UP000002311: Chromosome VII
+YGR244C	P53312	SUCB_YEAST	reviewed	Succinate--CoA ligase [ADP-forming] subunit beta, mitochondrial (EC 6.2.1.5) (Succinyl-CoA synthetase beta chain) (SCS-beta)	LSC2 YGR244C G8625	427	UP000002311: Chromosome VII
+YGR246C	P29056	TF3B_YEAST	reviewed	Transcription factor IIIB 70 kDa subunit (TFIIIB) (B-related factor 1) (BRF-1)	BRF1 PCF4 TDS4 YGR246C	596	UP000002311: Chromosome VII
+YGR253C	P32379	PSA5_YEAST	reviewed	Proteasome subunit alpha type-5 (EC 3.4.25.1) (Macropain subunit PUP2) (Multicatalytic endopeptidase complex subunit PUP2) (Proteasome component PUP2) (Proteinase YSCE subunit PUP2)	PUP2 DOA5 YGR253C G9155	260	UP000002311: Chromosome VII
+YGR254W	P00924	ENO1_YEAST	reviewed	Enolase 1 (EC 4.2.1.11) (2-phospho-D-glycerate hydro-lyase 1) (2-phosphoglycerate dehydratase 1)	ENO1 ENOA HSP48 YGR254W G9160	437	UP000002311: Chromosome VII
+YGR261C	P46682	AP3B_YEAST	reviewed	AP-3 complex subunit beta (Adaptor-related protein complex 3 subunit beta) (Beta-3-adaptin) (Clathrin assembly protein complex 3 beta large chain) (Clathrin assembly protein large beta chain)	APL6 YKS5 YGR261C G9331	809	UP000002311: Chromosome VII
+YGR267C	P51601	GCH1_YEAST	reviewed	GTP cyclohydrolase 1 (EC 3.5.4.16) (GTP cyclohydrolase I) (GTP-CH-I)	FOL2 YGR267C G9349	243	UP000002311: Chromosome VII
+YGR268C	P40325	HUA1_YEAST	reviewed	Proline-rich protein HUA1	HUA1 YGR268C	198	UP000002311: Chromosome VII
+YGR274C	P46677	TAF1_YEAST	reviewed	Transcription initiation factor TFIID subunit 1 (EC 2.3.1.48) (TAFII-130) (TAFII-145) (TBP-associated factor 1) (TBP-associated factor 145 kDa)	TAF1 TAF130 TAF145 YGR274C G9374	1066	UP000002311: Chromosome VII
+YHL002W	P38753	HSE1_YEAST	reviewed	Class E vacuolar protein-sorting machinery protein HSE1	HSE1 YHL002W	452	UP000002311: Chromosome VIII
+YHL003C	P38703	LAG1_YEAST	reviewed	Ceramide synthase LAG1 (EC 2.3.1.-) (Longevity assurance factor 1) (Longevity assurance gene 1 protein) (Longevity assurance protein 1) (Sphingosine N-acyltransferase LAG1) (EC 2.3.1.24)	LAG1 YHL003C	411	UP000002311: Chromosome VIII
+YHL006C	P38751	SHU1_YEAST	reviewed	Suppressor of HU sensitivity involved in recombination protein 1	SHU1 YHL006C	150	UP000002311: Chromosome VIII
+YHL007C	Q03497	STE20_YEAST	reviewed	Serine/threonine-protein kinase STE20 (EC 2.7.11.1)	STE20 YHL007C	939	UP000002311: Chromosome VIII
+YHL015W	P38701	RS20_YEAST	reviewed	40S ribosomal protein S20 (Small ribosomal subunit protein uS10)	RPS20 URP2 YHL015W	121	UP000002311: Chromosome VIII
+YHL018W	P38744	PHS_YEAST	reviewed	Putative pterin-4-alpha-carbinolamine dehydratase (PHS) (EC 4.2.1.96) (4-alpha-hydroxy-tetrahydropterin dehydratase) (Pterin carbinolamine dehydratase) (PCD)	YHL018W	120	UP000002311: Chromosome VIII
+YHL027W	P33400	PACC_YEAST	reviewed	pH-response transcription factor pacC/RIM101 (Regulator of IME2 protein 1) (pH-response regulator protein RIM101)	RIM101 RIM1 YHL027W	625	UP000002311: Chromosome VIII
+YHL031C	P38736	GOSR1_YEAST	reviewed	Golgi SNAP receptor complex member 1 (Golgi SNARE protein 1) (Protein transport protein GOS1)	GOS1 YHL031C	223	UP000002311: Chromosome VIII
+YHL033C	P17076	RL8A_YEAST	reviewed	60S ribosomal protein L8-A (L4) (L4-2) (L7a-1) (Large ribosomal subunit protein eL8-A) (Maintenance of killer protein 7) (RP6) (YL5)	RPL8A MAK7 RPL4A YHL033C	256	UP000002311: Chromosome VIII
+YHR004C	P38757	NEM1_YEAST	reviewed	Nuclear envelope morphology protein 1 (EC 3.1.3.16)	NEM1 YHR004C	446	UP000002311: Chromosome VIII
+YHR005C	P08539	GPA1_YEAST	reviewed	Guanine nucleotide-binding protein alpha-1 subunit (GP1-alpha)	GPA1 CDC70 DAC1 SCG1 YHR005C	472	UP000002311: Chromosome VIII
+YHR012W	P38759	VPS29_YEAST	reviewed	Vacuolar protein sorting-associated protein 29 (Carboxypeptidase Y-deficient protein 11) (Vesicle protein sorting 29)	VPS29 PEP11 VTP6 YHR012W	282	UP000002311: Chromosome VIII
+YHR013C	P07347	ARD1_YEAST	reviewed	N-terminal acetyltransferase A complex catalytic subunit ARD1 (NatA complex subunit ARD1) (EC 2.3.1.255) (Arrest-defective protein 1)	ARD1 YHR013C	238	UP000002311: Chromosome VIII
+YHR014W	P23624	SPO13_YEAST	reviewed	Meiosis-specific protein SPO13 (Sporulation-specific protein 13)	SPO13 YHR014W	291	UP000002311: Chromosome VIII
+YHR016C	P32793	YSC84_YEAST	reviewed	Protein YSC84 (LAS seventeen-binding protein 4) (LAS17-binding protein 4)	YSC84 LSB4 YHR016C	468	UP000002311: Chromosome VIII
+YHR023W	P08964	MYO1_YEAST	reviewed	Myosin-1 (Type II myosin)	MYO1 YHR023W	1928	UP000002311: Chromosome VIII
+YHR024C	P11914	MPPA_YEAST	reviewed	Mitochondrial-processing peptidase subunit alpha (Alpha-MPP) (Inactive zinc metalloprotease alpha) (Matrix processing peptidase) (MPP) (Mitochondrial assembly protein 2) (Mitochondrial import function protein 2)	MAS2 MIF2 YHR024C	482	UP000002311: Chromosome VIII
+YHR027C	P38764	RPN1_YEAST	reviewed	26S proteasome regulatory subunit RPN1 (HMG-CoA reductase degradation protein 2) (Proteasome non-ATPase subunit 1)	RPN1 HRD2 NAS1 RPD1 YHR027C	993	UP000002311: Chromosome VIII
+YHR030C	Q00772	SLT2_YEAST	reviewed	Mitogen-activated protein kinase SLT2/MPK1 (MAP kinase MPK1) (EC 2.7.11.24)	SLT2 MPK1 YHR030C	484	UP000002311: Chromosome VIII
+YHR034C	P38768	PIH1_YEAST	reviewed	Protein interacting with Hsp90 1 (Nucleolar protein 17)	PIH1 NOP17 YHR034C	344	UP000002311: Chromosome VIII
+YHR035W	P38769	NEL1_YEAST	reviewed	GTPase-activating protein NEL1 (Non-ERES-localized SEC23 homolog 1)	NEL1 YHR035W	630	UP000002311: Chromosome VIII
+YHR041C	P34162	MED20_YEAST	reviewed	Mediator of RNA polymerase II transcription subunit 20 (Hyper-recombination suppressor protein 2) (Mediator complex subunit 20) (Suppressor of RNA polymerase B 2)	SRB2 HRS2 MED20 YHR041C	210	UP000002311: Chromosome VIII
+YHR061C	P38785	GIC1_YEAST	reviewed	GTPase-interacting component 1	GIC1 YHR061C	314	UP000002311: Chromosome VIII
+YHR062C	P38786	RPP1_YEAST	reviewed	Ribonuclease P/MRP protein subunit RPP1 (EC 3.1.26.5) (RNA-processing protein RPP1) (RNaseP/MRP 32.2 kDa subunit)	RPP1 YHR062C	293	UP000002311: Chromosome VIII
+YHR077C	P38798	NMD2_YEAST	reviewed	Nonsense-mediated mRNA decay protein 2 (Up-frameshift suppressor 2)	NMD2 IFS1 SUA1 UPF2 YHR077C	1089	UP000002311: Chromosome VIII
+YHR084W	P13574	STE12_YEAST	reviewed	Protein STE12	STE12 YHR084W	688	UP000002311: Chromosome VIII
+YHR089C	P28007	GAR1_YEAST	reviewed	H/ACA ribonucleoprotein complex subunit GAR1 (snoRNP protein GAR1)	GAR1 YHR089C	205	UP000002311: Chromosome VIII
+YHR090C	P38806	YNG2_YEAST	reviewed	Chromatin modification-related protein YNG2 (ESA1-associated factor 4) (ING1 homolog 2)	YNG2 EAF4 NBN1 YHR090C	282	UP000002311: Chromosome VIII
+YHR099W	P38811	TRA1_YEAST	reviewed	Transcription-associated protein 1 (p400 kDa component of SAGA)	TRA1 YHR099W	3744	UP000002311: Chromosome VIII
+YHR107C	P32468	CDC12_YEAST	reviewed	Cell division control protein 12 (Septin)	CDC12 CLA10 PSL7 YHR107C	407	UP000002311: Chromosome VIII
+YHR114W	P38822	BZZ1_YEAST	reviewed	Protein BZZ1 (LAS17-binding protein 7)	BZZ1 LSB7 YHR114W	633	UP000002311: Chromosome VIII
+YHR122W	P38829	YHS2_YEAST	reviewed	MIP18 family protein YHR122W	YHR122W	231	UP000002311: Chromosome VIII
+YHR129C	P38696	ARP1_YEAST	reviewed	Centractin (Actin-like protein) (Actin-related protein 1)	ARP1 ACT3 ACT5 YHR129C	384	UP000002311: Chromosome VIII
+YHR135C	P23291	KC11_YEAST	reviewed	Casein kinase I homolog 1 (EC 2.7.11.1)	YCK1 CKI2 YHR135C	538	UP000002311: Chromosome VIII
+YHR141C	P0CX28	RL44B_YEAST	reviewed	60S ribosomal protein L42-B (L41) (Large ribosomal subunit protein eL42-B) (Maintenance of killer protein 18) (YL27) (YP44)	RPL42B MAK18 RPL41B SCL41B YHR141C	106	UP000002311: Chromosome VIII
+YHR158C	P38853	KEL1_YEAST	reviewed	Kelch repeat-containing protein 1	KEL1 YHR158C	1164	UP000002311: Chromosome VIII
+YHR160C	P38855	PEX18_YEAST	reviewed	Peroxisomal membrane protein PEX18 (Peroxin-18)	PEX18 YHR160C	283	UP000002311: Chromosome VIII
+YHR164C	P38859	DNA2_YEAST	reviewed	DNA replication ATP-dependent helicase/nuclease DNA2 [Includes: DNA replication nuclease DNA2 (EC 3.1.-.-); DNA replication ATP-dependent helicase DNA2 (EC 3.6.4.12)]	DNA2 YHR164C	1522	UP000002311: Chromosome VIII
+YHR165C	P33334	PRP8_YEAST	reviewed	Pre-mRNA-splicing factor 8	PRP8 DBF3 DNA39 RNA8 SLT21 USA2 YHR165C	2413	UP000002311: Chromosome VIII
+YHR166C	P16522	CDC23_YEAST	reviewed	Anaphase-promoting complex subunit CDC23 (Cell division control protein 23)	CDC23 YHR166C	626	UP000002311: Chromosome VIII
+YHR170W	P38861	NMD3_YEAST	reviewed	60S ribosomal export protein NMD3 (Nonsense-mediated mRNA decay protein 3)	NMD3 YHR170W	518	UP000002311: Chromosome VIII
+YHR171W	P38862	ATG7_YEAST	reviewed	Ubiquitin-like modifier-activating enzyme ATG7 (ATG12-activating enzyme E1 ATG7) (Autophagy-related protein 7) (Cytoplasm to vacuole targeting protein 2)	ATG7 APG7 CVT2 YHR171W	630	UP000002311: Chromosome VIII
+YHR172W	P38863	SPC97_YEAST	reviewed	Spindle pole body component SPC97	SPC97 YHR172W	823	UP000002311: Chromosome VIII
+YHR174W	P00925	ENO2_YEAST	reviewed	Enolase 2 (EC 4.2.1.11) (2-phospho-D-glycerate hydro-lyase 2) (2-phosphoglycerate dehydratase 2)	ENO2 ENOB YHR174W	437	UP000002311: Chromosome VIII
+YHR183W	P38720	6PGD1_YEAST	reviewed	6-phosphogluconate dehydrogenase, decarboxylating 1 (EC 1.1.1.44)	GND1 YHR183W	489	UP000002311: Chromosome VIII
+YHR185C	P38872	ADY1_YEAST	reviewed	Prospore formation at selected spindle poles protein 1 (Accumulates dyads protein 1)	PFS1 ADY1 YHR185C	237	UP000002311: Chromosome VIII
+YHR193C	P38879	NACA_YEAST	reviewed	Nascent polypeptide-associated complex subunit alpha (NAC-alpha) (Alpha-NAC) (GAL4 DNA-binding enhancer protein 2)	EGD2 YHR193C	174	UP000002311: Chromosome VIII
+YHR195W	P38881	NVJ1_YEAST	reviewed	Nucleus-vacuole junction protein 1	NVJ1 VAB36 YHR195W	321	UP000002311: Chromosome VIII
+YIL004C	P22804	BET1_YEAST	reviewed	Protein transport protein BET1 (Suppressor of loss of YPT1 protein 12) (Protein SLY12)	BET1 SLY12 YIL004C YIA4C	142	UP000002311: Chromosome IX
+YIL007C	P40555	PSMD9_YEAST	reviewed	Probable 26S proteasome regulatory subunit p27 (Proteasome non-ATPase subunit 2)	NAS2 YIL007C	220	UP000002311: Chromosome IX
+YIL021W	P16370	RPB3_YEAST	reviewed	DNA-directed RNA polymerase II subunit RPB3 (RNA polymerase II subunit 3) (RNA polymerase II subunit B3) (B44.5) (DNA-directed RNA polymerase II 45 kDa polypeptide)	RPB3 YIL021W	318	UP000002311: Chromosome IX
+YIL022W	Q01852	TIM44_YEAST	reviewed	Mitochondrial import inner membrane translocase subunit TIM44 (Inner membrane import site protein 45) (ISP45) (Membrane import machinery protein MIM44) (Mitochondrial protein import protein 1)	TIM44 ISP45 MIM44 MPI1 YIL022W	431	UP000002311: Chromosome IX
+YIL026C	P40541	SCC3_YEAST	reviewed	Cohesin subunit SCC3 (Irregular cell behavior protein 1)	IRR1 SCC3 YIL026C	1150	UP000002311: Chromosome IX
+YIL033C	P07278	KAPR_YEAST	reviewed	cAMP-dependent protein kinase regulatory subunit (cAPK regulatory subunit) (Bypass of cyclase mutations protein 1) (Protein kinase A regulatory subunit) (PKA regulatory subunit)	BCY1 REG1 SRA1 YIL033C	416	UP000002311: Chromosome IX
+YIL034C	P13517	CAPZB_YEAST	reviewed	F-actin-capping protein subunit beta	CAP2 YIL034C	287	UP000002311: Chromosome IX
+YIL035C	P15790	CSK21_YEAST	reviewed	Casein kinase II subunit alpha (CK II subunit alpha) (EC 2.7.11.1)	CKA1 YIL035C	372	UP000002311: Chromosome IX
+YIL046W	P39014	MET30_YEAST	reviewed	F-box protein MET30 (E3 ubiquitin ligase complex SCF(Met30) subunit MET30) (Methionine-requiring protein 30)	MET30 YIL046W	640	UP000002311: Chromosome IX
+YIL050W	P40186	PCL7_YEAST	reviewed	PHO85 cyclin-7 (PHO85-associated protein 1)	PCL7 PAP1 YIL050W	285	UP000002311: Chromosome IX
+YIL061C	Q00916	RU17_YEAST	reviewed	U1 small nuclear ribonucleoprotein 70 kDa homolog (U1 70K) (U1 snRNP 70 kDa homolog) (U1-70K) (U1 small nuclear ribonucleoprotein SNP1) (U1 snRNP protein SNP1)	SNP1 YIL061C	300	UP000002311: Chromosome IX
+YIL063C	P40517	YRB2_YEAST	reviewed	Ran-specific GTPase-activating protein 2 (Ran-binding protein 2) (RANBP2)	YRB2 YIL063C	327	UP000002311: Chromosome IX
+YIL066C	P21672	RIR3_YEAST	reviewed	Ribonucleoside-diphosphate reductase large chain 2 (EC 1.17.4.1) (Ribonucleotide reductase DNA damage-inducible regulatory subunit 2) (Ribonucleotide reductase R1 subunit 2) (Ribonucleotide reductase large subunit 2)	RNR3 DIN1 YIL066C	869	UP000002311: Chromosome IX
+YIL072W	P20050	HOP1_YEAST	reviewed	Meiosis-specific protein HOP1	HOP1 YIL072W	605	UP000002311: Chromosome IX
+YIL095W	P40494	PRK1_YEAST	reviewed	Actin-regulating kinase PRK1 (EC 2.7.11.1) (p53-regulating kinase 1)	PRK1 PAK1 YIL095W	810	UP000002311: Chromosome IX
+YIL109C	P40482	SEC24_YEAST	reviewed	Protein transport protein SEC24 (Abnormal nuclear morphology 1)	SEC24 ANU1 YIL109C	926	UP000002311: Chromosome IX
+YIL115C	P40477	NU159_YEAST	reviewed	Nucleoporin NUP159 (Nuclear pore protein NUP159)	NUP159 NUP158 RAT7 YIL115C	1460	UP000002311: Chromosome IX
+YIL126W	P32597	STH1_YEAST	reviewed	Nuclear protein STH1/NPS1 (EC 3.6.4.12) (ATP-dependent helicase STH1) (Chromatin structure-remodeling complex protein STH1) (SNF2 homolog)	STH1 NPS1 YIL126W	1359	UP000002311: Chromosome IX
+YIL129C	P40468	TAO3_YEAST	reviewed	Cell morphogenesis protein PAG1 (Protein TAO3)	TAO3 PAG1 YIL129C	2376	UP000002311: Chromosome IX
+YIL133C	P26784	RL16A_YEAST	reviewed	60S ribosomal protein L16-A (L13a) (L21) (Large ribosomal subunit protein uL13-A) (RP22) (YL15)	RPL16A RPL13 RPL21A YIL133C	199	UP000002311: Chromosome IX
+YIL139C	P38927	REV7_YEAST	reviewed	DNA polymerase zeta processivity subunit (Revertibility protein 7)	REV7 YIL139C	245	UP000002311: Chromosome IX
+YIL144W	P40460	NDC80_YEAST	reviewed	Kinetochore protein NDC80 (80 kDa spindle component protein) (Nuclear division cycle protein 80) (Two-hybrid interaction with DMC1 protein 3)	NDC80 HEC1 TID3 YIL144W	691	UP000002311: Chromosome IX
+YIL147C	P39928	SLN1_YEAST	reviewed	Osmosensing histidine protein kinase SLN1 (EC 2.7.13.3) (Osmolarity two-component system protein SLN1) (Tyrosine phosphatase-dependent protein 2)	SLN1 YPD2 YIL147C	1220	UP000002311: Chromosome IX
+YIL148W	P0CH08	RL40A_YEAST	reviewed	Ubiquitin-60S ribosomal protein L40 [Cleaved into: Ubiquitin; 60S ribosomal protein L40-A (CEP52) (Large ribosomal subunit protein eL40-A)]	RPL40A UBI1 YIL148W	128	UP000002311: Chromosome IX
+YIL156W	P40453	UBP7_YEAST	reviewed	Ubiquitin carboxyl-terminal hydrolase 7 (EC 3.4.19.12) (Deubiquitinating enzyme 7) (Ubiquitin thioesterase 7) (Ubiquitin-specific-processing protease 7)	UBP7 YIL156W	1071	UP000002311: Chromosome IX
+YIL159W	P40450	BNR1_YEAST	reviewed	BNI1-related protein 1	BNR1 YIL159W	1375	UP000002311: Chromosome IX
+YIL173W	P40438	VTH1_YEAST	reviewed	VPS10 homolog 1 (Sortilin VTH1)	VTH1 YIL173W	1549	UP000002311: Chromosome IX
+YIR003W	P40563	AIM21_YEAST	reviewed	Altered inheritance of mitochondria protein 21	AIM21 YIR003W YIB3W	679	UP000002311: Chromosome IX
+YIR005W	P40565	IST3_YEAST	reviewed	U2 snRNP component IST3 (Increased sodium tolerance protein 3) (U2 snRNP protein SNU17)	IST3 SNU17 YIR005W YIB5W	148	UP000002311: Chromosome IX
+YIR006C	P32521	PAN1_YEAST	reviewed	Actin cytoskeleton-regulatory complex protein PAN1 (Mitochondrial distribution of proteins protein 3)	PAN1 DIM2 MDP3 MIP3 YIR006C YIB6C	1480	UP000002311: Chromosome IX
+YIR008C	P10363	PRI1_YEAST	reviewed	DNA primase small subunit (EC 2.7.7.-) (DNA polymerase alpha:primase complex p48 subunit) (DNA polymerase-primase complex p48 subunit) (Pol alpha-primase complex p48 subunit) (DNA primase 48 kDa subunit)	PRI1 YIR008C YIB8C	409	UP000002311: Chromosome IX
+YIR012W	P35184	SQT1_YEAST	reviewed	Ribosome assembly protein SQT1	SQT1 YIR012W YIB12W	431	UP000002311: Chromosome IX
+YIR017C	P40573	MET28_YEAST	reviewed	Transcriptional activator of sulfur metabolism MET28 (Methionine-requiring protein 28)	MET28 YIR017C	187	UP000002311: Chromosome IX
+YIR018W	P40574	YAP5_YEAST	reviewed	AP-1-like transcription factor YAP5	YAP5 YIR018W	245	UP000002311: Chromosome IX
+YIR022W	P15367	SEC11_YEAST	reviewed	Signal peptidase complex catalytic subunit SEC11 (EC 3.4.21.89) (Secretory protein 11) (Signal peptidase I)	SEC11 YIR022W	167	UP000002311: Chromosome IX
+YIR038C	P40582	GST1_YEAST	reviewed	Glutathione S-transferase 1 (EC 2.5.1.18) (GST-I)	GTT1 YIR038C	234	UP000002311: Chromosome IX
+YJL001W	P38624	PSB1_YEAST	reviewed	Proteasome subunit beta type-1 (EC 3.4.25.1) (Macropain subunit PRE3) (Multicatalytic endopeptidase complex subunit PRE3) (Proteasome component PRE3) (Proteinase YSCE subunit PRE3)	PRE3 YJL001W J1407	215	UP000002311: Chromosome X
+YJL005W	P08678	CYAA_YEAST	reviewed	Adenylate cyclase (EC 4.6.1.1) (ATP pyrophosphate-lyase) (Adenylyl cyclase)	CYR1 CDC35 HSR1 SRA4 YJL005W J1401	2026	UP000002311: Chromosome X
+YJL006C	P46962	CTK2_YEAST	reviewed	CTD kinase subunit beta (CTDK-I subunit beta) (CTD kinase 38 kDa subunit) (CTD kinase subunit 2)	CTK2 YJL006C J1390	323	UP000002311: Chromosome X
+YJL013C	P47074	MAD3_YEAST	reviewed	Spindle assembly checkpoint component MAD3 (Mitotic MAD3 protein)	MAD3 YJL013C J1341	515	UP000002311: Chromosome X
+YJL020C	P47068	BBC1_YEAST	reviewed	Myosin tail region-interacting protein MTI1 (Protein BBC1)	BBC1 MTI1 YJL020C J1286 J1305 YJL021C	1157	UP000002311: Chromosome X
+YJL024C	P47064	AP3S_YEAST	reviewed	AP-3 complex subunit sigma (AP-3 complex sigma3A subunit) (Adaptor-related protein complex 3 subunit sigma) (Clathrin-associated/assembly/adaptor protein, small 3) (Sigma-adaptin 3A) (Sigma3-adaptin)	APS3 YKS7 YJL024C J1274	194	UP000002311: Chromosome X
+YJL025W	P40992	RRN7_YEAST	reviewed	RNA polymerase I-specific transcription initiation factor RRN7	RRN7 YJL025W J1273	514	UP000002311: Chromosome X
+YJL026W	P09938	RIR2_YEAST	reviewed	Ribonucleoside-diphosphate reductase small chain 1 (EC 1.17.4.1) (Ribonucleotide reductase R2 subunit 1) (Ribonucleotide reductase small subunit 1)	RNR2 CRT6 YJL026W J1271	399	UP000002311: Chromosome X
+YJL029C	P47061	VPS53_YEAST	reviewed	Vacuolar protein sorting-associated protein 53	VPS53 YJL029C J1258	822	UP000002311: Chromosome X
+YJL030W	P40958	MAD2_YEAST	reviewed	Mitotic spindle checkpoint component MAD2 (Mitotic MAD2 protein)	MAD2 YJL030W J1256	196	UP000002311: Chromosome X
+YJL031C	Q00618	PGTA_YEAST	reviewed	Geranylgeranyl transferase type-2 subunit alpha (EC 2.5.1.60) (GGTase-II-alpha) (Geranylgeranyl transferase type II subunit alpha) (PGGT) (Type II protein geranyl-geranyltransferase subunit alpha) (YPT1/SEC4 proteins geranylgeranyltransferase subunit alpha)	BET4 YJL031C J1254	327	UP000002311: Chromosome X
+YJL034W	P16474	BIP_YEAST	reviewed	Endoplasmic reticulum chaperone BiP (EC 3.6.4.10) (78 kDa glucose-regulated protein homolog) (GRP-78) (Immunoglobulin heavy chain-binding protein homolog) (BiP)	KAR2 GRP78 SSD1 YJL034W J1248	682	UP000002311: Chromosome X
+YJL036W	P47057	SNX4_YEAST	reviewed	Sorting nexin-4 (Autophagy-related protein 24) (Cytoplasm to vacuole targeting protein 13)	SNX4 ATG24 CVT13 YJL036W J1244	423	UP000002311: Chromosome X
+YJL041W	P14907	NSP1_YEAST	reviewed	Nucleoporin NSP1 (Nuclear pore protein NSP1) (Nucleoskeletal-like protein) (p110)	NSP1 YJL041W J1207	823	UP000002311: Chromosome X
+YJL048C	P47049	UBX6_YEAST	reviewed	UBX domain-containing protein 6	UBX6 YJL048C J1164	396	UP000002311: Chromosome X
+YJL053W	P40335	PEP8_YEAST	reviewed	Carboxypeptidase Y-deficient protein 8 (Vacuolar protein sorting-associated protein 26) (Vacuolar protein-targeting protein 4)	PEP8 GRD6 VPS26 VPT4 YJL053W J1152	379	UP000002311: Chromosome X
+YJL054W	P47045	TIM54_YEAST	reviewed	Mitochondrial import inner membrane translocase subunit TIM54	TIM54 YJL054W J1150	478	UP000002311: Chromosome X
+YJL061W	P40368	NUP82_YEAST	reviewed	Nucleoporin NUP82 (Nuclear pore protein NUP82)	NUP82 YJL061W HRB187 J1135	713	UP000002311: Chromosome X
+YJL074C	P47037	SMC3_YEAST	reviewed	Structural maintenance of chromosomes protein 3 (DA-box protein SMC3)	SMC3 YJL074C J1049	1230	UP000002311: Chromosome X
+YJL076W	P47035	NET1_YEAST	reviewed	Nucleolar protein NET1	NET1 CFI1 ESC5 SRM8 YJL076W J1038	1189	UP000002311: Chromosome X
+YJL081C	P80428	ARP4_YEAST	reviewed	Actin-related protein 4 (Actin-like protein ARP4) (Actin-like protein 4)	ARP4 ACT3 YJL081C J1012	489	UP000002311: Chromosome X
+YJL090C	P47027	DPB11_YEAST	reviewed	DNA replication regulator DPB11	DPB11 YJL090C J0918	764	UP000002311: Chromosome X
+YJL095W	Q01389	BCK1_YEAST	reviewed	Serine/threonine-protein kinase BCK1/SLK1/SSP31 (EC 2.7.11.1)	BCK1 LAS3 SLK1 SSP31 YJL095W J0906	1478	UP000002311: Chromosome X
+YJL115W	P32447	ASF1_YEAST	reviewed	Histone chaperone ASF1 (Anti-silencing function protein 1) (yASF1)	ASF1 CIA1 YJL115W J0755	279	UP000002311: Chromosome X
+YJL124C	P47017	LSM1_YEAST	reviewed	Sm-like protein LSm1 (SPB8 protein)	LSM1 SPB8 YJL124C J0714	172	UP000002311: Chromosome X
+YJL125C	P46959	TRM61_YEAST	reviewed	tRNA (adenine(58)-N(1))-methyltransferase catalytic subunit TRM61 (EC 2.1.1.220) (General control non-derepressible protein 14) (Protein GCD14) (tRNA(m1A58)-methyltransferase subunit TRM61) (tRNA(m1A58)MTase subunit TRM61)	GCD14 TRM61 YJL125C J0710	383	UP000002311: Chromosome X
+YJL128C	P08018	PBS2_YEAST	reviewed	MAP kinase kinase PBS2 (EC 2.7.12.2) (Polymyxin B resistance protein 2) (Suppressor of fluoride sensitivity 4)	PBS2 HOG4 SFS4 SSK4 YJL128C J0699	668	UP000002311: Chromosome X
+YJL137C	P47011	GLG2_YEAST	reviewed	Glycogenin-2 (EC 2.4.1.186) (Glycogen synthesis initiator protein 2) (Glycogenin glucosyltransferase 2)	GLG2 YJL137C J0663	380	UP000002311: Chromosome X
+YJL138C	P10081	IF4A_YEAST	reviewed	ATP-dependent RNA helicase eIF4A (EC 3.6.4.13) (Eukaryotic initiation factor 4A) (eIF-4A) (Stimulator factor I 37 kDa component) (Translation initiation factor 1/2) (p37)	TIF1 TIF41A YKR059W; TIF2 TIF41B YJL138C J0660	395	UP000002311: Chromosome X, UP000002311: Chromosome XI
+YJL140W	P20433	RPB4_YEAST	reviewed	DNA-directed RNA polymerase II subunit RPB4 (RNA polymerase II subunit B4) (B32) (DNA-directed RNA polymerase II 32 kDa polypeptide)	RPB4 YJL140W J0654	221	UP000002311: Chromosome X
+YJL143W	P39515	TIM17_YEAST	reviewed	Mitochondrial import inner membrane translocase subunit TIM17 (Mitochondrial inner membrane protein MIM17) (Mitochondrial protein import protein 2)	TIM17 MIM17 MPI2 SMS1 YJL143W J0648	158	UP000002311: Chromosome X
+YJL149W	P47005	DAS1_YEAST	reviewed	F-box protein DAS1 (DST1-delta 6-azauracil sensitivity protein 1)	DAS1 YJL149W J0634	663	UP000002311: Chromosome X
+YJL154C	P34110	VPS35_YEAST	reviewed	Vacuolar protein sorting-associated protein 35 (Vacuolar protein-targeting protein 7)	VPS35 VPT7 YJL154C J0580	944	UP000002311: Chromosome X
+YJL157C	P21268	FAR1_YEAST	reviewed	Cyclin-dependent kinase inhibitor FAR1 (CKI FAR1) (Factor arrest protein)	FAR1 YJL157C J0565	830	UP000002311: Chromosome X
+YJL164C	P06244	KAPA_YEAST	reviewed	cAMP-dependent protein kinase type 1 (PKA 1) (EC 2.7.11.11) (CDC25-suppressing protein kinase) (PK-25)	TPK1 PKA1 SRA3 YJL164C J0541	397	UP000002311: Chromosome X
+YJL166W	P08525	QCR8_YEAST	reviewed	Cytochrome b-c1 complex subunit 8, mitochondrial (Complex III subunit 8) (Complex III subunit VII) (Ubiquinol-cytochrome c oxidoreductase subunit 8) (Ubiquinol-cytochrome c reductase complex 11 kDa protein) (Ubiquinone-binding protein QP-C)	QCR8 YJL166W J0526	94	UP000002311: Chromosome X
+YJL173C	P26755	RFA3_YEAST	reviewed	Replication factor A protein 3 (RF-A) (Replication protein A 13 kDa subunit)	RFA3 YJL173C J0506	122	UP000002311: Chromosome X
+YJL176C	P32591	SWI3_YEAST	reviewed	SWI/SNF complex subunit SWI3 (Transcription factor TYE2) (Transcription regulatory protein SWI3)	SWI3 TYE2 YJL176C J0495	825	UP000002311: Chromosome X
+YJL187C	P32944	SWE1_YEAST	reviewed	Mitosis inhibitor protein kinase SWE1 (EC 2.7.11.1) (Wee1 homolog)	SWE1 YJL187C J0406	819	UP000002311: Chromosome X
+YJL190C	P0C0W1	RS22A_YEAST	reviewed	40S ribosomal protein S22-A (RP50) (S24) (Small ribosomal subunit protein uS8-A) (YP58) (YS22)	RPS22A RPS24 RPS24A YJL190C J0355	130	UP000002311: Chromosome X
+YJL194W	P09119	CDC6_YEAST	reviewed	Cell division control protein 6	CDC6 YJL194W J0347	513	UP000002311: Chromosome X
+YJL203W	P32524	PRP21_YEAST	reviewed	Pre-mRNA-splicing factor PRP21	PRP21 SPP91 YJL203W J0322	280	UP000002311: Chromosome X
+YJL204C	P39531	RCY1_YEAST	reviewed	Recyclin-1	RCY1 YJL204C J0318 J0320	840	UP000002311: Chromosome X
+YJR005W	P27351	AP2B_YEAST	reviewed	AP-2 complex subunit beta (Beta-2-adaptin) (Beta-adaptin) (Clathrin assembly protein complex 2 beta large chain) (Clathrin assembly protein large beta chain)	APL1 YAP80 YJR005W J1422	700	UP000002311: Chromosome X
+YJR006W	P46957	DPOD2_YEAST	reviewed	DNA polymerase delta small subunit (EC 2.7.7.7) (Hydroxyurea-sensitive protein 2)	POL31 HUS2 HYS2 SDP5 YJR006W J1427 YJR83.7	487	UP000002311: Chromosome X
+YJR007W	P20459	IF2A_YEAST	reviewed	Eukaryotic translation initiation factor 2 subunit alpha (eIF-2-alpha)	SUI2 TIF211 YJR007W J1429	304	UP000002311: Chromosome X
+YJR022W	P47093	LSM8_YEAST	reviewed	U6 snRNA-associated Sm-like protein LSm8	LSM8 YJR022W J1464 YJR83.16	109	UP000002311: Chromosome X
+YJR032W	P47103	CYP7_YEAST	reviewed	Peptidyl-prolyl cis-trans isomerase CYP7 (PPIase CYP7) (EC 5.2.1.8) (Rotamase CYP7)	CPR7 YJR032W J1585	393	UP000002311: Chromosome X
+YJR033C	P47104	RAV1_YEAST	reviewed	Regulator of V-ATPase in vacuolar membrane protein 1 (Suppression of the onset of impotence protein 3)	RAV1 SOI3 YJR033C J1590	1357	UP000002311: Chromosome X
+YJR043C	P47110	DPOD3_YEAST	reviewed	DNA polymerase delta subunit 3	POL32 YJR043C J1626	350	UP000002311: Chromosome X
+YJR045C	P0CS90	HSP77_YEAST	reviewed	Heat shock protein SSC1, mitochondrial (Endonuclease SceI 75 kDa subunit) (Endo.SceI 75 kDa subunit) (mtHSP70)	SSC1 ENS1 YJR045C J1639	654	UP000002311: Chromosome X
+YJR047C	P19211	IF5A2_YEAST	reviewed	Eukaryotic translation initiation factor 5A-2 (eIF-5A-2) (Anaerobically induced protein 1) (Hypusine-containing protein HP1) (eIF-4D)	ANB1 HYP1 TIF51B YJR047C J1651	157	UP000002311: Chromosome X
+YJR048W	P00044	CYC1_YEAST	reviewed	Cytochrome c isoform 1 (Iso-1-cytochrome c) (Cytochrome c aerobic isoform)	CYC1 YJR048W J1653	109	UP000002311: Chromosome X
+YJR050W	P21374	ISY1_YEAST	reviewed	Pre-mRNA-splicing factor ISY1 (Interactor of SYF1) (PRP19-associated complex protein 30)	ISY1 NTC30 UTR3 YJR050W J1657	235	UP000002311: Chromosome X
+YJR052W	P06779	RAD7_YEAST	reviewed	DNA repair protein RAD7	RAD7 YJR052W J1665	565	UP000002311: Chromosome X
+YJR053W	P47113	BFA1_YEAST	reviewed	Mitotic check point protein BFA1 (Cell cycle arrest protein BFA1)	BFA1 YJR053W J1667	574	UP000002311: Chromosome X
+YJR058C	Q00381	AP2S_YEAST	reviewed	AP-2 complex subunit sigma (Adaptin small chain) (Clathrin assembly protein 2 sigma small chain) (Clathrin coat assembly protein AP17) (Clathrin coat-associated protein AP17) (Plasma membrane adaptor AP-2 17 kDa protein) (Sigma2-adaptin)	APS2 YAP17 YJR058C J1720	147	UP000002311: Chromosome X
+YJR060W	P17106	CBF1_YEAST	reviewed	Centromere-binding protein 1 (CBP-1) (Centromere promoter factor 1) (Centromere-binding factor 1)	CBF1 CEP1 CP1 CPF1 YJR060W J1730	351	UP000002311: Chromosome X
+YJR063W	P32529	RPA12_YEAST	reviewed	DNA-directed RNA polymerase I subunit RPA12 (A12) (A12.2) (DNA-directed RNA polymerase I 13.7 kDa polypeptide)	RPA12 RRN4 YJR063W J1747	125	UP000002311: Chromosome X
+YJR065C	P47117	ARP3_YEAST	reviewed	Actin-related protein 3 (Actin-like protein ARP3) (Actin-like protein 3)	ARP3 ACT4 YJR065C J1760	449	UP000002311: Chromosome X
+YJR066W	P35169	TOR1_YEAST	reviewed	Serine/threonine-protein kinase TOR1 (EC 2.7.11.1) (Dominant rapamycin resistance protein 1) (Phosphatidylinositol kinase homolog TOR1) (Target of rapamycin kinase 1)	TOR1 DRR1 YJR066W J1803	2470	UP000002311: Chromosome X
+YJR068W	P40348	RFC2_YEAST	reviewed	Replication factor C subunit 2 (Replication factor C2) (Activator 1 41 kDa subunit)	RFC2 YJR068W J1808	353	UP000002311: Chromosome X
+YJR075W	P47124	HOC1_YEAST	reviewed	Putative glycosyltransferase HOC1 (EC 2.4.-.-) (M-Pol II subunit Hoc1p) (Mannan polymerase II complex HOC1 subunit)	HOC1 YJR075W J1830	396	UP000002311: Chromosome X
+YJR076C	P32458	CDC11_YEAST	reviewed	Cell division control protein 11	CDC11 PSL9 YJR076C J1833	415	UP000002311: Chromosome X
+YJR083C	P47129	ACF4_YEAST	reviewed	Assembly-complementing factor 4	ACF4 YJR083C J1857	309	UP000002311: Chromosome X
+YJR086W	P18852	GBG_YEAST	reviewed	Guanine nucleotide-binding protein subunit gamma	STE18 YJR086W J1866	110	UP000002311: Chromosome X
+YJR090C	P24814	GRR1_YEAST	reviewed	SCF E3 ubiquitin ligase complex F-box protein GRR1 (F-box and leucine-rich repeat protein GRR1) (F-box/LRR-repeat protein GRR1)	GRR1 CAT80 COT2 YJR090C J1885	1151	UP000002311: Chromosome X
+YJR093C	P45976	FIP1_YEAST	reviewed	Pre-mRNA polyadenylation factor FIP1	FIP1 YJR093C J1911	327	UP000002311: Chromosome X
+YJR094C	P21190	IME1_YEAST	reviewed	Meiosis-inducing protein 1	IME1 YJR094C J1916	360	UP000002311: Chromosome X
+YJR102C	P47142	VPS25_YEAST	reviewed	Vacuolar protein-sorting-associated protein 25 (ESCRT-II complex subunit VPS25)	VPS25 VPT25 YJR102C J1957	202	UP000002311: Chromosome X
+YJR104C	P00445	SODC_YEAST	reviewed	Superoxide dismutase [Cu-Zn] (EC 1.15.1.1)	SOD1 YJR104C J1968	154	UP000002311: Chromosome X
+YJR109C	P03965	CARB_YEAST	reviewed	Carbamoyl-phosphate synthase arginine-specific large chain (EC 6.3.5.5) (Arginine-specific carbamoyl-phosphate synthetase, ammonia chain)	CPA2 YJR109C J2002	1118	UP000002311: Chromosome X
+YJR123W	P26783	RS5_YEAST	reviewed	40S ribosomal protein S5 (RP14) (S2) (Small ribosomal subunit protein uS7) (YS8)	RPS5 RPS2 YJR123W J2045	225	UP000002311: Chromosome X
+YJR135C	P47167	CENPK_YEAST	reviewed	Inner kinetochore subunit MCM22 (CENP-K homolog) (Constitutive centromere-associated network protein MCM22) (Minichromosome maintenance protein 22)	MCM22 YJR135C J2122	239	UP000002311: Chromosome X
+YKL007W	P28495	CAPZA_YEAST	reviewed	F-actin-capping protein subunit alpha	CAP1 YKL007W YKL155	268	UP000002311: Chromosome XI
+YKL008C	P28496	LAC1_YEAST	reviewed	Ceramide synthase LAC1 (EC 2.3.1.-) (Sphingosine N-acyltransferase LAC1) (EC 2.3.1.24)	LAC1 DGT1 YKL008C YKL156	418	UP000002311: Chromosome XI
+YKL019W	P29703	FNTA_YEAST	reviewed	Protein farnesyltransferase/geranylgeranyltransferase type-1 subunit alpha (EC 2.5.1.58) (EC 2.5.1.59) (CAAX farnesyltransferase subunit alpha) (FTase-alpha) (Ras proteins prenyltransferase subunit alpha) (Type I protein geranyl-geranyltransferase subunit alpha) (GGTase-I-alpha)	RAM2 YKL019W	316	UP000002311: Chromosome XI
+YKL025C	P36102	PAN3_YEAST	reviewed	PAN2-PAN3 deadenylation complex subunit PAN3 (PAB1P-dependent poly(A)-specific ribonuclease) (Poly(A)-nuclease deadenylation complex subunit 3) (PAN deadenylation complex subunit 3)	PAN3 ECM35 YKL025C	679	UP000002311: Chromosome XI
+YKL028W	P36100	T2EA_YEAST	reviewed	Transcription initiation factor IIE subunit alpha (TFIIE-alpha) (Factor A 66 kDa subunit) (Transcription factor A large subunit)	TFA1 YKL028W	482	UP000002311: Chromosome XI
+YKL041W	P36095	VPS24_YEAST	reviewed	Vacuolar protein-sorting-associated protein 24 (DOA4-independent degradation protein 3) (ESCRT-III complex subunit VPS24)	VPS24 DID3 YKL041W YKL254	224	UP000002311: Chromosome XI
+YKL042W	P36094	SPC42_YEAST	reviewed	Spindle pole body component SPC42	SPC42 YKL042W YKL255	363	UP000002311: Chromosome XI
+YKL045W	P20457	PRI2_YEAST	reviewed	DNA primase large subunit (DNA polymerase alpha:primase complex p58 subunit) (DNA polymerase-primase complex p58 subunit) (Pol alpha-primase complex p58 subunit) (DNA primase 58 kDa subunit)	PRI2 YKL045W YKL258	528	UP000002311: Chromosome XI
+YKL052C	P35734	ASK1_YEAST	reviewed	DASH complex subunit ASK1 (Associated with spindles and kinetochores protein 1) (Outer kinetochore protein ASK1)	ASK1 YKL052C YKL306	292	UP000002311: Chromosome XI
+YKL058W	P32774	T2AG_YEAST	reviewed	Transcription initiation factor IIA subunit 2 (General transcription factor IIA subunit 2) (TFIIA 13.5 kDa subunit) (Transcription initiation factor IIA small chain) (Transcription initiation factor IIA small subunit)	TOA2 YKL058W	122	UP000002311: Chromosome XI
+YKL068W	Q02629	NU100_YEAST	reviewed	Nucleoporin NUP100/NSP100 (Nuclear pore protein NUP100/NSP100)	NUP100 NSP100 YKL068W YKL336	959	UP000002311: Chromosome XI
+YKL074C	P36084	MUD2_YEAST	reviewed	Splicing factor MUD2	MUD2 YKL074C YKL358	527	UP000002311: Chromosome XI
+YKL082C	P36080	RRP14_YEAST	reviewed	Ribosomal RNA-processing protein 14 (Ribosome biogenesis protein RRP14)	RRP14 YKL082C	434	UP000002311: Chromosome XI
+YKL086W	P36077	SRX1_YEAST	reviewed	Sulfiredoxin (EC 1.8.98.2) (Sulphiredoxin)	SRX1 YKL086W	127	UP000002311: Chromosome XI
+YKL090W	P36075	CUE2_YEAST	reviewed	Ubiquitin-binding protein CUE2 (Coupling of ubiquitin conjugation to ER degradation protein 2)	CUE2 YKL090W	443	UP000002311: Chromosome XI
+YKL101W	P34244	HSL1_YEAST	reviewed	Probable serine/threonine-protein kinase HSL1 (EC 2.7.11.1)	HSL1 YKL101W YKL453	1518	UP000002311: Chromosome XI
+YKL108W	P34252	SLD2_YEAST	reviewed	DNA replication regulator SLD2 (DNA replication and checkpoint protein 1)	SLD2 DRC1 YKL108W YKL463	453	UP000002311: Chromosome XI
+YKL109W	P14064	HAP4_YEAST	reviewed	Transcriptional activator HAP4	HAP4 YKL109W YKL465	554	UP000002311: Chromosome XI
+YKL113C	P26793	FEN1_YEAST	reviewed	Flap endonuclease 1 (FEN-1) (EC 3.1.-.-) (Flap structure-specific endonuclease 1) (RAD2 homolog nuclease 1) (RTH1 nuclease) (Structure-specific endonuclease RAD27)	RAD27 FEN1 RTH1 YKL113C YKL510	382	UP000002311: Chromosome XI
+YKL117W	P28707	SBA1_YEAST	reviewed	Co-chaperone protein SBA1	SBA1 YKL117W YKL518	216	UP000002311: Chromosome XI
+YKL129C	P36006	MYO3_YEAST	reviewed	Myosin-3 (Actin-dependent myosin-I MYO3) (Class I unconventional myosin MYO3) (Type I myosin MYO3)	MYO3 YKL129C	1272	UP000002311: Chromosome XI
+YKL130C	P36068	SHE2_YEAST	reviewed	SWI5-dependent HO expression protein 2	SHE2 YKL130C	246	UP000002311: Chromosome XI
+YKL135C	P36000	AP1B1_YEAST	reviewed	AP-1 complex subunit beta-1 (Beta-1-adaptin) (Clathrin assembly protein complex 1 beta-1 large chain) (Clathrin assembly protein large beta-1 chain)	APL2 YKL135C	726	UP000002311: Chromosome XI
+YKL139W	Q03957	CTK1_YEAST	reviewed	CTD kinase subunit alpha (CTDK-I subunit alpha) (EC 2.7.11.23) (CTD kinase 58 kDa subunit) (CTD kinase subunit 1)	CTK1 YKL139W	528	UP000002311: Chromosome XI
+YKL141W	P33421	SDH3_YEAST	reviewed	Succinate dehydrogenase [ubiquinone] cytochrome b subunit, mitochondrial	SDH3 CYB3 YKL141W YKL4	198	UP000002311: Chromosome XI
+YKL145W	P33299	PRS7_YEAST	reviewed	26S proteasome regulatory subunit 7 homolog (Protein CIM5) (Tat-binding homolog 3)	RPT1 CIM5 YTA3 YKL145W	467	UP000002311: Chromosome XI
+YKL148C	Q00711	SDHA_YEAST	reviewed	Succinate dehydrogenase [ubiquinone] flavoprotein subunit, mitochondrial (EC 1.3.5.1) (Flavoprotein subunit of complex II) (FP)	SDH1 SDHA YKL148C YKL602	640	UP000002311: Chromosome XI
+YKL154W	P36057	SRPB_YEAST	reviewed	Signal recognition particle receptor subunit beta (SR-beta)	SRP102 YKL154W YKL609	244	UP000002311: Chromosome XI
+YKL166C	P05986	KAPC_YEAST	reviewed	cAMP-dependent protein kinase type 3 (PKA 3) (EC 2.7.11.11)	TPK3 PKA3 YKL166C YKL630	398	UP000002311: Chromosome XI
+YKL180W	P05740	RL17A_YEAST	reviewed	60S ribosomal protein L17-A (L20A) (Large ribosomal subunit protein uL22-A) (YL17)	RPL17A RPL17 RPL20A YKL180W	184	UP000002311: Chromosome XI
+YKL182W	P07149	FAS1_YEAST	reviewed	Fatty acid synthase subunit beta (EC 2.3.1.86) [Includes: 3-hydroxyacyl-[acyl-carrier-protein] dehydratase (EC 4.2.1.59); Enoyl-[acyl-carrier-protein] reductase [NADH] (EC 1.3.1.9); [Acyl-carrier-protein] acetyltransferase (EC 2.3.1.38); [Acyl-carrier-protein] malonyltransferase (EC 2.3.1.39); S-acyl fatty acid synthase thioesterase (EC 3.1.2.14)]	FAS1 YKL182W	2051	UP000002311: Chromosome XI
+YKL186C	P34232	MTR2_YEAST	reviewed	mRNA transport regulator MTR2	MTR2 YKL186C	184	UP000002311: Chromosome XI
+YKL190W	P25296	CANB_YEAST	reviewed	Calcineurin subunit B (Calcineurin regulatory subunit) (Protein phosphatase 2B regulatory subunit)	CNB1 YCN2 YCNB YKL190W	175	UP000002311: Chromosome XI
+YKL196C	P36015	YKT6_YEAST	reviewed	Synaptobrevin homolog YKT6 (EC 2.3.1.-)	YKT6 YKL196C	200	UP000002311: Chromosome XI
+YKL203C	P32600	TOR2_YEAST	reviewed	Serine/threonine-protein kinase TOR2 (EC 2.7.1.67) (EC 2.7.11.1) (Dominant rapamycin resistance protein 2) (Phosphatidylinositol 4-kinase TOR2) (PI4-kinase TOR2) (PI4K TOR2) (PtdIns-4-kinase TOR2) (Target of rapamycin kinase 2) (Temperature-sensitive CSG2 suppressor protein 14)	TOR2 DRR2 TSC14 YKL203C	2474	UP000002311: Chromosome XI
+YKL211C	P00937	TRPG_YEAST	reviewed	Multifunctional tryptophan biosynthesis protein [Includes: Anthranilate synthase component 2 (AS) (EC 4.1.3.27) (Anthranilate synthase, glutamine amidotransferase component); Indole-3-glycerol phosphate synthase (EC 4.1.1.48) (PRAI)]	TRP3 YKL211C	484	UP000002311: Chromosome XI
+YKL214C	P36036	YRA2_YEAST	reviewed	RNA annealing protein YRA2	YRA2 YKL214C	203	UP000002311: Chromosome XI
+YKR002W	P29468	PAP_YEAST	reviewed	Poly(A) polymerase (PAP) (EC 2.7.7.19) (Polynucleotide adenylyltransferase)	PAP1 YKR002W	568	UP000002311: Chromosome XI
+YKR007W	Q02205	MEH1_YEAST	reviewed	Protein MEH1 (EGO complex subunit 1) (GSE complex subunit 2)	MEH1 EGO1 GSE2 YKR007W YK106	184	UP000002311: Chromosome XI
+YKR025W	P36121	RPC5_YEAST	reviewed	DNA-directed RNA polymerase III subunit RPC5 (RNA polymerase III subunit C5) (DNA-directed RNA polymerase III 37 kDa polypeptide) (RNA polymerase III subunit C37)	RPC37 YKR025W	282	UP000002311: Chromosome XI
+YKR027W	P36122	BCH2_YEAST	reviewed	Protein BCH2 (BUD7 and CHS6 homolog 2)	BCH2 FMP50 YKR027W	765	UP000002311: Chromosome XI
+YKR037C	P36131	SPC34_YEAST	reviewed	DASH complex subunit SPC34 (34 kDa spindle pole component protein) (Outer kinetochore protein SPC34)	SPC34 YKR037C	295	UP000002311: Chromosome XI
+YKR048C	P25293	NAP1_YEAST	reviewed	Nucleosome assembly protein	NAP1 YKR048C	417	UP000002311: Chromosome XI
+YKR062W	P36145	T2EB_YEAST	reviewed	Transcription initiation factor IIE subunit beta (TFIIE-beta) (Factor A 43 kDa subunit) (Transcription factor A small subunit)	TFA2 YKR062W	328	UP000002311: Chromosome XI
+YKR066C	P00431	CCPR_YEAST	reviewed	Cytochrome c peroxidase, mitochondrial (CCP) (EC 1.11.1.5)	CCP1 CCP CPO YKR066C	361	UP000002311: Chromosome XI
+YKR068C	P36149	BET3_YEAST	reviewed	Trafficking protein particle complex subunit BET3 (TRAPP subunit BET3) (Transport protein particle 22 kDa subunit)	BET3 YKR068C	193	UP000002311: Chromosome XI
+YKR083C	P36162	DAD2_YEAST	reviewed	DASH complex subunit DAD2 (DUO1 and DAM1-interacting protein 2) (Helper of ASK1 protein 1) (Outer kinetochore protein DAD2)	DAD2 HSK1 YKR083C YKR403	133	UP000002311: Chromosome XI
+YKR094C	P0CH09	RL40B_YEAST	reviewed	Ubiquitin-60S ribosomal protein L40 [Cleaved into: Ubiquitin; 60S ribosomal protein L40-B (CEP52) (Large ribosomal subunit protein eL40-B)]	RPL40B UBI2 YKR094C	128	UP000002311: Chromosome XI
+YKR095W	Q02455	MLP1_YEAST	reviewed	Protein MLP1 (Myosin-like protein 1)	MLP1 YKR095W YKR415	1875	UP000002311: Chromosome XI
+YKR099W	P22035	BAS1_YEAST	reviewed	Myb-like DNA-binding protein BAS1	BAS1 YKR099W	811	UP000002311: Chromosome XI
+YKR101W	P21691	SIR1_YEAST	reviewed	Regulatory protein SIR1 (Heterochromatin protein SIR1) (Silent information regulator 1)	SIR1 YKR101W	654	UP000002311: Chromosome XI
+YLL004W	P54790	ORC3_YEAST	reviewed	Origin recognition complex subunit 3 (Origin recognition complex 62 kDa subunit)	ORC3 OAF1 OIF1 YLL004W L1365	616	UP000002311: Chromosome XII
+YLL016W	P0CF34	YL016_YEAST	reviewed	Putative truncated guanine nucleotide exchange factor SDC25	SDC25 SCD25 YLL016W L1309	1048	
+YLL024C	P10592	HSP72_YEAST	reviewed	Heat shock protein SSA2	SSA2 YLL024C L0931	639	UP000002311: Chromosome XII
+YLL026W	P31539	HS104_YEAST	reviewed	Heat shock protein 104 (Protein aggregation-remodeling factor HSP104)	HSP104 YLL026W L0948	908	UP000002311: Chromosome XII
+YLL036C	P32523	PRP19_YEAST	reviewed	Pre-mRNA-processing factor 19 (EC 2.3.2.27) (RING-type E3 ubiquitin transferase PRP19)	PRP19 PSO4 YLL036C	503	UP000002311: Chromosome XII
+YLL039C	P0CG63	UBI4P_YEAST	reviewed	Polyubiquitin [Cleaved into: Ubiquitin]	UBI4 SCD2 YLL039C	381	UP000002311: Chromosome XII
+YLL041C	P21801	SDHB_YEAST	reviewed	Succinate dehydrogenase [ubiquinone] iron-sulfur subunit, mitochondrial (EC 1.3.5.1) (Iron-sulfur subunit of complex II) (Ip)	SDH2 SDH SDHB YLL041C	266	UP000002311: Chromosome XII
+YLL045C	P29453	RL8B_YEAST	reviewed	60S ribosomal protein L8-B (L4) (L4-1) (Large ribosomal subunit protein eL8-B) (RP6) (YL5)	RPL8B KRB1 RPL4B YLL045C	256	UP000002311: Chromosome XII
+YLL050C	Q03048	COFI_YEAST	reviewed	Cofilin (Actin-depolymerizing factor 1)	COF1 YLL050C L0596	143	UP000002311: Chromosome XII
+YLR006C	Q07084	SSK1_YEAST	reviewed	Osmolarity two-component system protein SSK1	SSK1 YLR006C	712	UP000002311: Chromosome XII
+YLR007W	Q07913	NSE1_YEAST	reviewed	Non-structural maintenance of chromosomes element 1 (Non-SMC element 1) (EC 2.3.2.27)	NSE1 YLR007W	336	UP000002311: Chromosome XII
+YLR014C	P07272	PPR1_YEAST	reviewed	Pyrimidine pathway regulatory protein 1	PPR1 YLR014C	904	UP000002311: Chromosome XII
+YLR025W	P39929	SNF7_YEAST	reviewed	Vacuolar-sorting protein SNF7 (DOA4-independent degradation protein 1) (Sucrose nonfermenting protein 7) (Vacuolar protein-sorting-associated protein 32)	SNF7 DID1 VPS32 YLR025W	240	UP000002311: Chromosome XII
+YLR026C	Q01590	SED5_YEAST	reviewed	Integral membrane protein SED5	SED5 YLR026C	340	UP000002311: Chromosome XII
+YLR029C	P05748	RL15A_YEAST	reviewed	60S ribosomal protein L15-A (L13) (Large ribosomal subunit protein eL15-A) (RP15R) (YL10) (YP18)	RPL15A RPL10A RPL13A YL10A YLR029C	204	UP000002311: Chromosome XII
+YLR045C	P46675	STU2_YEAST	reviewed	Protein STU2 (Suppressor of tubulin 2)	STU2 YLR045C L2108	888	UP000002311: Chromosome XII
+YLR048W	P46654	RSSA2_YEAST	reviewed	40S ribosomal protein S0-B (Nucleic acid-binding protein NAB1B) (Small ribosomal subunit protein uS2-B)	RPS0B NAB1B NAB4 YST2 YLR048W L2118	252	UP000002311: Chromosome XII
+YLR060W	P15624	SYFB_YEAST	reviewed	Phenylalanine--tRNA ligase beta subunit (EC 6.1.1.20) (Phenylalanyl-tRNA synthetase beta subunit) (PheRS)	FRS1 YLR060W L2165	595	UP000002311: Chromosome XII
+YLR075W	P41805	RL10_YEAST	reviewed	60S ribosomal protein L10 (L9) (Large ribosomal subunit protein uL16) (Ubiquinol-cytochrome C reductase complex subunit VI-requiring protein)	RPL10 GRC5 QSR1 YLR075W	221	UP000002311: Chromosome XII
+YLR079W	P38634	SIC1_YEAST	reviewed	Protein SIC1 (CDK inhibitor p40)	SIC1 SDB25 YLR079W L9449.8	284	UP000002311: Chromosome XII
+YLR086W	Q12267	SMC4_YEAST	reviewed	Structural maintenance of chromosomes protein 4	SMC4 YLR086W L9449.5	1418	UP000002311: Chromosome XII
+YLR093C	Q12255	NYV1_YEAST	reviewed	Vacuolar v-SNARE NYV1 (R-SNARE NYV1) (New v-SNARE 1) (Synaptobrevin NYV1)	NYV1 MAM2 YLR093C	253	UP000002311: Chromosome XII
+YLR097C	Q12347	HRT3_YEAST	reviewed	F-box protein HRT3 (High level expression reduces Ty3 transposition protein 3)	HRT3 YLR097C	344	UP000002311: Chromosome XII
+YLR100W	Q12452	ERG27_YEAST	reviewed	3-keto-steroid reductase (EC 1.1.1.270)	ERG27 YLR100W	347	UP000002311: Chromosome XII
+YLR113W	P32485	HOG1_YEAST	reviewed	Mitogen-activated protein kinase HOG1 (MAP kinase HOG1) (EC 2.7.11.24) (High osmolarity glycerol response protein 1)	HOG1 SSK3 YLR113W L2931 L9354.2	435	UP000002311: Chromosome XII
+YLR115W	Q12102	CFT2_YEAST	reviewed	Cleavage factor two protein 2 (105 kDa protein associated with polyadenylation factor I)	CFT2 YDH1 YLR115W L2946	859	UP000002311: Chromosome XII
+YLR116W	Q12186	BBP_YEAST	reviewed	Branchpoint-bridging protein (Mud synthetic-lethal 5 protein) (Splicing factor 1) (Zinc finger protein BBP)	MSL5 BBP SF1 YLR116W L2949	476	UP000002311: Chromosome XII
+YLR117C	Q12309	CLF1_YEAST	reviewed	Pre-mRNA-splicing factor CLF1 (Crooked neck-like factor 1) (PRP19-associated complex protein 77) (Synthetic lethal with CDC40 protein 3)	CLF1 NTC77 SYF3 YLR117C L2952	687	UP000002311: Chromosome XII
+YLR141W	Q02983	RRN5_YEAST	reviewed	RNA polymerase I-specific transcription initiation factor RRN5	RRN5 YLR141W L3165 L9606.3	363	UP000002311: Chromosome XII
+YLR144C	Q12168	ENG2_YEAST	reviewed	Endo-1,3(4)-beta-glucanase 2 (Endo-1,3-beta-glucanase 2) (Endo-1,4-beta-glucanase 2) (EC 3.2.1.6) (Laminarinase-2)	ACF2 ENG2 PCA1 YLR144C L3180	779	UP000002311: Chromosome XII
+YLR147C	P43321	SMD3_YEAST	reviewed	Small nuclear ribonucleoprotein Sm D3 (Sm-D3) (snRNP core protein D3)	SMD3 YLR147C L9634.6	101	UP000002311: Chromosome XII
+YLR148W	P27801	PEP3_YEAST	reviewed	Vacuolar membrane protein PEP3 (Carboxypeptidase Y-deficient protein 3) (Vacuolar morphogenesis protein 8) (Vacuolar protein sorting-associated protein 18) (Vacuolar protein-targeting protein 18)	PEP3 VAM8 VPS18 VPT18 YLR148W L9634.2	918	UP000002311: Chromosome XII
+YLR163C	P10507	MPPB_YEAST	reviewed	Mitochondrial-processing peptidase subunit beta (EC 3.4.24.64) (Beta-MPP) (Mitochondrial assembly protein 1) (Processing enhancing protein) (PEP)	MAS1 MIF1 YLR163C L9632.10	462	UP000002311: Chromosome XII
+YLR166C	Q06245	SEC10_YEAST	reviewed	Exocyst complex component SEC10	SEC10 YLR166C L9362.12	871	UP000002311: Chromosome XII
+YLR167W	P05759	RS31_YEAST	reviewed	Ubiquitin-40S ribosomal protein S31 [Cleaved into: Ubiquitin; 40S ribosomal protein S31 (CEP76) (S37) (Small ribosomal subunit protein eS31) (YS24)]	RPS31 RPS37 UBI3 YLR167W L9470.14	152	UP000002311: Chromosome XII
+YLR170C	P35181	AP1S1_YEAST	reviewed	AP-1 complex subunit sigma-1 (Clathrin assembly protein complex 1 sigma-1 small chain) (Clathrin coat assembly protein AP19) (Clathrin coat-associated protein AP19) (Golgi adaptor AP-1 19 kDa adaptin) (HA1 19 kDa subunit) (Sigma1-adaptin)	APS1 YAP19 YLR170C L9470.16	156	UP000002311: Chromosome XII
+YLR175W	P33322	CBF5_YEAST	reviewed	H/ACA ribonucleoprotein complex subunit CBF5 (EC 5.4.99.-) (Centromere-binding factor 5) (Centromere/microtubule-binding protein CBF5) (H/ACA snoRNP protein CBF5) (Small nucleolar RNP protein CBF5) (p64')	CBF5 YLR175W L9470.11	483	UP000002311: Chromosome XII
+YLR178C	P14306	CPYI_YEAST	reviewed	Carboxypeptidase Y inhibitor (CPY inhibitor) (CDC25 suppressor 1) (I(C)) (Ic) (Protein DKA1) (Protein NSP1)	TFS1 DKA1 NSP1 YLR178C L9470.19	219	UP000002311: Chromosome XII
+YLR182W	P09959	SWI6_YEAST	reviewed	Regulatory protein SWI6 (Cell-cycle box factor subunit SWI6) (MBF subunit P90) (Trans-acting activator of HO endonuclease gene)	SWI6 YLR182W L9470.8	803	UP000002311: Chromosome XII
+YLR185W	P49166	RL37A_YEAST	reviewed	60S ribosomal protein L37-A (L43) (Large ribosomal subunit protein eL37-A) (YL35) (YP55)	RPL37A RPL35A YLR185W L9470.6	88	UP000002311: Chromosome XII
+YLR191W	P80667	PEX13_YEAST	reviewed	Peroxisomal membrane protein PAS20 (Peroxin-13)	PEX13 PAS20 YLR191W L9470.1	386	UP000002311: Chromosome XII
+YLR197W	Q12460	NOP56_YEAST	reviewed	Nucleolar protein 56 (Ribosome biosynthesis protein SIK1) (Suppressor of I kappa b protein 1)	NOP56 SIK1 YLR197W L8167.9	504	UP000002311: Chromosome XII
+YLR200W	P52553	PFD6_YEAST	reviewed	Prefoldin subunit 6 (Genes involved in microtubule biogenesis protein 1) (Gim complex subunit 1) (GimC subunit 1)	YKE2 GIM1 PFD6 YLR200W L8167.8	114	UP000002311: Chromosome XII
+YLR207W	Q05787	HRD3_YEAST	reviewed	ERAD-associated E3 ubiquitin-protein ligase component HRD3 (HMG-CoA reductase degradation protein 3)	HRD3 YLR207W	833	UP000002311: Chromosome XII
+YLR210W	P24871	CG24_YEAST	reviewed	G2/mitotic-specific cyclin-4	CLB4 YLR210W L8167.3	460	UP000002311: Chromosome XII
+YLR212C	P53378	TBG_YEAST	reviewed	Tubulin gamma chain (Gamma-tubulin)	TUB4 YLR212C L8167.21	473	UP000002311: Chromosome XII
+YLR216C	P53691	PPID_YEAST	reviewed	Peptidyl-prolyl cis-trans isomerase CPR6 (PPIase CPR6) (EC 5.2.1.8) (Rotamase CPR6)	CPR6 YLR216C L8167.24	371	UP000002311: Chromosome XII
+YLR226W	Q05949	BUR2_YEAST	reviewed	Protein BUR2 (Bypass UAS requirement protein 2) (Chromosome stability protein 4)	BUR2 CST4 YLR226W	395	UP000002311: Chromosome XII
+YLR229C	P19073	CDC42_YEAST	reviewed	Cell division control protein 42 (Suppressor of RHO3 protein 2)	CDC42 SRO2 YLR229C L8083.13	191	UP000002311: Chromosome XII
+YLR233C	P17214	EST1_YEAST	reviewed	Telomere elongation protein EST1 (Ever shorter telomeres protein 1)	EST1 YLR233C L8083.15	699	UP000002311: Chromosome XII
+YLR234W	P13099	TOP3_YEAST	reviewed	DNA topoisomerase 3 (EC 5.6.2.1) (DNA topoisomerase III)	TOP3 EDR1 YLR234W L8083.3	656	UP000002311: Chromosome XII
+YLR240W	P22543	VPS34_YEAST	reviewed	Phosphatidylinositol 3-kinase VPS34 (PI3-kinase VPS34) (PI3K VPS34) (PtdIns-3-kinase VPS34) (EC 2.7.1.137) (Carboxypeptidase Y-deficient protein 15) (Vacuolar protein sorting-associated protein 34) (Vacuolar protein-targeting protein 29)	VPS34 END12 PEP15 VPL7 VPT29 YLR240W L9672.10	875	UP000002311: Chromosome XII
+YLR245C	Q06549	CDD_YEAST	reviewed	Cytidine deaminase (CDA) (EC 3.5.4.5) (Cytidine aminohydrolase)	CDD1 YLR245C L9672.13	142	UP000002311: Chromosome XII
+YLR249W	P16521	EF3A_YEAST	reviewed	Elongation factor 3A (EF-3) (EF-3A) (Eukaryotic elongation factor 3) (eEF3) (Translation elongation factor 3A) (Yeast elongation factor 3)	YEF3 EFC1 TEF3 YEF3A YLR249W L9672.5	1044	UP000002311: Chromosome XII
+YLR256W	P0CE41	HAP1_YEAST	reviewed	Heme-responsive zinc finger transcription factor HAP1 (CYP1 activatory protein) (Heme activator protein 1)	HAP1 CYP1 YLR256W L9672.1	1502	UP000002311: Chromosome XII
+YLR258W	P27472	GYS2_YEAST	reviewed	Glycogen [starch] synthase isoform 2 (EC 2.4.1.11)	GSY2 YLR258W L8479.8	705	UP000002311: Chromosome XII
+YLR259C	P19882	HSP60_YEAST	reviewed	Heat shock protein 60, mitochondrial (CPN60) (P66) (Stimulator factor I 66 kDa component)	HSP60 MIF4 YLR259C L8479.10	572	UP000002311: Chromosome XII
+YLR263W	P14291	RED1_YEAST	reviewed	Protein RED1 (Reductional division protein 1)	RED1 YLR263W L8479.6	827	UP000002311: Chromosome XII
+YLR268W	P22214	SEC22_YEAST	reviewed	Protein transport protein SEC22 (Suppressor of loss of YPT1 protein 2)	SEC22 SLY2 TSL26 YLR268W L8479.3	214	UP000002311: Chromosome XII
+YLR274W	P29496	MCM5_YEAST	reviewed	Minichromosome maintenance protein 5 (EC 3.6.4.12) (Cell division control protein 46)	MCM5 CDC46 YLR274W L9328.1	775	UP000002311: Chromosome XII
+YLR277C	Q06224	YSH1_YEAST	reviewed	Endoribonuclease YSH1 (EC 3.1.27.-) (Yeast 73 kDa homolog 1) (mRNA 3'-end-processing protein YSH1)	YSH1 BRR5 YLR277C	779	UP000002311: Chromosome XII
+YLR288C	Q02574	MEC3_YEAST	reviewed	DNA damage checkpoint control protein MEC3	MEC3 PIP3 PSO9 YLR288C L8003.15	474	UP000002311: Chromosome XII
+YLR292C	P39742	SEC72_YEAST	reviewed	Translocation protein SEC72 (Sec62/63 complex 23 kDa subunit) (p23)	SEC72 SEC67 SIM2 YLR292C L8003.18	193	UP000002311: Chromosome XII
+YLR293C	P32835	GSP1_YEAST	reviewed	GTP-binding nuclear protein GSP1/CNR1 (Chromosome stability protein 17) (GTPase Ran homolog) (Genetic suppressor of PRP20-1)	GSP1 CNR1 CST17 YLR293C L8003.19	219	UP000002311: Chromosome XII
+YLR310C	P04821	CDC25_YEAST	reviewed	Cell division control protein 25	CDC25 CTN1 YLR310C L2142.6	1589	UP000002311: Chromosome XII
+YLR313C	Q06160	SPH1_YEAST	reviewed	Protein SPH1 (SPA2 homolog 1)	SPH1 YLR313C	661	UP000002311: Chromosome XII
+YLR314C	P32457	CDC3_YEAST	reviewed	Cell division control protein 3	CDC3 YLR314C L8543.7	520	UP000002311: Chromosome XII
+YLR318W	Q06163	TERT_YEAST	reviewed	Telomerase reverse transcriptase (EC 2.7.7.49) (Telomerase catalytic subunit)	EST2 YLR318W L8543.12	884	UP000002311: Chromosome XII
+YLR319C	P41697	BUD6_YEAST	reviewed	Bud site selection protein 6 (Actin-interacting protein 3)	BUD6 AIP3 YLR319C L8543.5	788	UP000002311: Chromosome XII
+YLR321C	Q06168	SFH1_YEAST	reviewed	Chromatin structure-remodeling complex subunit SFH1 (RSC complex subunit SFH1) (SNF5 homolog 1)	SFH1 YLR321C L8543.4	426	UP000002311: Chromosome XII
+YLR335W	P32499	NUP2_YEAST	reviewed	Nucleoporin NUP2 (Nuclear pore protein NUP2) (p95)	NUP2 YLR335W L8300.9	720	UP000002311: Chromosome XII
+YLR337C	P37370	VRP1_YEAST	reviewed	Verprolin	VRP1 END5 MDP2 YLR337C L8300.13	817	UP000002311: Chromosome XII
+YLR342W	P38631	FKS1_YEAST	reviewed	1,3-beta-glucan synthase component FKS1 (EC 2.4.1.34) (1,3-beta-D-glucan-UDP glucosyltransferase) (Calcineurin dependent protein 1) (Calcofluor white hypersensitivity protein 53) (Echinocandin target gene protein 1) (FK506 sensitivity protein 1) (Glucan synthase of cerevisiae protein 1) (Papulacandin B resistance protein 1)	FKS1 CND1 CWH53 ETG1 GLS1 GSC1 PBR1 YLR342W L8300.6	1876	UP000002311: Chromosome XII
+YLR347C	Q06142	IMB1_YEAST	reviewed	Importin subunit beta-1 (Importin-95) (Karyopherin subunit beta-1) (Karyopherin-95)	KAP95 YLR347C L8300.15	861	UP000002311: Chromosome XII
+YLR360W	Q05919	VPS38_YEAST	reviewed	Vacuolar protein sorting-associated protein 38	VPS38 VPL17 YLR360W L8039.11	439	UP000002311: Chromosome XII
+YLR362W	P23561	STE11_YEAST	reviewed	Serine/threonine-protein kinase STE11 (EC 2.7.11.25)	STE11 YLR362W L8039.10	717	UP000002311: Chromosome XII
+YLR367W	Q3E7Y3	RS22B_YEAST	reviewed	40S ribosomal protein S22-B (RP50) (S24) (Small ribosomal subunit protein uS8-B) (YP58) (YS22)	RPS22B RPS24B YLR367W L8039.6	130	UP000002311: Chromosome XII
+YLR371W	P51862	ROM2_YEAST	reviewed	RHO1 GDP-GTP exchange protein 2	ROM2 YLR371W L8039.3	1356	UP000002311: Chromosome XII
+YLR378C	P32915	SC61A_YEAST	reviewed	Protein transport protein SEC61 (Sec61 complex subunit SEC61) (Sec61 complex subunit alpha)	SEC61 YLR378C L3502.5	480	UP000002311: Chromosome XII
+YLR381W	Q12748	CENPI_YEAST	reviewed	Inner kinetochore subunit CTF3 (CENP-I homolog) (Chromosome loss protein 3) (Chromosome transmission fidelity protein 3) (Constitutive centromere-associated network protein CTF3)	CTF3 CHL3 YLR381W	733	UP000002311: Chromosome XII
+YLR396C	P20795	VPS33_YEAST	reviewed	Vacuolar protein sorting-associated protein 33 (Protein SLP1) (Vacuolar morphogenesis protein 5)	VPS33 SLP1 VAM5 YLR396C L8084.15	691	UP000002311: Chromosome XII
+YLR417W	Q06696	VPS36_YEAST	reviewed	Vacuolar protein-sorting-associated protein 36 (ESCRT-II complex subunit VPS36)	VPS36 GRD12 VAC3 VPL11 YLR417W	566	UP000002311: Chromosome XII
+YLR423C	Q06410	ATG17_YEAST	reviewed	Autophagy-related protein 17	ATG17 APG17 YLR423C	417	UP000002311: Chromosome XII
+YLR433C	P23287	PP2B1_YEAST	reviewed	Serine/threonine-protein phosphatase 2B catalytic subunit A1 (EC 3.1.3.16) (Calcineurin A1) (Calmodulin-binding protein 1)	CNA1 CMP1 YLR433C L9753.6	553	UP000002311: Chromosome XII
+YLR442C	P06701	SIR3_YEAST	reviewed	Regulatory protein SIR3 (Silent information regulator 3)	SIR3 CMT1 MAR2 STE8 YLR442C L9753.10	978	UP000002311: Chromosome XII
+YLR450W	P12684	HMDH2_YEAST	reviewed	3-hydroxy-3-methylglutaryl-coenzyme A reductase 2 (HMG-CoA reductase 2) (EC 1.1.1.34)	HMG2 YLR450W L9324.2	1045	UP000002311: Chromosome XII
+YLR452C	P11972	SST2_YEAST	reviewed	Protein SST2	SST2 YLR452C L9324.9	698	UP000002311: Chromosome XII
+YML007W	P19880	AP1_YEAST	reviewed	AP-1-like transcription factor YAP1 (Phenanthroline resistance protein PAR1) (Pleiotropic drug resistance protein PDR4)	YAP1 PAR1 PDR4 SNQ3 YML007W YM9571.12	650	UP000002311: Chromosome XIII
+YML026C	P0CX56	RS18B_YEAST	reviewed	40S ribosomal protein S18-B (Small ribosomal subunit protein uS13-B)	RPS18B YML026C	146	UP000002311: Chromosome XIII
+YML032C	P06778	RAD52_YEAST	reviewed	DNA repair and recombination protein RAD52	RAD52 YML032C	471	UP000002311: Chromosome XIII
+YML043C	Q04712	RRN11_YEAST	reviewed	RNA polymerase I-specific transcription initiation factor RRN11	RRN11 YML043C YM9827.09C	507	UP000002311: Chromosome XIII
+YML051W	P04387	GAL80_YEAST	reviewed	Galactose/lactose metabolism regulatory protein GAL80	GAL80 YML051W YM9827.01 YM9958.12	435	UP000002311: Chromosome XIII
+YML055W	Q04969	SPC2_YEAST	reviewed	Signal peptidase complex subunit SPC2 (Microsomal signal peptidase subunit 2)	SPC2 SPY1 YML055W YM9958.07	178	UP000002311: Chromosome XIII
+YML057W	P14747	PP2B2_YEAST	reviewed	Serine/threonine-protein phosphatase 2B catalytic subunit A2 (EC 3.1.3.16) (Calcineurin A2) (Calmodulin-binding protein 2)	CMP2 CNA2 YML057W YM9958.05	604	UP000002311: Chromosome XIII
+YML058W	Q04964	SML1_YEAST	reviewed	Ribonucleotide reductase inhibitor protein SML1	SML1 YML058W YM9958.04	104	UP000002311: Chromosome XIII
+YML064C	P38987	TEM1_YEAST	reviewed	Protein TEM1	TEM1 YML064C	245	UP000002311: Chromosome XIII
+YML065W	P54784	ORC1_YEAST	reviewed	Origin recognition complex subunit 1 (Origin recognition complex 120 kDa subunit)	ORC1 YML065W	914	UP000002311: Chromosome XIII
+YML067C	Q04651	ERV41_YEAST	reviewed	ER-derived vesicles protein ERV41	ERV41 YML067C	352	UP000002311: Chromosome XIII
+YML069W	Q04636	POB3_YEAST	reviewed	FACT complex subunit POB3 (Facilitates chromatin transcription complex subunit POB3)	POB3 YML069W	552	UP000002311: Chromosome XIII
+YML077W	Q03630	BET5_YEAST	reviewed	Trafficking protein particle complex subunit BET5 (TRAPP subunit BET5) (Transport protein particle 18 kDa subunit)	BET5 YML077W	159	UP000002311: Chromosome XIII
+YML088W	Q04511	UFO1_YEAST	reviewed	Ubiquitin ligase complex F-box protein UFO1	UFO1 YML088W	668	UP000002311: Chromosome XIII
+YML092C	P23639	PSA2_YEAST	reviewed	Proteasome subunit alpha type-2 (EC 3.4.25.1) (Macropain subunit Y7) (Multicatalytic endopeptidase complex subunit Y7) (Proteasome component Y7) (Proteinase YSCE subunit 7)	PRE8 PRS4 YML092C	250	UP000002311: Chromosome XIII
+YML094W	Q04493	PFD5_YEAST	reviewed	Prefoldin subunit 5 (Genes involved in microtubule biogenesis protein 5) (Gim complex subunit 5) (GimC subunit 5)	GIM5 PFD5 YML094W	163	UP000002311: Chromosome XIII
+YML095C	P06838	RAD10_YEAST	reviewed	DNA repair protein RAD10	RAD10 YML095C	210	UP000002311: Chromosome XIII
+YML099C	P05085	ARGR2_YEAST	reviewed	Arginine metabolism regulation protein II (Arginine-requiring protein 81)	ARG81 ARGR2 YML099C	880	UP000002311: Chromosome XIII
+YML100W	P38427	TSL1_YEAST	reviewed	Trehalose synthase complex regulatory subunit TSL1 (Alpha,alpha-trehalose-phosphate synthase [UDP-forming] 123 kDa subunit)	TSL1 YML100W	1098	UP000002311: Chromosome XIII
+YML103C	P52593	NU188_YEAST	reviewed	Nucleoporin NUP188 (Nuclear pore protein NUP188)	NUP188 YML103C	1655	UP000002311: Chromosome XIII
+YML109W	P54786	ZDS2_YEAST	reviewed	Protein ZDS2	ZDS2 MCS1 YML109W YM8339.10	942	UP000002311: Chromosome XIII
+YML112W	P46963	CTK3_YEAST	reviewed	CTD kinase subunit gamma (CTDK-I gamma subunit) (CTD kinase 32 kDa subunit) (CTD kinase subunit 3)	CTK3 YML112W YM8339.07	296	UP000002311: Chromosome XIII
+YML114C	Q03750	TAF8_YEAST	reviewed	Transcription initiation factor TFIID subunit 8 (TAFII-65) (TBP-associated factor 65 kDa) (TBP-associated factor 8)	TAF8 TAF65 YML114C YM8339.05C	510	UP000002311: Chromosome XIII
+YML115C	P23642	VAN1_YEAST	reviewed	Mannan polymerase I complex VAN1 subunit (M-pol I subunit VAN1) (Vanadate resistance protein)	VAN1 VRG7 YML115C YM8339.04C	535	UP000002311: Chromosome XIII
+YMR001C	P32562	CDC5_YEAST	reviewed	Cell cycle serine/threonine-protein kinase CDC5/MSD2 (EC 2.7.11.21)	CDC5 MSD2 PKX2 YMR001C YM8270.03C	705	UP000002311: Chromosome XIII
+YMR005W	P50105	TAF4_YEAST	reviewed	Transcription initiation factor TFIID subunit 4 (MPT-1) (TAF suppressor gene 2 protein) (TAFII-48) (TBP-associated factor 4) (TBP-associated factor 48 kDa)	TAF4 MPT1 TAF48 TSG2 YMR005W YM8270.07	388	UP000002311: Chromosome XIII
+YMR022W	Q02159	UBC7_YEAST	reviewed	Ubiquitin-conjugating enzyme E2 7 (EC 2.3.2.23) (E2 ubiquitin-conjugating enzyme 7) (Ubiquitin carrier protein) (Ubiquitin-conjugating enzyme E2-18 kDa) (Ubiquitin-protein ligase)	UBC7 QRI8 YMR022W YM9711.12	165	UP000002311: Chromosome XIII
+YMR023C	P32559	MSS1_YEAST	reviewed	tRNA modification GTPase MSS1, mitochondrial	MSS1 PET53 YMR023C YM9711.13C	526	UP000002311: Chromosome XIII
+YMR028W	Q04372	TAP42_YEAST	reviewed	Type 2A phosphatase-associated protein 42	TAP42 YMR028W YM9711.18 YM9973.01C	366	UP000002311: Chromosome XIII
+YMR032W	Q05080	CYK2_YEAST	reviewed	Cytokinesis protein 2 (Homolog of CDC15 protein 1)	HOF1 CYK2 YMR032W YM9973.05	669	UP000002311: Chromosome XIII
+YMR035W	P46972	IMP2_YEAST	reviewed	Mitochondrial inner membrane protease subunit 2 (EC 3.4.21.-)	IMP2 YMR035W YM9973.09	177	UP000002311: Chromosome XIII
+YMR038C	P40202	CCS1_YEAST	reviewed	Superoxide dismutase 1 copper chaperone	CCS1 LYS7 YMR038C YM9532.03C	249	UP000002311: Chromosome XIII
+YMR042W	P07249	ARGR1_YEAST	reviewed	Arginine metabolism regulation protein I (Arginine-requiring protein 80)	ARG80 ARGR1 YMR042W YM9532.07	177	UP000002311: Chromosome XIII
+YMR043W	P11746	MCM1_YEAST	reviewed	Pheromone receptor transcription factor (GRM/PRTF protein)	MCM1 FUN80 YMR043W YM9532.08	286	UP000002311: Chromosome XIII
+YMR047C	Q02630	NU116_YEAST	reviewed	Nucleoporin NUP116/NSP116 (Nuclear pore protein NUP116/NSP116)	NUP116 NSP116 YMR047C YM9532.12C	1113	UP000002311: Chromosome XIII
+YMR053C	P46679	STB2_YEAST	reviewed	Protein STB2	STB2 YMR053C YM9796.06C	850	UP000002311: Chromosome XIII
+YMR055C	P26448	BUB2_YEAST	reviewed	Mitotic check point protein BUB2 (Cell cycle arrest protein BUB2)	BUB2 YMR055C YM9796.08C	306	UP000002311: Chromosome XIII
+YMR078C	P49956	CTF18_YEAST	reviewed	Chromosome transmission fidelity protein 18	CTF18 CHL12 YMR078C YM9582.03C	741	UP000002311: Chromosome XIII
+YMR080C	P30771	NAM7_YEAST	reviewed	ATP-dependent helicase NAM7 (EC 3.6.4.-) (Nonsense-mediated mRNA decay protein 1) (Nuclear accommodation of mitochondria 7 protein) (Up-frameshift suppressor 1)	NAM7 IFS2 MOF4 UPF1 YMR080C YM9582.05C	971	UP000002311: Chromosome XIII
+YMR089C	P40341	YTA12_YEAST	reviewed	Mitochondrial respiratory chain complexes assembly protein YTA12 (EC 3.4.24.-) (Tat-binding homolog 12)	YTA12 RCA1 YMR089C YM9582.14C	825	UP000002311: Chromosome XIII
+YMR091C	P32832	RSC7_YEAST	reviewed	Chromatin structure-remodeling complex subunit RSC7 (Nuclear protein localization protein 6) (Remodel the structure of chromatin complex subunit 7)	NPL6 RSC7 YMR091C YM9582.16C	435	UP000002311: Chromosome XIII
+YMR094W	P35203	CBF3C_YEAST	reviewed	Centromere DNA-binding protein complex CBF3 subunit C (Chromosome transmission fidelity protein 13) (Kinetochore protein CTF13)	CTF13 CBF3C YMR094W YM6543.01 YM9582.19	478	UP000002311: Chromosome XIII
+YMR095C	Q03144	SNO1_YEAST	reviewed	Pyridoxal 5'-phosphate synthase subunit SNO1 (EC 4.3.3.6) (PDX2 homolog 1) (Pdx2.1) (Pyridoxal 5'-phosphate synthase glutaminase subunit) (EC 3.5.1.2)	SNO1 YMR095C YM6543.02C	224	UP000002311: Chromosome XIII
+YMR106C	Q04437	KU80_YEAST	reviewed	ATP-dependent DNA helicase II subunit 2 (EC 3.6.4.12) (ATP-dependent DNA helicase II subunit Ku80) (High affinity DNA-binding factor subunit 2) (Yeast Ku80)	YKU80 HDF2 YMR106C YM9718.05C	629	UP000002311: Chromosome XIII
+YMR108W	P07342	ILVB_YEAST	reviewed	Acetolactate synthase catalytic subunit, mitochondrial (EC 2.2.1.6) (Acetohydroxy-acid synthase catalytic subunit) (AHAS) (ALS)	ILV2 SMR1 YMR108W YM9718.07	687	UP000002311: Chromosome XIII
+YMR109W	Q04439	MYO5_YEAST	reviewed	Myosin-5 (Actin-dependent myosin-I MYO5) (Class I unconventional myosin MYO5) (Type I myosin MYO5)	MYO5 YMR109W YM9718.08	1219	UP000002311: Chromosome XIII
+YMR117C	Q04477	SPC24_YEAST	reviewed	Kinetochore protein SPC24	SPC24 YMR117C YM9718.16C	213	UP000002311: Chromosome XIII
+YMR121C	P54780	RL15B_YEAST	reviewed	60S ribosomal protein L15-B (L13) (Large ribosomal subunit protein eL15-B) (RP15R) (YL10) (YP18)	RPL15B RPL10B RPL13B YL10B YMR121C YM8564.03C	204	UP000002311: Chromosome XIII
+YMR125W	P34160	NCBP1_YEAST	reviewed	Nuclear cap-binding protein complex subunit 1 (80 kDa nuclear cap-binding protein) (CBP80) (NCBP 80 kDa subunit) (Glycolysis regulation protein 3) (Protein SUT1) (Suppressor of TOP1 protein)	STO1 CBC1 CBP80 GCR3 SUT1 YMR125W YM8564.07 YM9553.01	861	UP000002311: Chromosome XIII
+YMR127C	P40963	SAS2_YEAST	reviewed	Histone acetyltransferase SAS2 (EC 2.3.1.48) (Something about silencing protein 2)	SAS2 ESO1 YMR127C YM9553.03C	338	UP000002311: Chromosome XIII
+YMR139W	P38615	RIM11_YEAST	reviewed	Serine/threonine-protein kinase RIM11/MSD1 (EC 2.7.11.1) (Regulator of IME2 protein 11)	RIM11 GSK3 MDS1 YMR139W YM9375.08	370	UP000002311: Chromosome XIII
+YMR143W	P0CX51	RS16A_YEAST	reviewed	40S ribosomal protein S16-A (RP61R) (Small ribosomal subunit protein uS9-A)	RPS16A RP61R YMR143W YM9375.12	143	UP000002311: Chromosome XIII
+YMR150C	P28627	IMP1_YEAST	reviewed	Mitochondrial inner membrane protease subunit 1 (EC 3.4.21.-)	IMP1 PET2858 YMR150C YM9375.20C	190	UP000002311: Chromosome XIII
+YMR159C	Q03818	ATG16_YEAST	reviewed	Autophagy protein 16 (Cytoplasm to vacuole targeting protein 11) (SAP18 homolog)	ATG16 APG15 APG16 CVT11 SAP18 YMR159C YM8520.08C	150	UP000002311: Chromosome XIII
+YMR167W	P38920	MLH1_YEAST	reviewed	DNA mismatch repair protein MLH1 (MutL protein homolog 1) (Post meiotic segregation protein 2)	MLH1 PMS2 YMR167W YM8520.16	769	UP000002311: Chromosome XIII
+YMR168C	P40969	CBF3B_YEAST	reviewed	Centromere DNA-binding protein complex CBF3 subunit B (Centromere protein 3)	CEP3 CBF3 CBF3B CSL1 YMR168C YM8520.17C	608	UP000002311: Chromosome XIII
+YMR174C	P01094	IPA3_YEAST	reviewed	Protease A inhibitor 3 (Proteinase inhibitor I(A)3) (Proteinase yscA-inhibitor) (Saccharopepsin inhibitor)	PAI3 YMR174C YM8010.04C	68	UP000002311: Chromosome XIII
+YMR186W	P15108	HSC82_YEAST	reviewed	ATP-dependent molecular chaperone HSC82 (82 kDa heat shock cognate protein) (Heat shock protein Hsp90 constitutive isoform)	HSC82 YMR186W YM8010.16	705	UP000002311: Chromosome XIII
+YMR189W	P49095	GCSP_YEAST	reviewed	Glycine dehydrogenase (decarboxylating), mitochondrial (EC 1.4.4.2) (Glycine cleavage system P protein) (Glycine decarboxylase) (Glycine decarboxylase complex subunit P) (Glycine dehydrogenase (aminomethyl-transferring))	GCV2 GSD2 YMR189W YM9646.01	1034	UP000002311: Chromosome XIII
+YMR190C	P35187	SGS1_YEAST	reviewed	ATP-dependent helicase SGS1 (EC 3.6.4.12) (Helicase TPS1)	SGS1 TPS1 YMR190C YM9646.02C	1447	UP000002311: Chromosome XIII
+YMR192W	Q04322	GYL1_YEAST	reviewed	Probable GTPase-activating protein GYL1 (GYP5-like protein 1)	GYL1 APP2 YMR192W YM9646.04	720	UP000002311: Chromosome XIII
+YMR197C	Q04338	VTI1_YEAST	reviewed	t-SNARE VTI1 (Qb-SNARE VTI1) (VPS10-interacting protein 1) (Vesicle transport v-SNARE protein VTI1)	VTI1 YMR197C YM9646.10C	217	UP000002311: Chromosome XIII
+YMR198W	Q01649	CIK1_YEAST	reviewed	Spindle pole body-associated protein CIK1 (Chromosome instability and karyogamy protein 1)	CIK1 YMR198W YM9646.11	594	UP000002311: Chromosome XIII
+YMR199W	P20437	CG11_YEAST	reviewed	G1/S-specific cyclin CLN1	CLN1 YMR199W YM9646.13	546	UP000002311: Chromosome XIII
+YMR201C	P28519	RAD14_YEAST	reviewed	DNA repair protein RAD14	RAD14 YMR201C YM8325.02C	371	UP000002311: Chromosome XIII
+YMR203W	P23644	TOM40_YEAST	reviewed	Mitochondrial import receptor subunit TOM40 (Mitochondrial import site protein ISP42) (Translocase of outer membrane 40 kDa subunit)	TOM40 ISP42 MOM38 YMR203W YM8325.04	387	UP000002311: Chromosome XIII
+YMR205C	P16862	PFKA2_YEAST	reviewed	ATP-dependent 6-phosphofructokinase subunit beta (EC 2.7.1.11) (ATP-dependent 6-phosphofructokinase) (ATP-PFK) (Phosphofructokinase 2) (Phosphohexokinase)	PFK2 YMR205C YM8325.06C	959	UP000002311: Chromosome XIII
+YMR213W	Q03654	CEF1_YEAST	reviewed	Pre-mRNA-splicing factor CEF1 (PRP nineteen-associated complex protein 85) (PRP19-associated complex protein 85)	CEF1 NTC85 YMR213W YM8261.07	590	UP000002311: Chromosome XIII
+YMR224C	P32829	MRE11_YEAST	reviewed	Double-strand break repair protein MRE11	MRE11 YMR224C YM9959.06C	692	UP000002311: Chromosome XIII
+YMR231W	P12868	PEP5_YEAST	reviewed	E3 ubiquitin-protein ligase PEP5 (EC 2.3.2.27) (Carboxypeptidase Y-deficient protein 5) (Histone E3 ligase PEP5) (RING-type E3 ubiquitin transferase PEP5) (Vacuolar biogenesis protein END1) (Vacuolar morphogenesis protein 1) (Vacuolar protein sorting-associated protein 11) (Vacuolar protein-targeting protein 11)	PEP5 END1 VAM1 VPL9 VPS11 VPT11 YMR231W YM9959.13	1029	UP000002311: Chromosome XIII
+YMR232W	Q05670	FUS2_YEAST	reviewed	Nuclear fusion protein FUS2	FUS2 YMR232W YM9959.14	677	UP000002311: Chromosome XIII
+YMR238W	Q05031	DFG5_YEAST	reviewed	Mannan endo-1,6-alpha-mannosidase DFG5 (EC 3.2.1.101) (Endo-alpha-1->6-D-mannanase DFG5)	DFG5 YMR238W YM9959.20	458	UP000002311: Chromosome XIII
+YMR240C	Q02554	CUS1_YEAST	reviewed	Cold sensitive U2 snRNA suppressor 1	CUS1 YMR240C YM9408.02C	436	UP000002311: Chromosome XIII
+YMR255W	Q04839	GFD1_YEAST	reviewed	mRNA transport factor GFD1 (Good for full DBP5 activity protein 1)	GFD1 YMR255W YM9920.09	188	UP000002311: Chromosome XIII
+YMR261C	P38426	TPS3_YEAST	reviewed	Trehalose synthase complex regulatory subunit TPS3 (Alpha,alpha-trehalose-phosphate synthase [UDP-forming] 115 kDa subunit)	TPS3 YMR261C YM8156.03C	1054	UP000002311: Chromosome XIII
+YMR263W	P38429	SAP30_YEAST	reviewed	Transcriptional regulatory protein SAP30	SAP30 YMR263W YM8156.05	201	UP000002311: Chromosome XIII
+YMR268C	P49960	PRP24_YEAST	reviewed	U4/U6 snRNA-associated-splicing factor PRP24 (U4/U6 snRNP protein)	PRP24 YMR268C YM8156.10C	444	UP000002311: Chromosome XIII
+YMR270C	P53437	RRN9_YEAST	reviewed	RNA polymerase I-specific transcription initiation factor RRN9	RRN9 YMR270C YM8156.12C	365	UP000002311: Chromosome XIII
+YMR275C	P48524	BUL1_YEAST	reviewed	Ubiquitin ligase-binding protein BUL1 (Respiration deficiency suppressor 1)	BUL1 DAG1 RDS1 SMM2 YMR275C YM8021.01C YM8156.17C	976	UP000002311: Chromosome XIII
+YMR284W	P32807	KU70_YEAST	reviewed	ATP-dependent DNA helicase II subunit 1 (EC 3.6.4.12) (ATP-dependent DNA helicase II subunit Ku70) (High affinity DNA-binding factor subunit 1)	YKU70 HDF1 NES24 YMR284W YM8021.10	602	UP000002311: Chromosome XIII
+YMR297W	P00729	CBPY_YEAST	reviewed	Carboxypeptidase Y (CPD-Y) (cpY) (EC 3.4.16.5) (Carboxypeptidase YSCY)	PRC1 YMR297W	532	UP000002311: Chromosome XIII
+YMR308C	P32337	IMB3_YEAST	reviewed	Importin subunit beta-3 (Karyopherin subunit beta-3) (Karyopherin-121) (Protein secretion enhancer 1)	PSE1 KAP121 YMR308C YM9952.10C	1089	UP000002311: Chromosome XIII
+YMR309C	P32497	EIF3C_YEAST	reviewed	Eukaryotic translation initiation factor 3 subunit C (eIF3c) (Eukaryotic translation initiation factor 3 93 kDa subunit) (eIF3 p93) (Nuclear transport protein NIP1) (Translation initiation factor eIF3, p93 subunit)	NIP1 YMR309C YM9924.01C YM9952.11C	812	UP000002311: Chromosome XIII
+YMR314W	P40302	PSA6_YEAST	reviewed	Proteasome subunit alpha type-6 (EC 3.4.25.1) (Macropain subunit PRE5) (Multicatalytic endopeptidase complex subunit PRE5) (Proteasome component PRE5) (Proteinase YSCE subunit PRE5)	PRE5 YMR314W YM9924.06	234	UP000002311: Chromosome XIII
+YNL006W	P41318	LST8_YEAST	reviewed	Target of rapamycin complex subunit LST8 (TORC subunit LST8) (Lethal with SEC13 protein 8)	LST8 YNL006W N2005	303	UP000002311: Chromosome XIV
+YNL007C	P25294	SIS1_YEAST	reviewed	Protein SIS1	SIS1 YNL007C N2879	352	UP000002311: Chromosome XIV
+YNL020C	P53974	ARK1_YEAST	reviewed	Actin-regulating kinase 1 (EC 2.7.11.1)	ARK1 YNL020C N2823	638	UP000002311: Chromosome XIV
+YNL025C	P47821	SSN8_YEAST	reviewed	RNA polymerase II holoenzyme cyclin-like subunit (Suppressor of RNA polymerase B 11)	SSN8 GIG3 NUT9 SRB11 UME3 YNL025C N2805	323	UP000002311: Chromosome XIV
+YNL037C	P28834	IDH1_YEAST	reviewed	Isocitrate dehydrogenase [NAD] subunit 1, mitochondrial (EC 1.1.1.41) (Isocitric dehydrogenase) (NAD(+)-specific ICDH)	IDH1 YNL037C N2690	360	UP000002311: Chromosome XIV
+YNL039W	P46678	TFC5_YEAST	reviewed	Transcription factor TFIIIB component B'' (TFIIIB90)	BDP1 TFC5 YNL039W N2682	594	UP000002311: Chromosome XIV
+YNL041C	P53959	COG6_YEAST	reviewed	Conserved oligomeric Golgi complex subunit 6 (COG complex subunit 6) (Complexed with DOR1 protein 2) (Component of oligomeric Golgi complex 6) (Protein SEC37)	COG6 COD2 SEC37 TFI2 YNL041C N2675	839	UP000002311: Chromosome XIV
+YNL050C	P53952	YNF0_YEAST	reviewed	Uncharacterized protein YNL050C	YNL050C N2485 YNL2485C	270	UP000002311: Chromosome XIV
+YNL062C	P41814	TRM6_YEAST	reviewed	tRNA (adenine(58)-N(1))-methyltransferase non-catalytic subunit TRM6 (General control non-derepressible protein 10) (Protein GCD10) (tRNA(m1A58)-methyltransferase subunit TRM6) (tRNA(m1A58)MTase subunit TRM6)	GCD10 TIF33 TRM6 YNL062C N2422	478	UP000002311: Chromosome XIV
+YNL064C	P25491	MAS5_YEAST	reviewed	Mitochondrial protein import protein MAS5 (Yeast dnaJ protein 1)	YDJ1 MAS5 YNL064C N2418 YNL2418C	409	UP000002311: Chromosome XIV
+YNL067W	P51401	RL9B_YEAST	reviewed	60S ribosomal protein L9-B (L8) (Large ribosomal subunit protein uL6-B) (RP24) (YL11)	RPL9B RPL8B YNL067W N2406 YNL2406W	191	UP000002311: Chromosome XIV
+YNL069C	P26785	RL16B_YEAST	reviewed	60S ribosomal protein L16-B (L21) (Large ribosomal subunit protein uL13-B) (RP23) (YL15)	RPL16B RP23 RPL21B YNL069C N2377	198	UP000002311: Chromosome XIV
+YNL070W	P53507	TOM7_YEAST	reviewed	Mitochondrial import receptor subunit TOM7 (Translocase of outer membrane 7 kDa subunit)	TOM7 MOM7 YNL070W N2378	60	UP000002311: Chromosome XIV
+YNL082W	P14242	PMS1_YEAST	reviewed	DNA mismatch repair protein PMS1 (Postmeiotic segregation protein 1)	PMS1 YNL082W N2317	873	UP000002311: Chromosome XIV
+YNL084C	P39013	END3_YEAST	reviewed	Actin cytoskeleton-regulatory complex protein END3 (Endocytosis protein 3)	END3 YNL084C N2307	349	UP000002311: Chromosome XIV
+YNL086W	P48232	SNAPN_YEAST	reviewed	Biogenesis of lysosome-related organelles complex 1 subunit SNN1 (BLOC-1 subunit SNN1) (SNAPIN-like protein 1)	SNN1 YNL086W N2254	102	UP000002311: Chromosome XIV
+YNL088W	P06786	TOP2_YEAST	reviewed	DNA topoisomerase 2 (EC 5.6.2.2) (DNA topoisomerase II)	TOP2 TOR3 YNL088W N2244	1428	UP000002311: Chromosome XIV
+YNL090W	P06781	RHO2_YEAST	reviewed	GTP-binding protein RHO2	RHO2 YNL090W N2237	192	UP000002311: Chromosome XIV
+YNL094W	P53933	APP1_YEAST	reviewed	Phosphatidate phosphatase APP1 (PAP) (EC 3.1.3.4) (Actin patch protein 1)	APP1 YNL094W N2219	587	UP000002311: Chromosome XIV
+YNL098C	P01120	RAS2_YEAST	reviewed	Ras-like protein 2	RAS2 ASC1 CTN5 GLC5 YNL098C N2198	322	UP000002311: Chromosome XIV
+YNL102W	P13382	DPOA_YEAST	reviewed	DNA polymerase alpha catalytic subunit A (EC 2.7.7.7) (DNA polymerase I subunit A) (DNA polymerase alpha:primase complex p180 subunit) (DNA polymerase-primase complex p180 subunit) (Pol alpha-primase complex p180 subunit)	POL1 CDC17 YNL102W N2181	1468	UP000002311: Chromosome XIV
+YNL103W	P32389	MET4_YEAST	reviewed	Transcriptional activator of sulfur metabolism MET4 (Methionine-requiring protein 4)	MET4 YNL103W N2177	672	UP000002311: Chromosome XIV
+YNL106C	P50942	INP52_YEAST	reviewed	Polyphosphatidylinositol phosphatase INP52 (Synaptojanin-like protein 2) [Includes: SAC1-like phosphoinositide phosphatase (EC 3.1.3.-); Phosphatidylinositol 4,5-bisphosphate 5-phosphatase (EC 3.1.3.36)]	INP52 SJL2 YNL106C N2160	1183	UP000002311: Chromosome XIV
+YNL107W	P53930	AF9_YEAST	reviewed	Protein AF-9 homolog	YAF9 YNL107W N1966	226	UP000002311: Chromosome XIV
+YNL112W	P24783	DBP2_YEAST	reviewed	ATP-dependent RNA helicase DBP2 (EC 3.6.4.13) (DEAD box protein 2) (p68-like protein)	DBP2 YNL112W N1945	546	UP000002311: Chromosome XIV
+YNL113W	P28000	RPAC2_YEAST	reviewed	DNA-directed RNA polymerases I and III subunit RPAC2 (RNA polymerases I and III subunit AC2) (AC19) (DNA-directed RNA polymerases I and III 16 kDa polypeptide) (RPA19)	RPC19 YNL113W N1937	142	UP000002311: Chromosome XIV
+YNL118C	P53550	DCP2_YEAST	reviewed	m7GpppN-mRNA hydrolase (EC 3.6.1.62) (Protein PSU1) (mRNA-decapping enzyme subunit 2)	DCP2 PSU1 YNL118C N1917	970	UP000002311: Chromosome XIV
+YNL124W	P53919	NAF1_YEAST	reviewed	H/ACA ribonucleoprotein complex non-core subunit NAF1 (Nuclear assembly factor 1)	NAF1 YNL124W N1888	492	UP000002311: Chromosome XIV
+YNL126W	P53540	SPC98_YEAST	reviewed	Spindle pole body component SPC98	SPC98 YNL126W N1222 N1879	846	UP000002311: Chromosome XIV
+YNL131W	P49334	TOM22_YEAST	reviewed	Mitochondrial import receptor subunit TOM22 (Mitochondrial 17 kDa assembly protein) (Mitochondrial 22 kDa outer membrane protein) (Protein MAS17) (Translocase of outer membrane 22 kDa subunit)	TOM22 MAS17 MAS22 MOM22 YNL131W N1217 N1862	152	UP000002311: Chromosome XIV
+YNL138W	P17555	CAP_YEAST	reviewed	Adenylyl cyclase-associated protein (CAP)	SRV2 CAP1 YNL138W N1210 N1838	526	UP000002311: Chromosome XIV
+YNL147W	P53905	LSM7_YEAST	reviewed	U6 snRNA-associated Sm-like protein LSm7	LSM7 YNL147W N1202 N1780	115	UP000002311: Chromosome XIV
+YNL151C	P17890	RPC7_YEAST	reviewed	DNA-directed RNA polymerase III subunit RPC7 (RNA polymerase III subunit C7) (DNA-directed RNA polymerase III 31 kDa polypeptide) (C31)	RPC31 ACP2 RPC8 YNL151C N1769	251	UP000002311: Chromosome XIV
+YNL152W	P53901	INN1_YEAST	reviewed	Ingression protein 1	INN1 YNL152W N1765	409	UP000002311: Chromosome XIV
+YNL154C	P23292	KC12_YEAST	reviewed	Casein kinase I homolog 2 (EC 2.7.11.1)	YCK2 CKI1 YNL154C N1755	546	UP000002311: Chromosome XIV
+YNL161W	P53894	CBK1_YEAST	reviewed	Serine/threonine-protein kinase CBK1 (EC 2.7.11.1) (Cell wall biosynthesis kinase)	CBK1 YNL161W N1727	756	UP000002311: Chromosome XIV
+YNL162W	P0CX27	RL44A_YEAST	reviewed	60S ribosomal protein L42-A (L41) (Large ribosomal subunit protein eL42-A) (YL27) (YP44)	RPL42A RPL41A SCL41A YNL162W N1722	106	UP000002311: Chromosome XIV
+YNL167C	Q02100	SKO1_YEAST	reviewed	CRE-binding bZIP protein SKO1	SKO1 ACR1 YNL167C N1702	647	UP000002311: Chromosome XIV
+YNL178W	P05750	RS3_YEAST	reviewed	40S ribosomal protein S3 (RP13) (Small ribosomal subunit protein uS3) (YS3)	RPS3 SUF14 YNL178W N1653	240	UP000002311: Chromosome XIV
+YNL189W	Q02821	IMA1_YEAST	reviewed	Importin subunit alpha (Karyopherin subunit alpha) (Karyopherin-60) (Serine-rich RNA polymerase I suppressor protein)	SRP1 KAP60 YNL189W N1606	542	UP000002311: Chromosome XIV
+YNL199C	Q01722	GCR2_YEAST	reviewed	Glycolytic genes transcriptional activator GCR2	GCR2 YNL199C N1374	534	UP000002311: Chromosome XIV
+YNL214W	P40155	PEX17_YEAST	reviewed	Peroxisomal membrane protein PEX17 (Peroxin-17)	PEX17 PAS9 YNL214W N1319	199	UP000002311: Chromosome XIV
+YNL216W	P11938	RAP1_YEAST	reviewed	DNA-binding protein RAP1 (Repressor/activator site-binding protein) (SBF-E) (TUF)	RAP1 GRF1 TUF1 YNL216W N1310	827	UP000002311: Chromosome XIV
+YNL223W	P53867	ATG4_YEAST	reviewed	Cysteine protease ATG4 (EC 3.4.22.-) (Autophagy-related protein 4)	ATG4 APG4 AUT2 YNL223W N1274	494	UP000002311: Chromosome XIV
+YNL232W	P53859	CSL4_YEAST	reviewed	Exosome complex component CSL4 (CEP1 synthetic lethal protein 4)	CSL4 SKI4 YNL232W N1154	292	UP000002311: Chromosome XIV
+YNL250W	P12753	RAD50_YEAST	reviewed	DNA repair protein RAD50 (EC 3.6.-.-) (153 kDa protein)	RAD50 YNL250W N0872	1312	UP000002311: Chromosome XIV
+YNL257C	P38717	SIP3_YEAST	reviewed	Membrane-anchored lipid-binding protein SIP3 (Lipid transfer protein anchored at membrane contact sites 3) (SNF1-interacting protein 3)	SIP3 LAM3 YNL257C N0844	1229	UP000002311: Chromosome XIV
+YNL258C	P53847	DSL1_YEAST	reviewed	Protein transport protein DSL1 (Dependent on SLY1-20 protein 1)	DSL1 YNL258C N0842	754	UP000002311: Chromosome XIV
+YNL259C	P38636	ATX1_YEAST	reviewed	Metal homeostasis factor ATX1	ATX1 YNL259C N0840	73	UP000002311: Chromosome XIV
+YNL262W	P21951	DPOE_YEAST	reviewed	DNA polymerase epsilon catalytic subunit A (EC 2.7.7.7) (3'-5' exodeoxyribonuclease) (EC 3.1.11.-) (DNA polymerase II subunit A)	POL2 DUN2 YNL262W N0825	2222	UP000002311: Chromosome XIV
+YNL263C	P53845	YIF1_YEAST	reviewed	Protein transport protein YIF1 (YIP1-interacting factor 1)	YIF1 YNL263C N0820	314	UP000002311: Chromosome XIV
+YNL271C	P41832	BNI1_YEAST	reviewed	Protein BNI1 (Pointed projection formation protein 3) (Sensitive to high expression protein 5) (Synthetic lethal 39)	BNI1 PPF3 SHE5 YNL271C N0646	1953	UP000002311: Chromosome XIV
+YNL272C	P17065	SEC2_YEAST	reviewed	Rab guanine nucleotide exchange factor SEC2 (GDP-GTP exchange factor SEC2)	SEC2 YNL272C N0641	759	UP000002311: Chromosome XIV
+YNL289W	P24867	PCL1_YEAST	reviewed	PHO85 cyclin-1 (Cyclin HCS26) (G1/S-specific cyclin PCL1)	PCL1 HCS26 YNL289W N0536	279	UP000002311: Chromosome XIV
+YNL290W	P38629	RFC3_YEAST	reviewed	Replication factor C subunit 3 (Replication factor C3) (Activator 1 40 kDa subunit)	RFC3 YNL290W N0533	340	UP000002311: Chromosome XIV
+YNL298W	P48562	CLA4_YEAST	reviewed	Serine/threonine-protein kinase CLA4 (EC 2.7.11.1)	CLA4 YNL298W N0450	842	UP000002311: Chromosome XIV
+YNL301C	P0CX50	RL18B_YEAST	reviewed	60S ribosomal protein L18-B (Large ribosomal subunit protein eL18-B) (RP28)	RPL18B RP28B YNL301C N0425	186	UP000002311: Chromosome XIV
+YNL309W	P42845	STB1_YEAST	reviewed	Protein STB1 (SIN3-binding protein 1)	STB1 YNL309W N0384	420	UP000002311: Chromosome XIV
+YNL312W	P26754	RFA2_YEAST	reviewed	Replication factor A protein 2 (RF-A protein 2) (DNA-binding protein BUF1) (Replication protein A 36 kDa subunit)	RFA2 BUF1 YNL312W N0368	273	UP000002311: Chromosome XIV
+YNL317W	P42841	PFS2_YEAST	reviewed	Polyadenylation factor subunit 2	PFS2 YNL317W N0348	465	UP000002311: Chromosome XIV
+YNL330C	P32561	RPD3_YEAST	reviewed	Histone deacetylase RPD3 (EC 3.5.1.98) (Transcriptional regulatory protein RPD3)	RPD3 MOF6 REC3 SDI2 SDS6 YNL330C N0305	433	UP000002311: Chromosome XIV
+YNL333W	P53824	SNZ2_YEAST	reviewed	Probable pyridoxal 5'-phosphate synthase subunit SNZ2 (PLP synthase subunit SNZ2) (EC 4.3.3.6) (PDX1 homolog 2) (Pdx1.2)	SNZ2 YNL333W N0290	298	UP000002311: Chromosome XIV
+YNR003C	P32910	RPC6_YEAST	reviewed	DNA-directed RNA polymerase III subunit RPC6 (RNA polymerase III subunit C6) (C34) (DNA-directed RNA polymerase III 36 kDa polypeptide)	RPC34 YNR003C N2031	317	UP000002311: Chromosome XIV
+YNR006W	P40343	VPS27_YEAST	reviewed	Vacuolar protein sorting-associated protein 27 (Golgi retention defective protein 11)	VPS27 DID7 GRD11 SSV17 VPL23 VPT27 YNR006W N2038	622	UP000002311: Chromosome XIV
+YNR007C	P40344	ATG3_YEAST	reviewed	Autophagy-related protein 3 (Autophagy-related E2-like conjugation enzyme ATG3)	ATG3 APG3 AUT1 YNR007C N2040	310	UP000002311: Chromosome XIV
+YNR017W	P32897	TIM23_YEAST	reviewed	Mitochondrial import inner membrane translocase subunit TIM23 (Membrane import machinery protein MIM23) (Mitochondrial protein import protein 3) (Mitochondrial protein import protein MAS6)	TIM23 MAS6 MIM23 MPI3 YNR017W N3180	222	UP000002311: Chromosome XIV
+YNR031C	P53599	SSK2_YEAST	reviewed	MAP kinase kinase kinase SSK2 (EC 2.7.11.25) (Suppressor of sensor kinase 2)	SSK2 YNR031C N3276	1579	UP000002311: Chromosome XIV
+YNR035C	P53731	ARPC2_YEAST	reviewed	Actin-related protein 2/3 complex subunit 2 (Arp2/3 complex 34 kDa subunit) (p34-ARC)	ARC35 YNR035C N3296	342	UP000002311: Chromosome XIV
+YNR044W	P32323	AGA1_YEAST	reviewed	A-agglutinin anchorage subunit (A-agglutinin cell wall attachment subunit)	AGA1 YNR044W N3431	725	UP000002311: Chromosome XIV
+YNR050C	P38999	LYS9_YEAST	reviewed	Saccharopine dehydrogenase [NADP(+), L-glutamate-forming] (EC 1.5.1.10) (Saccharopine reductase)	LYS9 LYS13 YNR050C N3461	446	UP000002311: Chromosome XIV
+YNR053C	P53742	NOG2_YEAST	reviewed	Nucleolar GTP-binding protein 2	NOG2 YNR053C N3484	486	UP000002311: Chromosome XIV
+YOL001W	P20052	PHO80_YEAST	reviewed	PHO85 cyclin PHO80 (Aminoglycoside antibiotic sensitivity protein 3) (Phosphate system cyclin PHO80)	PHO80 AGS3 TUP7 VAC5 YOL001W O2505 UNB293	293	UP000002311: Chromosome XV
+YOL004W	P22579	SIN3_YEAST	reviewed	Transcriptional regulatory protein SIN3	SIN3 CPE1 GAM2 RPD1 SDI1 SDS16 UME4 YOL004W	1536	UP000002311: Chromosome XV
+YOL005C	P38902	RPB11_YEAST	reviewed	DNA-directed RNA polymerase II subunit RPB11 (RNA polymerase II subunit B11) (B13.6) (DNA-directed RNA polymerase II 13.6 kDa polypeptide)	RPB11 YOL005C	120	UP000002311: Chromosome XV
+YOL013C	Q08109	HRD1_YEAST	reviewed	ERAD-associated E3 ubiquitin-protein ligase HRD1 (EC 2.3.2.27) (HMG-CoA reductase degradation protein 1) (RING-type E3 ubiquitin transferase HRD1)	HRD1 DER3 YOL013C	551	UP000002311: Chromosome XV
+YOL016C	P22517	KCC2_YEAST	reviewed	Calcium/calmodulin-dependent protein kinase II (EC 2.7.11.17)	CMK2 YOL016C	447	UP000002311: Chromosome XV
+YOL018C	Q08144	TLG2_YEAST	reviewed	t-SNARE affecting a late Golgi compartment protein 2 (Syntaxin TLG2)	TLG2 YOL018C	397	UP000002311: Chromosome XV
+YOL021C	Q08162	RRP44_YEAST	reviewed	Exosome complex exonuclease DIS3 (EC 3.1.13.-) (EC 3.1.26.-) (Chromosome disjunction protein 3) (Ribosomal RNA-processing protein 44)	DIS3 RRP44 YOL021C O2197	1001	UP000002311: Chromosome XV
+YOL034W	Q08204	SMC5_YEAST	reviewed	Structural maintenance of chromosomes protein 5	SMC5 YOL034W	1093	UP000002311: Chromosome XV
+YOL038W	P40303	PSA4_YEAST	reviewed	Proteasome subunit alpha type-4 (EC 3.4.25.1) (Macropain subunit PRE6) (Multicatalytic endopeptidase complex subunit PRE6) (Proteasome component PRE6) (Proteinase YSCE subunit PRE6)	PRE6 YOL038W	254	UP000002311: Chromosome XV
+YOL040C	Q01855	RS15_YEAST	reviewed	40S ribosomal protein S15 (RIG protein) (RP52) (S21) (Small ribosomal subunit protein uS19) (YS21)	RPS15 RPS21 YOL040C	142	UP000002311: Chromosome XV
+YOL062C	Q99186	AP2M_YEAST	reviewed	AP-2 complex subunit mu (Adaptin medium chain APM4) (Clathrin assembly protein complex 2 mu medium chain) (Clathrin coat assembly protein AP50) (Clathrin coat-associated protein AP50) (Mu2-adaptin) (Plasma membrane adaptor AP-2 50 kDa protein)	APM4 AMP1 YOL062C O1210	491	UP000002311: Chromosome XV
+YOL067C	P32607	RTG1_YEAST	reviewed	Retrograde regulation protein 1	RTG1 YOL067C	177	UP000002311: Chromosome XV
+YOL068C	P53685	HST1_YEAST	reviewed	NAD-dependent protein deacetylase HST1 (EC 2.3.1.286) (Homologous to SIR2 protein 1) (Regulatory protein SIR2 homolog 1)	HST1 YOL068C	503	UP000002311: Chromosome XV
+YOL069W	P33895	NUF2_YEAST	reviewed	Kinetochore protein NUF2	NUF2 YOL069W	451	UP000002311: Chromosome XV
+YOL090W	P25847	MSH2_YEAST	reviewed	DNA mismatch repair protein MSH2 (MutS protein homolog 2)	MSH2 YOL090W O0935	964	UP000002311: Chromosome XV
+YOL094C	P40339	RFC4_YEAST	reviewed	Replication factor C subunit 4 (Replication factor C4) (Activator 1 37 kDa subunit)	RFC4 YOL094C O0923	323	UP000002311: Chromosome XV
+YOL108C	P13902	INO4_YEAST	reviewed	Protein INO4	INO4 YOL108C HRF151	151	UP000002311: Chromosome XV
+YOL120C	P0CX49	RL18A_YEAST	reviewed	60S ribosomal protein L18-A (Large ribosomal subunit protein eL18-A) (RP28)	RPL18A RP28A YOL120C	186	UP000002311: Chromosome XV
+YOL133W	Q08273	RBX1_YEAST	reviewed	RING-box protein HRT1 (RING-box protein 1) (E3 ubiquitin-protein ligase complex SCF subunit HRT1) (High level expression reduces Ty3 transposition protein 1) (Regulator of cullins protein 1)	HRT1 RBX1 ROC1 YOL133W	121	UP000002311: Chromosome XV
+YOL135C	Q08278	MED7_YEAST	reviewed	Mediator of RNA polymerase II transcription subunit 7 (Mediator complex subunit 7)	MED7 YOL135C	222	UP000002311: Chromosome XV
+YOL139C	P07260	IF4E_YEAST	reviewed	Eukaryotic translation initiation factor 4E (eIF-4E) (eIF4E) (eIF-4F 25 kDa subunit) (mRNA cap-binding protein)	CDC33 TIF45 YOL139C	213	UP000002311: Chromosome XV
+YOL145C	P89105	CTR9_YEAST	reviewed	RNA polymerase-associated protein CTR9 (Centromere-binding factor 1-dependent protein 1) (Cln three-requiring protein 9)	CTR9 CDP1 YOL145C	1077	UP000002311: Chromosome XV
+YOL149W	Q12517	DCP1_YEAST	reviewed	mRNA-decapping enzyme subunit 1	DCP1 YOL149W	231	UP000002311: Chromosome XV
+YOR005C	Q08387	DNLI4_YEAST	reviewed	DNA ligase 4 (EC 6.5.1.1) (DNA ligase II) (DNA ligase IV) (Polydeoxyribonucleotide synthase [ATP] 4)	DNL4 LIG4 YOR005C UND407 UNE452	944	UP000002311: Chromosome XV
+YOR020C	P38910	CH10_YEAST	reviewed	10 kDa heat shock protein, mitochondrial (HSP10) (10 kDa chaperonin)	HSP10 CPN10 YOR020C OR26.10	106	UP000002311: Chromosome XV
+YOR026W	P26449	BUB3_YEAST	reviewed	Cell cycle arrest protein BUB3	BUB3 YOR026W OR26.16	341	UP000002311: Chromosome XV
+YOR027W	P15705	STI1_YEAST	reviewed	Heat shock protein STI1	STI1 YOR027W OR26.17	589	UP000002311: Chromosome XV
+YOR033C	P39875	EXO1_YEAST	reviewed	Exodeoxyribonuclease 1 (EC 3.1.-.-) (Exodeoxyribonuclease I) (EXO I) (Exonuclease I) (Protein DHS1)	EXO1 DHS1 YOR033C OR26.23	702	UP000002311: Chromosome XV
+YOR036W	P32854	PEP12_YEAST	reviewed	Syntaxin PEP12 (Carboxypeptidase Y-deficient protein 12) (Vacuolar protein sorting-associated protein 6) (Vacuolar protein-targeting protein 13)	PEP12 VPS6 VPT13 YOR036W OR26.29	288	UP000002311: Chromosome XV
+YOR039W	P38930	CSK2C_YEAST	reviewed	Casein kinase II subunit beta' (CK II beta')	CKB2 YOR039W OR26.32	258	UP000002311: Chromosome XV
+YOR042W	Q08412	CUE5_YEAST	reviewed	Ubiquitin-binding protein CUE5 (Coupling of ubiquitin conjugation to ER degradation protein 5)	CUE5 YOR042W	411	UP000002311: Chromosome XV
+YOR046C	P20449	DBP5_YEAST	reviewed	ATP-dependent RNA helicase DBP5 (EC 3.6.4.13) (DEAD box protein 5) (Helicase CA5/6) (Ribonucleic acid-trafficking protein 8)	DBP5 RAT8 YOR046C	482	UP000002311: Chromosome XV
+YOR057W	Q08446	SGT1_YEAST	reviewed	Protein SGT1 (Suppressor of G2 allele of SKP1)	SGT1 YOR057W YOR29-08	395	UP000002311: Chromosome XV
+YOR061W	P19454	CSK22_YEAST	reviewed	Casein kinase II subunit alpha' (CK II) (EC 2.7.11.1)	CKA2 YOR061W YOR29-12	339	UP000002311: Chromosome XV
+YOR063W	P14126	RL3_YEAST	reviewed	60S ribosomal protein L3 (Large ribosomal subunit protein uL3) (Maintenance of killer protein 8) (RP1) (Trichodermin resistance protein) (YL1)	RPL3 MAK8 TCM1 YOR063W YOR29-14	387	UP000002311: Chromosome XV
+YOR065W	P07143	CY1_YEAST	reviewed	Cytochrome c1, heme protein, mitochondrial (EC 7.1.1.8) (Complex III subunit 4) (Complex III subunit IV) (Cytochrome b-c1 complex subunit 4) (Ubiquinol-cytochrome c oxidoreductase cytochrome c1 subunit) (Cytochrome c-1)	CYT1 CTC1 YOR065W YOR29-16	309	UP000002311: Chromosome XV
+YOR069W	Q92331	VPS5_YEAST	reviewed	Vacuolar protein sorting-associated protein 5 (Carboxypeptidase Y-deficient protein 10) (Vacuolar protein-targeting protein 5)	VPS5 GRD2 PEP10 VPT5 YOR069W YOR29-20	675	UP000002311: Chromosome XV
+YOR076C	Q08491	SKI7_YEAST	reviewed	Superkiller protein 7	SKI7 YOR076C YOR29-27	747	UP000002311: Chromosome XV
+YOR098C	P20676	NUP1_YEAST	reviewed	Nucleoporin NUP1 (Nuclear pore protein NUP1)	NUP1 YOR098C YOR3182C	1076	UP000002311: Chromosome XV
+YOR106W	Q12241	VAM3_YEAST	reviewed	Syntaxin VAM3 (Vacuolar morphogenesis protein 3)	VAM3 PTH1 YOR106W YOR3220W	283	UP000002311: Chromosome XV
+YOR115C	Q99394	TRS33_YEAST	reviewed	Trafficking protein particle complex subunit 33 (TRAPP subunit 33) (Transport protein particle 33 kDa subunit)	TRS33 YOR115C O3251 YOR3251C	268	UP000002311: Chromosome XV
+YOR116C	P04051	RPC1_YEAST	reviewed	DNA-directed RNA polymerase III subunit RPC1 (RNA polymerase III subunit C1) (EC 2.7.7.6) (DNA-directed RNA polymerase III largest subunit) (RNA polymerase III subunit C160)	RPO31 RPC1 RPC160 YOR116C O3254 YOR3254C	1460	UP000002311: Chromosome XV
+YOR122C	P07274	PROF_YEAST	reviewed	Profilin	PFY1 PFY PRF1 YOR122C O3275 YOR3275C	126	UP000002311: Chromosome XV
+YOR127W	P39083	RGA1_YEAST	reviewed	Rho-type GTPase-activating protein 1	RGA1 DBM1 THE1 YOR127W O3290 YOR3290W	1007	UP000002311: Chromosome XV
+YOR132W	P32913	VPS17_YEAST	reviewed	Vacuolar protein sorting-associated protein 17 (Carboxypeptidase Y-deficient protein 21)	VPS17 PEP21 YOR132W O3314 YOR3314W	551	UP000002311: Chromosome XV
+YDR385W,YOR133W	P32324	EF2_YEAST	reviewed	Elongation factor 2 (EF-2) (Eukaryotic elongation factor 2) (eEF2) (Ribosomal translocase) (Translation elongation factor 2)	EFT1 YOR133W O3317 YOR3317W; EFT2 YDR385W	842	UP000002311: Chromosome IV, UP000002311: Chromosome XV
+YOR136W	P28241	IDH2_YEAST	reviewed	Isocitrate dehydrogenase [NAD] subunit 2, mitochondrial (EC 1.1.1.41) (Isocitric dehydrogenase) (NAD(+)-specific ICDH)	IDH2 YOR136W O3326 YOR3326W	369	UP000002311: Chromosome XV
+YOR142W	P53598	SUCA_YEAST	reviewed	Succinate--CoA ligase [ADP-forming] subunit alpha, mitochondrial (EC 6.2.1.5) (Succinyl-CoA synthetase subunit alpha) (SCS-alpha)	LSC1 YOR142W YOR3352W	329	UP000002311: Chromosome XV
+YOR144C	Q12050	ELG1_YEAST	reviewed	Telomere length regulation protein ELG1 (Regulator of Ty1 transposition protein 110) (Telomere elongation suppressor ELG1)	ELG1 RTT110 YOR144C O3510 YOR3510C	791	UP000002311: Chromosome XV
+YOR151C	P08518	RPB2_YEAST	reviewed	DNA-directed RNA polymerase II subunit RPB2 (RNA polymerase II subunit 2) (EC 2.7.7.6) (B150) (DNA-directed RNA polymerase II 140 kDa polypeptide)	RPB2 RPB150 RPO22 YOR151C	1224	UP000002311: Chromosome XV
+YOR157C	P25043	PSB2_YEAST	reviewed	Proteasome subunit beta type-2 (EC 3.4.25.1) (Macropain subunit PUP1) (Multicatalytic endopeptidase complex subunit PUP1) (Proteasome component PUP1) (Proteinase YSCE subunit PUP1)	PUP1 YOR157C	261	UP000002311: Chromosome XV
+YOR160W	Q99189	MTR10_YEAST	reviewed	mRNA transport regulator MTR10	MTR10 YOR160W	972	UP000002311: Chromosome XV
+YOR174W	Q12343	MED4_YEAST	reviewed	Mediator of RNA polymerase II transcription subunit 4 (Mediator complex subunit 4)	MED4 YOR174W O3630	284	UP000002311: Chromosome XV
+YOR181W	Q12446	LAS17_YEAST	reviewed	Proline-rich protein LAS17	LAS17 YOR181W	633	UP000002311: Chromosome XV
+YOR194C	P32773	TOA1_YEAST	reviewed	Transcription initiation factor IIA large subunit (TFIIA large subunit) (TFIIA 32 kDa subunit)	TOA1 YOR194C	286	UP000002311: Chromosome XV
+YOR210W	P22139	RPAB5_YEAST	reviewed	DNA-directed RNA polymerases I, II, and III subunit RPABC5 (RNA polymerases I, II, and III subunit ABC5) (ABC10-beta) (ABC8) (DNA-directed RNA polymerases I, II, and III 8.3 kDa polypeptide)	RPB10 YOR210W	70	UP000002311: Chromosome XV
+YOR212W	P18851	GBB_YEAST	reviewed	Guanine nucleotide-binding protein subunit beta	STE4 YOR212W YOR50-2	423	UP000002311: Chromosome XV
+YOR213C	Q99314	SAS5_YEAST	reviewed	Something about silencing protein 5	SAS5 YOR213C	248	UP000002311: Chromosome XV
+YOR217W	P38630	RFC1_YEAST	reviewed	Replication factor C subunit 1 (Replication factor C1) (Activator 1 95 kDa subunit) (Cell division control protein 44)	RFC1 CDC44 YOR217W YOR50-7	861	UP000002311: Chromosome XV
+YOR224C	P20436	RPAB3_YEAST	reviewed	DNA-directed RNA polymerases I, II, and III subunit RPABC3 (RNA polymerases I, II, and III subunit ABC3) (ABC14.4) (ABC14.5) (DNA-directed RNA polymerases I, II, and III 14.5 kDa polypeptide)	RPB8 YOR224C YOR50-14	146	UP000002311: Chromosome XV
+YOR231W	P32490	MKK1_YEAST	reviewed	MAP kinase kinase MKK1/SSP32 (EC 2.7.12.2)	MKK1 SSP32 YOR231W O5095	508	UP000002311: Chromosome XV
+YOR232W	P38523	GRPE_YEAST	reviewed	GrpE protein homolog, mitochondrial	MGE1 GRPE GRPE1 YGE1 YOR232W O5099	228	UP000002311: Chromosome XV
+YOR244W	Q08649	ESA1_YEAST	reviewed	Histone acetyltransferase ESA1 (EC 2.3.1.48)	ESA1 YOR244W O5257	445	UP000002311: Chromosome XV
+YOR254C	P14906	SEC63_YEAST	reviewed	Protein translocation protein SEC63 (Protein NPL1) (Sec62/63 complex 73 kDa subunit)	SEC63 NPL1 PTL1 YOR254C	663	UP000002311: Chromosome XV
+YOR265W	P48606	TBCA_YEAST	reviewed	Tubulin-specific chaperone A (Tubulin-folding cofactor A) (CFA)	RBL2 YOR265W	106	UP000002311: Chromosome XV
+YOR270C	P32563	VPH1_YEAST	reviewed	V-type proton ATPase subunit a, vacuolar isoform (V-ATPase a 1 subunit) (V-ATPase 95 kDa subunit) (Vacuolar pH protein 1) (Vacuolar proton pump a subunit) (Vacuolar proton translocating ATPase subunit a 1)	VPH1 YOR270C	840	UP000002311: Chromosome XV
+YOR276W	P12962	CAF20_YEAST	reviewed	Cap-associated protein CAF20 (20 kDa cap-associated protein) (CCR4-associated factor 2) (p20)	CAF20 CAF2 CAP20 YOR276W O5453W	161	UP000002311: Chromosome XV
+YOR279C	Q12192	RFM1_YEAST	reviewed	Repression factor of MSEs protein 1	RFM1 YOR279C	310	UP000002311: Chromosome XV
+YOR284W	Q12134	HUA2_YEAST	reviewed	Protein HUA2	HUA2 YOR284W	243	UP000002311: Chromosome XV
+YOR290C	P22082	SNF2_YEAST	reviewed	Transcription regulatory protein SNF2 (EC 3.6.4.-) (ATP-dependent helicase SNF2) (Regulatory protein GAM1) (Regulatory protein SWI2) (SWI/SNF complex component SNF2) (Transcription factor TYE3)	SNF2 GAM1 RIC1 SWI2 TYE3 YOR290C	1703	UP000002311: Chromosome XV
+YOR297C	Q08749	TIM18_YEAST	reviewed	Mitochondrial import inner membrane translocase subunit TIM18	TIM18 YOR297C	192	UP000002311: Chromosome XV
+YOR303W	P07258	CARA_YEAST	reviewed	Carbamoyl-phosphate synthase arginine-specific small chain (CPS-A) (EC 6.3.5.5) (Arginine-specific carbamoyl-phosphate synthetase, glutamine chain)	CPA1 YOR303W	411	UP000002311: Chromosome XV
+YOR304W	Q08773	ISW2_YEAST	reviewed	ISWI chromatin-remodeling complex ATPase ISW2 (EC 3.6.4.-) (Imitation switch protein 2)	ISW2 YOR304W	1120	UP000002311: Chromosome XV
+YOR308C	Q12420	SNU66_YEAST	reviewed	66 kDa U4/U6.U5 small nuclear ribonucleoprotein component	SNU66 YOR308C 05667	587	UP000002311: Chromosome XV
+YOR310C	Q12499	NOP58_YEAST	reviewed	Nucleolar protein 58 (Nucleolar protein 5)	NOP58 NOP5 YOR310C O6108	511	UP000002311: Chromosome XV
+YOR319W	Q99181	HSH49_YEAST	reviewed	Protein HSH49	HSH49 YOR319W O6142	213	UP000002311: Chromosome XV
+YOR324C	Q99332	HPH1_YEAST	reviewed	Protein HPH1 (Functionally related to TCP1 protein 1) (High pH protein 1)	FRT1 HPH1 YOR324C O6159	602	UP000002311: Chromosome XV
+YOR326W	P19524	MYO2_YEAST	reviewed	Myosin-2 (Cell division control protein 66) (Class V unconventional myosin MYO2) (Type V myosin heavy chain MYO2) (Myosin V MYO2)	MYO2 CDC66 YOR326W O6167	1574	UP000002311: Chromosome XV
+YOR327C	P33328	SNC2_YEAST	reviewed	Synaptobrevin homolog 2	SNC2 YOR327C	115	UP000002311: Chromosome XV
+YOR329C	P34758	SCD5_YEAST	reviewed	Protein SCD5 (Protein FTB1)	SCD5 FTB1 YOR329C	872	UP000002311: Chromosome XV
+YOR341W	P10964	RPA1_YEAST	reviewed	DNA-directed RNA polymerase I subunit RPA190 (EC 2.7.7.6) (DNA-directed RNA polymerase I 190 kDa polypeptide) (A190) (DNA-directed RNA polymerase I largest subunit)	RPA190 RPA1 RRN1 YOR341W O6276	1664	UP000002311: Chromosome XV
+YOR347C	P52489	KPYK2_YEAST	reviewed	Pyruvate kinase 2 (PK 2) (EC 2.7.1.40)	PYK2 YOR347C O6342	506	UP000002311: Chromosome XV
+YOR358W	Q02516	HAP5_YEAST	reviewed	Transcriptional activator HAP5	HAP5 YOR358W	242	UP000002311: Chromosome XV
+YOR362C	P21242	PSA7_YEAST	reviewed	Probable proteasome subunit alpha type-7 (EC 3.4.25.1) (Macropain subunit C1) (Multicatalytic endopeptidase complex subunit C1) (Proteasome component C1) (Proteinase YSCE subunit 1)	PRE10 PRC1 PRS1 YOR362C O6650	288	UP000002311: Chromosome XV
+YOR363C	P52960	PIP2_YEAST	reviewed	Peroxisome proliferation transcriptional regulator (Oleate-activated transcription factor 2)	PIP2 OAF2 YOR363C	996	UP000002311: Chromosome XV
+YOR368W	P48581	RAD17_YEAST	reviewed	DNA damage checkpoint control protein RAD17 (DNA repair exonuclease RAD17)	RAD17 YOR368W	401	UP000002311: Chromosome XV
+YOR370C	P32864	RAEP_YEAST	reviewed	Rab proteins geranylgeranyltransferase component A (Rab escort protein) (REP)	MRS6 MSI4 YOR370C	603	UP000002311: Chromosome XV
+YOR371C	Q08886	GPB1_YEAST	reviewed	Guanine nucleotide-binding protein subunit beta 1 (Gbeta mimic kelch protein 1)	GPB1 KRH2 YOR371C	897	UP000002311: Chromosome XV
+YOR389W	Q08912	YO389_YEAST	reviewed	Uncharacterized protein YOR389W	YOR389W	624	UP000002311: Chromosome XV
+YPL001W	Q12341	HAT1_YEAST	reviewed	Histone acetyltransferase type B catalytic subunit (EC 2.3.1.48)	HAT1 YPL001W LPA16W YP8132.12	374	UP000002311: Chromosome XVI
+YPL002C	Q12483	SNF8_YEAST	reviewed	Vacuolar-sorting protein SNF8 (ESCRT-II complex subunit VPS22) (Vacuolar protein-sorting-associated protein 22)	SNF8 VPS22 YPL002C	233	UP000002311: Chromosome XVI
+YPL020C	Q02724	ULP1_YEAST	reviewed	Ubiquitin-like-specific protease 1 (EC 3.4.22.68)	ULP1 YPL020C LPB11C	621	UP000002311: Chromosome XVI
+YPL022W	P06777	RAD1_YEAST	reviewed	DNA repair protein RAD1	RAD1 YPL022W	1100	UP000002311: Chromosome XVI
+YPL031C	P17157	PHO85_YEAST	reviewed	Cyclin-dependent protein kinase PHO85 (EC 2.7.11.22) (Negative regulator of the PHO system) (Serine/threonine-protein kinase PHO85)	PHO85 SSG3 YPL031C P7102.18A	305	UP000002311: Chromosome XVI
+YPL036W	P19657	PMA2_YEAST	reviewed	Plasma membrane ATPase 2 (EC 7.1.2.1) (Proton pump 2)	PMA2 YPL036W	947	UP000002311: Chromosome XVI
+YPL037C	Q02642	NACB1_YEAST	reviewed	Nascent polypeptide-associated complex subunit beta-1 (NAC-beta-1) (BTF3 homolog EGD1) (Beta-1-NAC) (GAL4 DNA-binding enhancer protein 1)	EGD1 YPL037C	157	UP000002311: Chromosome XVI
+YPL038W	Q03081	MET31_YEAST	reviewed	Transcriptional regulator MET31 (Methionine-requiring protein 31)	MET31 YPL038W P7102.12	177	UP000002311: Chromosome XVI
+YPL042C	P39073	SSN3_YEAST	reviewed	Meiotic mRNA stability protein kinase SSN3 (EC 2.7.11.22) (EC 2.7.11.23) (Cyclin-dependent kinase 8) (Suppressor of RNA polymerase B SRB10)	SSN3 ARE1 CDK8 GIG2 SRB10 UME5 YPL042C	555	UP000002311: Chromosome XVI
+YPL045W	Q03308	VPS16_YEAST	reviewed	Vacuolar protein sorting-associated protein 16 (Vacuolar morphogenesis protein 9) (Vacuolar protein-targeting protein 16)	VPS16 VAM9 VPT16 YPL045W	798	UP000002311: Chromosome XVI
+YPL049C	Q03063	DIG1_YEAST	reviewed	Down-regulator of invasive growth 1 (Regulator of STE12 protein 1) (Regulator of sterile twelve 1)	DIG1 RST1 YPL049C P7102.02	452	UP000002311: Chromosome XVI
+YPL050C	P39107	MNN9_YEAST	reviewed	Mannan polymerase complexes subunit MNN9 (M-pol I subunit MNN9) (M-Pol II subunit MNN9)	MNN9 YPL050C P7102.01	395	UP000002311: Chromosome XVI
+YPL063W	Q02776	TIM50_YEAST	reviewed	Mitochondrial import inner membrane translocase subunit TIM50	TIM50 YPL063W	476	UP000002311: Chromosome XVI
+YPL075W	P07261	GCR1_YEAST	reviewed	Glycolytic genes transcriptional activator GCR1	GCR1 SIT3 YPL075W LPF10W	785	UP000002311: Chromosome XVI
+YPL078C	P05626	ATPF_YEAST	reviewed	ATP synthase subunit 4, mitochondrial	ATP4 YPL078C LPF7C	244	UP000002311: Chromosome XVI
+YPL079W	Q12672	RL21B_YEAST	reviewed	60S ribosomal protein L21-B (Large ribosomal subunit protein eL21-B)	RPL21B YPL079W LPF6W	160	UP000002311: Chromosome XVI
+YPL082C	P32333	MOT1_YEAST	reviewed	TATA-binding protein-associated factor MOT1 (TBP-associated factor MOT1) (EC 3.6.4.-) (Modifier of transcription 1)	MOT1 YPL082C LPF4C	1867	UP000002311: Chromosome XVI
+YPL089C	Q12224	RLM1_YEAST	reviewed	Transcription factor RLM1	RLM1 YPL089C LPG19C	676	UP000002311: Chromosome XVI
+YPL094C	P21825	SEC62_YEAST	reviewed	Translocation protein SEC62 (Sec62/63 complex 30 kDa subunit)	SEC62 YPL094C LPG14C	274	UP000002311: Chromosome XVI
+YPL105C	Q02875	SYH1_YEAST	reviewed	SMY2 homolog 2	SYH1 YPL105C	849	UP000002311: Chromosome XVI
+YPL106C	P32589	HSP7F_YEAST	reviewed	Heat shock protein homolog SSE1 (Chaperone protein MSI3)	SSE1 MSI3 YPL106C LPG3C	693	UP000002311: Chromosome XVI
+YPL115C	P32873	BEM3_YEAST	reviewed	GTPase-activating protein BEM3 (Bud emergence protein 3)	BEM3 YPL115C LPH12C	1128	UP000002311: Chromosome XVI
+YPL120W	Q02948	BECN1_YEAST	reviewed	Vacuolar protein sorting-associated protein 30 (Autophagy-related protein 6)	VPS30 APG6 ATG6 VPT30 YPL120W LPH7	557	UP000002311: Chromosome XVI
+YPL129W	P35189	TAF14_YEAST	reviewed	Transcription initiation factor TFIID subunit 14 (Actin non-complementing mutant 1) (Chromosome stability protein 10) (SWI/SNF chromatin-remodeling complex subunit TAF14) (SWI/SNF complex 29 kDa subunit) (SWI/SNF complex subunit TAF14) (TBP-associated factor 14) (TBP-associated factor 30 kDa) (Transcription factor G 30 kDa subunit) (Transcription initiation factor TFIIF 30 kDa subunit)	TAF14 ANC1 CST10 SWP29 TAF30 TFG3 YPL129W	244	UP000002311: Chromosome XVI
+YPL131W	P26321	RL5_YEAST	reviewed	60S ribosomal protein L5 (L1) (L1a) (Large ribosomal subunit protein uL18) (Ribosomal 5S RNA-binding protein) (YL3)	RPL5 RPL1 RPL1A YPL131W LPI14W	297	UP000002311: Chromosome XVI
+YPL140C	P32491	MKK2_YEAST	reviewed	MAP kinase kinase MKK2/SSP33 (EC 2.7.12.2)	MKK2 SSP33 YPL140C LPI6C	506	UP000002311: Chromosome XVI
+YPL149W	Q12380	ATG5_YEAST	reviewed	Autophagy protein 5	ATG5 APG5 YPL149W P2601	294	UP000002311: Chromosome XVI
+YPL151C	Q12417	PRP46_YEAST	reviewed	Pre-mRNA-splicing factor PRP46 (Complexed with CEF1 protein 1) (PRP nineteen-associated complex protein 50) (PRP19-associated complex protein 50) (Pre-mRNA-processing protein 46)	PRP46 CWC1 NTC50 YPL151C P2594	451	UP000002311: Chromosome XVI
+YPL153C	P22216	RAD53_YEAST	reviewed	Serine/threonine-protein kinase RAD53 (EC 2.7.12.1) (CHEK2 homolog) (Serine-protein kinase 1)	RAD53 MEC2 SAD1 SPK1 YPL153C P2588	821	UP000002311: Chromosome XVI
+YPL154C	P07267	CARP_YEAST	reviewed	Saccharopepsin (EC 3.4.23.25) (Aspartate protease) (PrA) (Proteinase A) (Carboxypeptidase Y-deficient protein 4) (Proteinase YSCA)	PEP4 PHO9 PRA1 YPL154C P2585	405	UP000002311: Chromosome XVI
+YPL161C	P39011	BEM4_YEAST	reviewed	Bud emergence protein 4	BEM4 YPL161C P2561	633	UP000002311: Chromosome XVI
+YPL164C	Q12083	MLH3_YEAST	reviewed	DNA mismatch repair protein MLH3 (MutL protein homolog 3)	MLH3 YPL164C P2550	715	UP000002311: Chromosome XVI
+YPL167C	P14284	DPOZ_YEAST	reviewed	DNA polymerase zeta catalytic subunit (EC 2.7.7.7) (Protein reversionless 3)	REV3 PSO1 YPL167C P2535	1504	UP000002311: Chromosome XVI
+YPL169C	Q99257	MEX67_YEAST	reviewed	mRNA export factor MEX67	MEX67 YPL169C P2520	599	UP000002311: Chromosome XVI
+YPL174C	P33420	NIP80_YEAST	reviewed	Protein NIP100 (Protein NIP80)	NIP100 NIP80 YPL174C	868	UP000002311: Chromosome XVI
+YPL178W	Q08920	NCBP2_YEAST	reviewed	Nuclear cap-binding protein subunit 2 (20 kDa nuclear cap-binding protein) (NCBP 20 kDa subunit) (CBP20)	CBC2 CBP20 MUD13 SAE1 YPL178W	208	UP000002311: Chromosome XVI
+YPL194W	Q08949	DDC1_YEAST	reviewed	DNA damage checkpoint protein 1	DDC1 YPL194W	612	UP000002311: Chromosome XVI
+YPL195W	Q08951	AP3D_YEAST	reviewed	AP-3 complex subunit delta (Adaptor-related protein complex 3 subunit delta) (Delta-adaptin 3) (Delta-adaptin)	APL5 YKS4 YPL195W	932	UP000002311: Chromosome XVI
+YPL203W	P06245	KAPB_YEAST	reviewed	cAMP-dependent protein kinase type 2 (PKA 2) (EC 2.7.11.11)	TPK2 PKA2 YKR1 YPL203W	380	UP000002311: Chromosome XVI
+YPL204W	P29295	HRR25_YEAST	reviewed	Casein kinase I homolog HRR25 (EC 2.7.11.1)	HRR25 YPL204W	494	UP000002311: Chromosome XVI
+YPL209C	P38991	IPL1_YEAST	reviewed	Spindle assembly checkpoint kinase (EC 2.7.11.1) (Aurora kinase) (Increase-in-ploidy protein 1)	IPL1 YPL209C	367	UP000002311: Chromosome XVI
+YPL220W	P0CX43	RL1A_YEAST	reviewed	60S ribosomal protein L1-A (L10a) (Large ribosomal subunit protein uL1-A)	RPL1A SSM1 SSM1A YPL220W	217	UP000002311: Chromosome XVI
+YPL228W	O13297	CET1_YEAST	reviewed	mRNA-capping enzyme subunit beta (EC 3.1.3.33) (Polynucleotide 5'-triphosphatase) (mRNA 5'-triphosphatase) (TPase)	CET1 YPL228W P1433	549	UP000002311: Chromosome XVI
+YPL231W	P19097	FAS2_YEAST	reviewed	Fatty acid synthase subunit alpha (EC 2.3.1.86) [Includes: Acyl carrier; 3-oxoacyl-[acyl-carrier-protein] reductase (EC 1.1.1.100) (Beta-ketoacyl reductase); 3-oxoacyl-[acyl-carrier-protein] synthase (EC 2.3.1.41) (Beta-ketoacyl synthase)]	FAS2 YPL231W P1409	1887	UP000002311: Chromosome XVI
+YPL232W	P32867	SSO1_YEAST	reviewed	Protein SSO1	SSO1 YPL232W P1405	290	UP000002311: Chromosome XVI
+YPL235W	Q12464	RUVB2_YEAST	reviewed	RuvB-like protein 2 (RUVBL2) (EC 3.6.4.12) (TIP49-homology protein 2) (TIP49b homolog)	RVB2 TIH2 TIP49B YPL235W P1060	471	UP000002311: Chromosome XVI
+YPL237W	P09064	IF2B_YEAST	reviewed	Eukaryotic translation initiation factor 2 subunit beta (eIF-2-beta)	SUI3 TIF212 YPL237W	285	UP000002311: Chromosome XVI
+YPL240C	P02829	HSP82_YEAST	reviewed	ATP-dependent molecular chaperone HSP82 (82 kDa heat shock protein) (Heat shock protein Hsp90 heat-inducible isoform)	HSP82 HSP90 YPL240C	709	UP000002311: Chromosome XVI
+YPL242C	Q12280	IQG1_YEAST	reviewed	Ras GTPase-activating-like protein IQG1 (Cytokinesis protein 1) (IQGAP-related protein 1)	IQG1 CYK1 YPL242C	1495	UP000002311: Chromosome XVI
+YPL248C	P04386	GAL4_YEAST	reviewed	Regulatory protein GAL4	GAL4 YPL248C	881	UP000002311: Chromosome XVI
+YPL249C	Q12344	GYP5_YEAST	reviewed	GTPase-activating protein GYP5	GYP5 YPL249C	894	UP000002311: Chromosome XVI
+YPL253C	Q12045	VIK1_YEAST	reviewed	Spindle pole body-associated protein VIK1 (Vegetative interaction with KAR3 protein 1)	VIK1 YPL253C	647	UP000002311: Chromosome XVI
+YPL255W	Q12365	BBP1_YEAST	reviewed	Spindle pole component BBP1 (BFR1-binding protein 1)	BBP1 YPL255W P0745	385	UP000002311: Chromosome XVI
+YPL256C	P20438	CG12_YEAST	reviewed	G1/S-specific cyclin CLN2	CLN2 YPL256C	545	UP000002311: Chromosome XVI
+YPL259C	Q00776	AP1M1_YEAST	reviewed	AP-1 complex subunit mu-1-I (Clathrin assembly protein complex 1 mu-1-I medium chain) (Clathrin coat assembly protein AP54) (Clathrin coat-associated protein AP54) (Golgi adaptor AP-1 54 kDa protein) (HA1 54 kDa subunit) (Mu(1)-adaptin) (Mu1-I-adaptin)	APM1 YAP54 YPL259C P0394	475	UP000002311: Chromosome XVI
+YPR010C	P22138	RPA2_YEAST	reviewed	DNA-directed RNA polymerase I subunit RPA135 (EC 2.7.7.6) (DNA-directed RNA polymerase I 135 kDa polypeptide) (A135) (DNA-directed RNA polymerase I polypeptide 2) (RNA polymerase I subunit 2)	RPA135 RPA2 RRN2 SRP3 YPR010C YP9531.03C	1203	UP000002311: Chromosome XVI
+YPR018W	Q12495	RLF2_YEAST	reviewed	Chromatin assembly factor 1 subunit p90 (CAF-1 90 kDa subunit) (RAP1 localization factor 2)	RLF2 CAC1 YPR018W YP9531.12	606	UP000002311: Chromosome XVI
+YPR023C	Q12432	EAF3_YEAST	reviewed	Chromatin modification-related protein EAF3 (ESA1-associated factor 3)	EAF3 YPR023C YP9367.03C	401	UP000002311: Chromosome XVI
+YPR025C	P37366	CCL1_YEAST	reviewed	Cyclin CCL1	CCL1 YPR025C YP9367.05C	393	UP000002311: Chromosome XVI
+YPR029C	Q12028	AP1G1_YEAST	reviewed	AP-1 complex subunit gamma-1 (Clathrin assembly protein complex 1 gamma large chain) (Clathrin assembly protein large gamma chain) (Gamma-adaptin)	APL4 YPR029C	832	UP000002311: Chromosome XVI
+YPR032W	Q12038	SRO7_YEAST	reviewed	Lethal(2) giant larvae protein homolog SRO7 (Polarity protein SRO7) (Sodium protection protein 1) (Suppressor of RHO3 protein 7)	SRO7 SNI1 SOP1 YPR032W YP9367.12	1033	UP000002311: Chromosome XVI
+YPR036W	P41807	VATH_YEAST	reviewed	V-type proton ATPase subunit H (V-ATPase subunit H) (V-ATPase 54 kDa subunit) (Vacuolar proton pump subunit H)	VMA13 CLS11 YPR036W YP3085.02	478	UP000002311: Chromosome XVI
+YPR041W	P38431	IF5_YEAST	reviewed	Eukaryotic translation initiation factor 5 (eIF-5)	TIF5 YPR041W YP3085.05	405	UP000002311: Chromosome XVI
+YPR046W	Q12262	CENPH_YEAST	reviewed	Inner kinetochore subunit MCM16 (CENP-H homolog) (Constitutive centromere-associated network protein MCM16) (Minichromosome maintenance protein 16)	MCM16 YPR046W	181	UP000002311: Chromosome XVI
+YPR047W	P08425	SYFM_YEAST	reviewed	Phenylalanine--tRNA ligase, mitochondrial (EC 6.1.1.20) (Phenylalanyl-tRNA synthetase) (PheRS)	MSF1 YPR047W YP9499.05	469	UP000002311: Chromosome XVI
+YPR049C	Q12527	ATG11_YEAST	reviewed	Autophagy-related protein 11 (Cytoplasm to vacuole targeting protein 9)	ATG11 CVT9 YPR049C YP9499.07c	1178	UP000002311: Chromosome XVI
+YBR118W,YPR080W	P02994	EF1A_YEAST	reviewed	Elongation factor 1-alpha (EF-1-alpha) (Eukaryotic elongation factor 1A) (eEF1A) (Translation elongation factor 1A)	TEF1 YPR080W P9513.7; TEF2 YBR118W YBR0913	458	UP000002311: Chromosome II, UP000002311: Chromosome XVI
+YPR086W	P29055	TF2B_YEAST	reviewed	Transcription initiation factor IIB (General transcription factor TFIIB) (Transcription factor E)	SUA7 YPR086W P9513.4	345	UP000002311: Chromosome XVI
+YPR091C	Q06833	NVJ2_YEAST	reviewed	Nucleus-vacuole junction protein 2	NVJ2 YPR091C	770	UP000002311: Chromosome XVI
+YPR101W	Q06091	SN309_YEAST	reviewed	Pre-mRNA-splicing factor SNT309 (PRP19-associated complex protein 25) (Synergistic to PRP19 mutation protein 309)	SNT309 NTC25 YPR101W	175	UP000002311: Chromosome XVI
+YPR103W	P30656	PSB5_YEAST	reviewed	Proteasome subunit beta type-5 (EC 3.4.25.1) (Macropain subunit PRE2) (Multicatalytic endopeptidase complex subunit PRE2) (Proteasome component PRE2) (Proteinase YSCE subunit PRE2)	PRE2 DOA3 PRG1 YPR103W P8283.10	287	UP000002311: Chromosome XVI
+YPR105C	Q06096	COG4_YEAST	reviewed	Conserved oligomeric Golgi complex subunit 4 (COG complex subunit 4) (Complexed with DOR1 protein 1) (Component of oligomeric Golgi complex 4) (Protein SEC38)	COG4 COD1 SEC38 SGF1 YPR105C P8283.16	861	UP000002311: Chromosome XVI
+YPR107C	Q06102	YTH1_YEAST	reviewed	mRNA 3'-end-processing protein YTH1 (Yeast 30 kDa homolog 1)	YTH1 YPR107C	208	UP000002311: Chromosome XVI
+YPR110C	P07703	RPAC1_YEAST	reviewed	DNA-directed RNA polymerases I and III subunit RPAC1 (RNA polymerases I and III subunit AC1) (C37) (DNA-directed RNA polymerases I and III 40 kDa polypeptide) (AC40) (C40)	RPC40 RPC5 YPR110C P8283.18	335	UP000002311: Chromosome XVI
+YPR119W	P24869	CG22_YEAST	reviewed	G2/mitotic-specific cyclin-2	CLB2 YPR119W P9642.6	491	UP000002311: Chromosome XVI
+YPR120C	P30283	CGS5_YEAST	reviewed	S-phase entry cyclin-5	CLB5 YPR120C P9642.8	435	UP000002311: Chromosome XVI
+YPR132W	P0CX30	RS23B_YEAST	reviewed	40S ribosomal protein S23-B (RP37) (S28) (Small ribosomal subunit protein uS12-B) (YS14)	RPS23B RPS28B YPR132W P9659.9	145	UP000002311: Chromosome XVI
+YPR135W	Q01454	CTF4_YEAST	reviewed	DNA polymerase alpha-binding protein (Chromosome replication protein CHL15) (Chromosome transmission fidelity protein 4) (Protein POB1)	CTF4 CHL15 POB1 YPR135W P9659.7	927	UP000002311: Chromosome XVI
+YPR141C	P17119	KAR3_YEAST	reviewed	Kinesin-like protein KAR3 (Nuclear fusion protein)	KAR3 YPR141C P9659.16	729	UP000002311: Chromosome XVI
+YPR154W	Q06449	PIN3_YEAST	reviewed	[PSI+] inducibility protein 3 (LAS seventeen-binding protein 2) (LAS17-binding protein 2)	PIN3 LSB2 YPR154W	215	UP000002311: Chromosome XVI
+YPR159W	P32486	KRE6_YEAST	reviewed	Beta-glucan synthesis-associated protein KRE6 (Killer toxin-resistance protein 6)	KRE6 CWH48 YPR159W	720	UP000002311: Chromosome XVI
+YPR161C	P23293	BUR1_YEAST	reviewed	Serine/threonine-protein kinase BUR1 (EC 2.7.11.22) (EC 2.7.11.23) (Bypass UAS requirement protein 1) (Suppressor of GPA1-Vall50 mutation protein 1)	SGV1 BUR1 YPR161C P9584.8	657	UP000002311: Chromosome XVI
+YPR165W	P06780	RHO1_YEAST	reviewed	GTP-binding protein RHO1 (Rho-type GTPase 1)	RHO1 YPR165W P9325.3	209	UP000002311: Chromosome XVI
+YPR171W	Q06604	BSP1_YEAST	reviewed	Protein BSP1 (Binding of synaptojanin polyphosphoinositide phosphatase domain protein 1)	BSP1 YPR171W	576	UP000002311: Chromosome XVI
+YPR173C	P52917	VPS4_YEAST	reviewed	Vacuolar protein sorting-associated protein 4 (DOA4-independent degradation protein 6) (Protein END13) (Vacuolar protein-targeting protein 10)	VPS4 CSC1 DID6 END13 GRD13 VPL4 VPT10 YPR173C P9705.10	437	UP000002311: Chromosome XVI
+YPR175W	P24482	DPB2_YEAST	reviewed	DNA polymerase epsilon subunit B (DNA polymerase II subunit 2)	DPB2 YPR175W P9705.7	689	UP000002311: Chromosome XVI
+YPR176C	P20133	PGTB2_YEAST	reviewed	Geranylgeranyl transferase type-2 subunit beta (EC 2.5.1.60) (Geranylgeranyl transferase type II subunit beta) (GGTase-II-beta) (Type II protein geranyl-geranyltransferase subunit beta) (PGGT) (YPT1/SEC4 proteins geranylgeranyltransferase subunit beta)	BET2 YPR176C P9705.12	325	UP000002311: Chromosome XVI
+YPR178W	P20053	PRP4_YEAST	reviewed	U4/U6 small nuclear ribonucleoprotein PRP4 (Pre-mRNA-processing protein 4)	PRP4 RNA4 YPR178W P9705.6	465	UP000002311: Chromosome XVI
+YPR180W	Q06624	RHC31_YEAST	reviewed	DNA damage tolerance protein RHC31 (RAD31 homolog)	AOS1 RHC31 YPR180W P9705.5	347	UP000002311: Chromosome XVI
+YPR181C	P15303	SEC23_YEAST	reviewed	Protein transport protein SEC23	SEC23 YPR181C P9705.14	768	UP000002311: Chromosome XVI
+YPR185W	Q06628	ATG13_YEAST	reviewed	Autophagy-related protein 13	ATG13 APG13 YPR185W	738	UP000002311: Chromosome XVI
+YPR187W	P20435	RPAB2_YEAST	reviewed	DNA-directed RNA polymerases I, II, and III subunit RPABC2 (RNA polymerases I, II, and III subunit ABC2) (ABC23) (DNA-directed RNA polymerases I, II, and III 23 kDa polypeptide)	RPO26 RPB6 YPR187W P9677.8	155	UP000002311: Chromosome XVI
+YPR188C	Q06580	MLC2_YEAST	reviewed	Myosin light chain 2 (Calmodulin-like myosin light chain MLC2) (MYO1 light chain 2) (Myosin-1 light chain)	MLC2 YPR188C P9677.10	163	UP000002311: Chromosome XVI
+YPR190C	P32349	RPC3_YEAST	reviewed	DNA-directed RNA polymerase III subunit RPC3 (RNA polymerase III subunit C3) (C82) (DNA-directed III 74 kDa polypeptide) (C74)	RPC82 RPC3 YPR190C P9677.11	654	UP000002311: Chromosome XVI
+YPR191W	P07257	QCR2_YEAST	reviewed	Cytochrome b-c1 complex subunit 2, mitochondrial (Complex III subunit 2) (Core protein II) (Ubiquinol-cytochrome c oxidoreductase core protein 2)	QCR2 COR2 UCR2 YPR191W P9677.6	368	UP000002311: Chromosome XVI
+YPR201W	Q06598	ARR3_YEAST	reviewed	Arsenical-resistance protein 3 (Arsenic compounds resistance protein 3) (As(III)/H(+) and Sb(III)/H(+)antiporter)	ARR3 ACR3 YPR201W P9677.2	404	UP000002311: Chromosome XVI
