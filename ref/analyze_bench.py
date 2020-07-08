@@ -22,6 +22,7 @@ import pdb
 parser = argparse.ArgumentParser(description = '''Visuaize results from model using google mobility data and most of the ICL response team model''')
 
 parser.add_argument('--interacting_pairs', nargs=1, type= str, default=sys.stdin, help = 'Path to interacting pairs.')
+parser.add_argument('--unique_in_paired', nargs=1, type= str, default=sys.stdin, help = 'Path to unique ids in paired alignments.')
 parser.add_argument('--outdir', nargs=1, type= str, default=sys.stdin, help = 'Path to outdir.')
 
 def read_and_format_data(datadir, countries, days_to_simulate, end_date, covariate_names):
@@ -32,4 +33,5 @@ def read_and_format_data(datadir, countries, days_to_simulate, end_date, covaria
 matplotlib.rcParams.update({'font.size': 7})
 args = parser.parse_args()
 interacting_pairs = args.interacting_pairs[0]
+unique_in_paired = args.unique_in_paired[0]
 outdir = args.outdir[0]
