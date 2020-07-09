@@ -62,22 +62,23 @@ def analyze_interacting(interacting_id1, interacting_id2, all_ids_in_interaction
     #Check all true interactions
     true_pairs_in_nf5_1 = []
     true_pairs_in_nf5_2 = []
-    for i in range(10): #len(interacting_id1)):
+    for i in range(len(interacting_id1)):
         id1 = interacting_id1[i]
         id2 = interacting_id2[i]
         #Check if id1 in nf5id_1 and id2 in nf5id_2
         pos1_1 = np.where(nf5_id1==id1)[0]
         pos2_2 = np.where(nf5_id2==id2)[0]
         match = pos1_1[np.isin(pos1_1, pos2_2)]
-        if len(match)>1:
+        if match.shape[0]>0:
             true_pairs_in_nf5_1.append(id1)
             true_pairs_in_nf5_2.append(id2)
+            print(id1,id2)
         else:
             #Check if id1 in nf5id_2 and id2 in nf5id_1
             pos2_1 = np.where(nf5_id2==id1)[0]
             pos1_2 = np.where(nf5_id1==id2)[0]
             match = pos2_1[np.isin(pos2_1, pos1_2)]
-            if len(match)>1:
+            if match.shape[0]>0:
                 true_pairs_in_nf5_2.append(id1)
                 true_pairs_in_nf5_1.append(id2)
 
@@ -86,40 +87,38 @@ def analyze_interacting(interacting_id1, interacting_id2, all_ids_in_interaction
     true_df['id1']=true_pairs_in_nf5_1
     true_df['id2']=true_pairs_in_nf5_2
     true_df.to_csv('bench_pairs_in_nf5.csv')
-
-    #Check all interaction with one id in the true pairs (possible true in bench)
-    fetched_pairs1 = [] #Fetch the pairs that have one of the ids in the true interacting pairs
-    fetched_pairs2 = []
-    num_pairs_per_id = []
-    for id in all_ids_in_interactions:
-        match1 = np.where(nf5_id1==id)[0]
-        match2 = np.where(nf5_id2==id)[0]
-        all_matches = np.concatenate([match1,match2])
-        if (all_matches.shape[0])>0:#If matches are found
-            #Get unique positions of matches
-            unique_match_ids = np.unique(all_matches)
-            fetched_pairs1.extend(nf5_id1[unique_match_ids])
-            fetched_pairs2.extend(nf5_id2[unique_match_ids])
-            #Decrease search space
-            nf5_id1 = np.delete(nf5_id1, unique_match_ids)
-            nf5_id2 = np.delete(nf5_id2, unique_match_ids)
-            #Append len
-            num_pairs_per_id.append(len(unique_match_ids))
-        else:
-            num_pairs_per_id.append(0)
-
-
-    #Create csv
-    pair_df = pd.DataFrame()
-    pair_df['id1']=fetched_pairs1
-    pair_df['id2']=fetched_pairs2
-    pair_df.to_csv('pairs_with_id_in_bench.csv')
+    #
+    # #Check all interaction with one id in the true pairs (possible true in bench)
+    # fetched_pairs1 = [] #Fetch the pairs that have one of the ids in the true interacting pairs
+    # fetched_pairs2 = []
+    # num_pairs_per_id = []
+    # for id in all_ids_in_interactions:
+    #     match1 = np.where(nf5_id1==id)[0]
+    #     match2 = np.where(nf5_id2==id)[0]
+    #     all_matches = np.concatenate([match1,match2])
+    #     if (all_matches.shape[0])>0:#If matches are found
+    #         #Get unique positions of matches
+    #         unique_match_ids = np.unique(all_matches)
+    #         fetched_pairs1.extend(nf5_id1[unique_match_ids])
+    #         fetched_pairs2.extend(nf5_id2[unique_match_ids])
+    #         #Decrease search space
+    #         nf5_id1 = np.delete(nf5_id1, unique_match_ids)
+    #         nf5_id2 = np.delete(nf5_id2, unique_match_ids)
+    #         #Append len
+    #         num_pairs_per_id.append(len(unique_match_ids))
+    #     else:
+    #         num_pairs_per_id.append(0)
+    #
+    #
+    # #Create csv
+    # pair_df = pd.DataFrame()
+    # pair_df['id1']=fetched_pairs1
+    # pair_df['id2']=fetched_pairs2
+    # pair_df.to_csv('pairs_with_id_in_bench.csv')
 
     #Look how many were fetched
     pdb.set_trace()
-    print(len(fetched_pairs_id1))
-    print(len(true_pairs_in_nf5))
-    pdb.set_trace()
+
 
 
 #####MAIN#####
