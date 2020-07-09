@@ -55,8 +55,9 @@ def covert_gene_to_protein_id(interacting_ids,id_conversion):
 def read_interacting(interacting_id1, interacting_id2, all_ids_in_interactions, nf5_pairs):
     '''Read all pairs with n5 above or equal to 5
     '''
-    true_pairs_in_n5 = []
-    fetched_pairs = [] #Fetch the pairs that have one of the ids in the true interacting pairs
+    true_pairs_in_nf5 = []
+    fetched_pairs_id1 = [] #Fetch the pairs that have one of the ids in the true interacting pairs
+    fetched_pairs_id2 = []
     #Convert nf5 pairs to arrays for faster lookup
     nf5_id1 = np.array(nf5_pairs[0])
     nf5_id2 = np.array(nf5_pairs[1])
@@ -66,15 +67,34 @@ def read_interacting(interacting_id1, interacting_id2, all_ids_in_interactions, 
         #Check in nf5id_1
         pos1_1 = np.where(nf5_id1==id1)
         pos1_2 = np.where(nf5_id1==id2)
+        #Get unique in 1
+        pos1_1_2 = np.concatenate([pos1_1,pos1_2],axis=1)[0]
+        pos1_1_2 = np.unique(pos1_1_2)
         #Check in nf5id_2
         pos2_1 = np.where(nf5_id2==id1)
         pos2_2 = np.where(nf5_id2==id2)
+        #Get unique in 2
+        pos2_1_2 = np.concatenate([pos2_1,pos2_2],axis=1)[0]
+        pos2_1_2 = np.unique(pos2_1_2)
 
-        all_matches = np.concatenate([pos1_1[0],pos1_2[0],pos2_1[0],pos2_2[0]])
+        all_matches = np.concatenate([pos1_1_2,pos2_1_2])
         if (all_matches.shape[0])>0:#If matches are found
             #Get unique positions of matches
             unique_match_ids = np.unique(all_matches)
-            pdb.set_trace()
+            fetched_pairs_id1.extend(nf5_id1[unique_match_ids])
+            fetched_pairs_id2.extend(nf5_id2[unique_match_ids])
+
+            #Check if there are positive pairs
+            true_pair_i = pos1_1_2[np.isin(pos1_1_2, pos2_1_2)]
+            if len(true_pair_i)>0:
+                true_pairs_in_nf5.append(true_pair_i[0])
+
+
+    #Look how many were fetched
+    print(len(fetched_pairs_id1))
+    print(len(true_pairs_in_n5))
+    pdb.set_trace()
+
 #####MAIN#####
 #Set font size
 matplotlib.rcParams.update({'font.size': 7})
